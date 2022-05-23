@@ -86,5 +86,5 @@ Prb 4. ![image](https://user-images.githubusercontent.com/70228962/169829663-6d2
 ## Imocha Assessment
 
 - [Question 1 : Array Operations: Maximum Absolute Difference](./Imocha/Question1.md)
-- [Question 2: Array Operations: Mathematical Equations](./)
-- [Question 3: Array Operations: Weird Sum](./)
+- [Question 2: Array Operations: Mathematical Equations](./Imocha/Question2.md)
+- [Question 3: Array Operations: Weird Sum](./Imocha/Question3.md)
