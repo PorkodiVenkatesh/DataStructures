@@ -45,4 +45,4 @@ The value of Y is 6 and the value of N is 5.
 
 Hence, X = 6*5-17 = 13
 
-### click [here](./solutions/Question1.java) to see the solution
+### click [here](./solutions/Question2.java) to see the solution
