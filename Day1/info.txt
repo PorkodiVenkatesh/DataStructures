@@ -1,10 +1,13 @@
 Library, dictionary and closet -> organising is useful -> easier to search
+
 app -> install and uninstall
 main reason to uninstall
 	storage -> space 
 	speed -> time 
 mandatory need to look when we develop an app
 that's why we are learning ds and algo
+
+
 DS
 -> Primitive -> only one value -> integers (byte,short, int, long), decimals (long, float), boolean and char
 -> Non primitive   -> multiple values or collections of values
