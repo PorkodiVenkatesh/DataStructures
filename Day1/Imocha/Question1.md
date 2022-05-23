@@ -38,3 +38,5 @@ The value of X will be (4-2) = 2.
 The value of Y will be (7-1) = 6. 
 
 Hence, the value of x+y will be 2+6 = 8. 
+
+### click [here](./solutions/Question1.java) to see the solution
