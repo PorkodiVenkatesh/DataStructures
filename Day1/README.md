@@ -52,6 +52,26 @@ A data structure is a particular way of organizing data in a computer so that it
 6. Min and max even number in the array
 7. Min and max odd number in the array
 
+## Math Class
+
+- java.lang
+- mathematical operations
+- Input & Output: double
+- Math.PI
+- Math.sqrt(81)
+- Math.pow (2, 3)
+- Math.min(2,3)
+- Math.max(2,3)
+
+# Collections class
+
+- java.util
+- Collections.min(al)
+- Collections.max(al)
+- Collections.sort(al)
+- Collections.sort(al, Collections.reverseOrder())
+- Collections.reverse(al)
+
 ## Find out the Logic and Code 
 
 Prb 1. ![image](https://user-images.githubusercontent.com/70228962/169829305-7d54909b-d94b-417f-8a66-343753f0612a.png)
