@@ -42,7 +42,7 @@ A data structure is a particular way of organizing data in a computer so that it
 - how to get the arraylist values or elemts
 - printing them using for and for each loop
 
-## Problems:
+## Practice Problems:
 
 1. Print all the even numbers in the array
 2. Print all the odd numbers in the array
@@ -54,8 +54,13 @@ A data structure is a particular way of organizing data in a computer so that it
 
 ## Find out the Logic and Code 
 
-1. ![image](https://user-images.githubusercontent.com/70228962/169829305-7d54909b-d94b-417f-8a66-343753f0612a.png)
-2. ![image](https://user-images.githubusercontent.com/70228962/169829454-2310d372-79fd-404b-b38a-51ceaeb33c72.png)
-3. ![image](https://user-images.githubusercontent.com/70228962/169829567-4db19d43-4473-4bbf-8504-6f5fd748e6b3.png)
-4. ![image](https://user-images.githubusercontent.com/70228962/169829663-6d2cc7eb-9ae8-4c68-ada8-ec3d16a9b9ee.png)
+Prb 1. ![image](https://user-images.githubusercontent.com/70228962/169829305-7d54909b-d94b-417f-8a66-343753f0612a.png)
+Prb 2. ![image](https://user-images.githubusercontent.com/70228962/169829454-2310d372-79fd-404b-b38a-51ceaeb33c72.png)
+Prb 3. ![image](https://user-images.githubusercontent.com/70228962/169829567-4db19d43-4473-4bbf-8504-6f5fd748e6b3.png)
+Prb 4. ![image](https://user-images.githubusercontent.com/70228962/169829663-6d2cc7eb-9ae8-4c68-ada8-ec3d16a9b9ee.png)
 
+## Imocha Assessment
+
+- Question 1 : Array Operations: Maximum Absolute Difference
+- Question 2: Array Operations: Mathematical Equations
+- Question 3: Array Operations: Weird Sum
