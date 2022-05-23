@@ -1,4 +1,4 @@
-### Array Operations: Weird Sum
+## Array Operations: Weird Sum
 
 Alex defines the term 'weird-sum'.
 For every element in an array, the 'weird-sum' of that element is calculated as the sum of all other elements in the array, except that element.
