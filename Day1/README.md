@@ -30,6 +30,7 @@ A data structure is a particular way of organizing data in a computer so that it
 - how to declare an array
 - how to get the array values or elemts
 - printing them using for and for each loop
+- Click [here](./ArraysDemo.java) to see the code
 
 ## Arraylist
 - class in the collection framework
@@ -41,6 +42,7 @@ A data structure is a particular way of organizing data in a computer so that it
 - how to declare an arraylist
 - how to get the arraylist values or elemts
 - printing them using for and for each loop
+- Click [here](./ArrayListDemo.java) to see the code
 
 ## Practice Problems:
 
@@ -62,6 +64,7 @@ A data structure is a particular way of organizing data in a computer so that it
 - Math.pow (2, 3)
 - Math.min(2,3)
 - Math.max(2,3)
+- Click [here](./MathClassDemo.java) to see the code
 
 # Collections class
 
@@ -71,6 +74,7 @@ A data structure is a particular way of organizing data in a computer so that it
 - Collections.sort(al)
 - Collections.sort(al, Collections.reverseOrder())
 - Collections.reverse(al)
+- Click [here](./CollectionsClassDemo.java) to see the code
 
 ## Find out the Logic and Code 
 
@@ -81,6 +85,6 @@ Prb 4. ![image](https://user-images.githubusercontent.com/70228962/169829663-6d2
 
 ## Imocha Assessment
 
-- Question 1 : Array Operations: Maximum Absolute Difference
-- Question 2: Array Operations: Mathematical Equations
-- Question 3: Array Operations: Weird Sum
+- [Question 1 : Array Operations: Maximum Absolute Difference](./Imocha/Question1.md)
+- [Question 2: Array Operations: Mathematical Equations](./)
+- [Question 3: Array Operations: Weird Sum](./)
