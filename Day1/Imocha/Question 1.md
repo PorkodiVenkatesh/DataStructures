@@ -7,13 +7,7 @@ X is the maximum absolute difference between two even elements present in the ar
 Y is the maximum absolute difference between two odd elements present in the array. 
 
 ### Note
-It is always guaranteed that at least two odd and two even elements will be present. 
-
-### Function Description
-In the provided code snippet, implement the provided ArrayMaxima() using variables to print the value of X+Y. You can write your code in the space below the phrase “WRITE YOUR LOGIC HERE”. 
-There will be multiple test cases running so the Input and Output should match exactly as provided.
-The base Output variable result is set to a default value of -404 which can be modified.
-Additionally, you can add or remove these output variables. 
+It is always guaranteed that at least two odd and two even elements will be present.  
 
 ### Input Format
 The first line contains an integer N denoting the size of the array A
@@ -40,5 +34,7 @@ The output contains a single integer denoting the value of X+Y.
 
 ### Explanation 
 The value of X will be (4-2) = 2.
+
 The value of Y will be (7-1) = 6. 
+
 Hence, the value of x+y will be 2+6 = 8. 
