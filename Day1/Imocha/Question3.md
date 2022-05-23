@@ -35,20 +35,14 @@ The output contains N lines denoting the weird sum of each element on each line.
 ```
 
 ### Explanation
-The array is [3,4,1,2].
 
-Weird sum [3] = 4+1+2 = 7
-
-Weird sum [4] = 3+1+2 = 6
-
-Weird sum [1] = 3+4+2 = 9
-
+The array is [3,4,1,2]. 
+Weird sum [3] = 4+1+2 = 7 
+Weird sum [4] = 3+1+2 = 6 
+Weird sum [1] = 3+4+2 = 9 
 Weird sum [2] = 3+4+1 = 8 
-
 Similarly, the weird sum of each element is calculated.
-
 Hence the output is:
-
 7
 6
 9
