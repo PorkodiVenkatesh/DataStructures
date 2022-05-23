@@ -59,3 +59,4 @@ Hence the output is:
 
 8
  
+### click [here](./solutions/Question3.java) to see the solution
