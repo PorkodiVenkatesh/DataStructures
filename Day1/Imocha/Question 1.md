@@ -21,6 +21,7 @@ The second line contains N integers denoting the elements of array A.
 ### Sample Input
 
 7
+
 1 3 6 8 2 6 8
 
 ### Constraints
