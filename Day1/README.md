@@ -1,3 +1,5 @@
+
+## Why DataStructure and Algorithms
 Library, dictionary and closet -> organising is useful -> easier to search
 
 app -> install and uninstall
@@ -8,7 +10,7 @@ mandatory need to look when we develop an app
 that's why we are learning ds and algo
 
 
-DS
+## DS - Types
 -> Primitive -> only one value -> integers (byte,short, int, long), decimals (long, float), boolean and char
 -> Non primitive   -> multiple values or collections of values
  -> Linear  -> line -> one after other -> Arrays/ArrayList, stack, queue and linkedlist
@@ -16,7 +18,7 @@ DS
  -> Non Linear -> hiearchical -> trees and graphs
 	 -> Eg: Family tree, Country-States-District tree, folders in computer, dns in internet, google maps
 
-Array
+## Array
 -> Storing only homogenous elmets -> same datatypes
 -> size is fixed
 
@@ -25,7 +27,7 @@ how to declare an array
 how to get the array values or elemts
 printing them using for and for each loop
 
-Arraylist
+## Arraylist
 -> class in the collection framework
 -> java.util
 -> dynamic array
@@ -35,7 +37,7 @@ how to declare an arraylist
 how to get the arraylist values or elemts
 printing them using for and for each loop
 
-Problems:
+## Problems:
 
 1. Print all the even numbers in the array
 2. Print all the odd numbers in the array
