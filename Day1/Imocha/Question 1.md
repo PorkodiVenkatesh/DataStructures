@@ -3,6 +3,7 @@
 You are given an array A of integers. You have to find the value of X+Y, where:  
 
 X is the maximum absolute difference between two even elements present in the array, and
+
 Y is the maximum absolute difference between two odd elements present in the array. 
 
 ### Note
@@ -16,6 +17,7 @@ Additionally, you can add or remove these output variables.
 
 ### Input Format
 The first line contains an integer N denoting the size of the array A
+
 The second line contains N integers denoting the elements of array A.
 
 ### Sample Input
@@ -26,6 +28,7 @@ The second line contains N integers denoting the elements of array A.
 
 ### Constraints
 4<= N<=100000 
+
 0<=A[i]<=500 
 
 ### Output Format
