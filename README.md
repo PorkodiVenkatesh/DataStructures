@@ -1,6 +1,6 @@
-# DataStructures
+# Data Structures Training Notes
 
-### Day 1 (5/23)
+## Day 1 (5/23)
 
 - Why DSA
 - What is DS
