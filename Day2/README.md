@@ -51,6 +51,16 @@
 
 ## Demo codes
 -  ListADT (Arraylist Methods)
+     - al.add(elmt)
+     - al.add(index, elmt)
+     - al.isEmpty()
+     - al.size()
+     - al.remove(index)
+     - al.contains(elmt)
+     - al.indexOf(elmt)
+     - al.lastIndexOf(elmt)
+     - printing using for loop
+     - prinint using for each loop
 - Array 2d
 - ArrayList 2d 
 
