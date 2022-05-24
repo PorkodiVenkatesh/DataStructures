@@ -49,7 +49,7 @@
 - just define what are the operation i can perform on a ds not how its done
 - commonly used ADT -  list Adt, stack Adt, queue Adt
 
-### Demo codes
+## Demo codes
 -  ListADT (Arraylist Methods)
 - Array 2d
 - ArrayList 2d 
