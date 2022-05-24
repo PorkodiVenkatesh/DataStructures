@@ -17,10 +17,14 @@
 ### queues
  - one after the other
  - Principle: First In First Out (FIFO) (LILO)
- - Representation   -> 2 ends -> i can insert/ join a line at the back
-                               -> once i got served/ i can come out of the line at the front
+ - Representation  - 2 ends 
+       - i can insert/ join a line at the back
+       - once i got served/ i can come out of the line at the front 
+                               
         -------------------
-back                         front
+        
+back                                front 
+
         --------------------
 
 ### Linked list
