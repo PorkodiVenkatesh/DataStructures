@@ -27,7 +27,7 @@ public class LeftShiftArray {
 			System.out.println(al.get(i));
 		}
 		
-		System.out.println("Printing first " + k + " elements" );
+		System.out.println("Printing elements after "  +  k  + "  left shifts");
 		for (int i =k; i < n ; i++) {
 			System.out.println(al.get(i));
 		}
