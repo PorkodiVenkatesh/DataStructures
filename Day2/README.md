@@ -50,9 +50,9 @@
 - commonly used ADT -  list Adt, stack Adt, queue Adt
 
 ### Demo codes
-- Arraylist Methods
+-  ListADT (Arraylist Methods)
 - Array 2d
-- Arraylist 2d 
+- ArrayList 2d 
 
 ## Problems
 
