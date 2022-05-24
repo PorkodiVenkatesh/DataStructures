@@ -9,10 +9,9 @@
  - One above the other
  - Principle: Last In First Out (LIFO) (FILO)
  - Representation:  only one end to insert and delete
- 
- |        |
 
- |........|
+![image](https://user-images.githubusercontent.com/70228962/169972551-275dee6a-05f8-40d1-9695-1c0b51b8f6ed.png)
+
 
 ### queues
  - one after the other
@@ -20,13 +19,10 @@
  - Representation  - 2 ends 
        - i can insert/ join a line at the back
        - once i got served/ i can come out of the line at the front 
-                               
-        -------------------
-        
-back                                front 
-
-        --------------------
-
+            
+![image](https://user-images.githubusercontent.com/70228962/169972630-a2000c96-1c28-43d0-906d-7ad30b28b0ce.png)
+          
+ 
 ### Linked list
  - nodes linked to each other
  - one node has an reference for the other node
