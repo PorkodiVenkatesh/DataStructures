@@ -9,7 +9,9 @@
  - One above the other
  - Principle: Last In First Out (LIFO) (FILO)
  - Representation:  only one end to insert and delete
+ 
  |        |
+
  |........|
 
 ### queues
