@@ -62,3 +62,11 @@
 4. Square it
 5. OddFirst Even Next
 6. EvenFirst Odd Next   
+7. Right Shift for K times
+8. Left Shift for K times
+9. Printing the Duplicate Elements in an array
+10. Printing the left diagonal elements in a 2d array
+11. Printing the right diagonal elements in a 2d array
+12. Printing the edge elements in a 2d array
+13. Printing the multiple of 3 in a 2d array
+
