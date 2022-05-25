@@ -35,18 +35,21 @@
 - For example, consider the array [1, 2, 3, 4], 
       - They are (1), (2), (3), (4), (1,2), (1,3),(1,4), (2,3), (2,4), (3,4), (1,2,3), (1,2,4), (1,3,4), (2,3,4), (1,2,3,4). 
       - There are 15 sub-sequences
-- More generally, we can say that for a sequence of size n, we can have (2n-1) non-empty sub-sequences in total. 
+- More generally, we can say that for a sequence of size n, we can have ((2 powerof(n))-1) non-empty sub-sequences in total. 
 
-## Linked List 
+## Linked List Vs Array Vs ArrayList
 
 Firstly, let’s define an array. An array is a collection of homogenous values. It has a fixed size which is defined upon initialization. Also, the values are stored in continuous memory locations. Based on these properties, can you see any disadvantages of arrays? 
 
 One of the disadvantages of arrays is that memory could be wasted. As a programmer, you do not always know how much memory to allocate. For example, you are building an application that will ask users for inputs which will then be stored in an array. Since you do not know how many inputs the user will make, you initialize an array with one million indexes as you presume that one million inputs will be sufficient for any user. What if the user only inputs a hundred thousand elements into the array? Then, 90% of the allocated space is wasted. 
 
-For instance, if we want to insert an element into the front or middle of the array, the first step is to ensure that there is space in the array for the new element, otherwise, the array needs to be resized. The next step is to open space for the new element by shifting every element after the desired index. Likewise, for deletion, shifting is required after removing an element.  Insertion and deletion are slow in arrays. 
+That's why go for ArrayList. Its is dynamic in size
 
+For instance, if we want to insert an element into the front or middle of the arraylist, the first step is we need to check if any element present on the given position. The next step is to open space for the new element by shifting every element after the desired index. Likewise, for deletion, shifting is required after removing an element.  Insertion and deletion are slow in arrays. 
 
-That is when a Linked List comes into the picture. A linked list is another approach to collecting similar data. Unlike an array, elements in a linked list are not in consecutive memory locations. A linked list is a collection of connected nodes. A node consists of data and the address of the next node.  
+Shifiting takes time... 
+
+That is when a Linked List comes into the picture. A linked list is another approach to collecting similar data. Unlike an arraylist, elements in a linked list are not in consecutive memory locations. A linked list is a collection of connected nodes. A node consists of data and the address of the next node.  
 
 In linked Lists, insertion and deletion is faster, because only the address needs to be updated accordingly. 
 
@@ -58,9 +61,9 @@ Linked lists can be used for large lists of data where the size is not sure or c
 
 ### Real world Applications: 
 
-- Image viewer – Previous and next images are linked, hence can be accessed by next and previous button. 
-- Previous and next page in web browser – We can access previous and next URL searched in web browser by pressing back and next button since, they are linked as linked list. 
-- Music Player – Songs in the music player are linked to the previous and next songs. You can play songs either from the start or end of the list. 
+- **Image viewer** – Previous and next images are linked, hence can be accessed by next and previous button. 
+- **Previous and next page in web browser** – We can access previous and next URL searched in web browser by pressing back and next button since, they are linked as linked list. 
+- **Music Player** – Songs in the music player are linked to the previous and next songs. You can play songs either from the start or end of the list. 
 
 ## Types of Linked List 
 
@@ -73,8 +76,8 @@ Linked lists can be used for large lists of data where the size is not sure or c
 
 Each node of the singly linked list contains a data field and an address field that contains the reference of the next node. 
 
-We start from the first node, so we store the address of the first node in the HEAD.  
-
 The nodes are connected to each other in the format below where the value of the next variable of the last node is NULL i.e., next = NULL, which indicates the end of the linked list. 
+
+
 
   
