@@ -1,16 +1,80 @@
 ## Day 3
 
-- Sub arrays
-- Linked List vs Array List
-- What is LL and node
-- LL types
-  - Singly
-  - doubly
-  - Circular-Singly
-  - Circular-doubly
-- Linked list in collection
-- Linkedlist vs Arraylist
-- when to use linked list
-- 2d arrays adjancent elements
-- if possible patterns questions
+### Sub arrays
+
+-   section or part of array
+-  An array that is inside another array. 
+-  For example, consider the array [1, 2, 3, 4], 
+    - The subarrays are (1), (2), (3), (4), (1,2), (2,3), (3,4), (1,2,3), (2,3,4) and (1,2,3,4).
+    - There are 10 non-empty sub-arrays. 
+- In general, for an array/string of size n, there are n*(n+1)/2 non-empty subarrays.
+- Code:
+```java
+ // Prints all subarrays in arr[0..n-1]
+    static void subArray( int n)
+    {
+        // Pick starting point
+        for (int i=0; i <n; i++)
+        {
+            // Pick ending point
+            for (int j=i; j<n; j++)
+            {
+                // Print subarray between current starting
+                // and ending points
+                for (int k=i; k<=j; k++)
+                    System.out.print(arr[k]+" ");
+            }
+            System.out.println();
+        }
+    }
+```
+
+### Subsequence
+
+- Subsequences are not required to occupy consecutive positions within the original sequences. 
+- For example, consider the array [1, 2, 3, 4], 
+      - They are (1), (2), (3), (4), (1,2), (1,3),(1,4), (2,3), (2,4), (3,4), (1,2,3), (1,2,4), (1,3,4), (2,3,4), (1,2,3,4). 
+      - There are 15 sub-sequences
+- More generally, we can say that for a sequence of size n, we can have (2n-1) non-empty sub-sequences in total. 
+
+## Linked List 
+
+Firstly, let’s define an array. An array is a collection of homogenous values. It has a fixed size which is defined upon initialization. Also, the values are stored in continuous memory locations. Based on these properties, can you see any disadvantages of arrays? 
+
+One of the disadvantages of arrays is that memory could be wasted. As a programmer, you do not always know how much memory to allocate. For example, you are building an application that will ask users for inputs which will then be stored in an array. Since you do not know how many inputs the user will make, you initialize an array with one million indexes as you presume that one million inputs will be sufficient for any user. What if the user only inputs a hundred thousand elements into the array? Then, 90% of the allocated space is wasted. 
+
+For instance, if we want to insert an element into the front or middle of the array, the first step is to ensure that there is space in the array for the new element, otherwise, the array needs to be resized. The next step is to open space for the new element by shifting every element after the desired index. Likewise, for deletion, shifting is required after removing an element.  Insertion and deletion are slow in arrays. 
+
+
+That is when a Linked List comes into the picture. A linked list is another approach to collecting similar data. Unlike an array, elements in a linked list are not in consecutive memory locations. A linked list is a collection of connected nodes. A node consists of data and the address of the next node.  
+
+In linked Lists, insertion and deletion is faster, because only the address needs to be updated accordingly. 
+
+However, unlike arrays which allow random access to the elements contained within them (using index array[5]), a linked list only allows sequential access to its elements. Linked lists also use more storage space in a computer's memory as each node in the list contains both a data item and a reference to the next node. 
+
+We can keep elements present in a Linked List everywhere in the memory storage where the memory is assigned at run time only, unlike the array where the memory is assigned at the compile time. 
+
+Linked lists can be used for large lists of data where the size is not sure or changes over time. Arrays, on the other hand, are better suited to small lists, where the size is known. 
+
+### Real world Applications: 
+
+- Image viewer – Previous and next images are linked, hence can be accessed by next and previous button. 
+- Previous and next page in web browser – We can access previous and next URL searched in web browser by pressing back and next button since, they are linked as linked list. 
+- Music Player – Songs in the music player are linked to the previous and next songs. You can play songs either from the start or end of the list. 
+
+## Types of Linked List 
+
+1. Singly Linked List 
+2. Circular Linked List 
+3. Doubly Linked List 
+4. Circular Doubly List 
+
+### Singly Linked List 
+
+Each node of the singly linked list contains a data field and an address field that contains the reference of the next node. 
+
+We start from the first node, so we store the address of the first node in the HEAD.  
+
+The nodes are connected to each other in the format below where the value of the next variable of the last node is NULL i.e., next = NULL, which indicates the end of the linked list. 
+
   
