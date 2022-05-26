@@ -42,7 +42,7 @@
       - There are 15 sub-sequences
 - More generally, we can say that for a sequence of size n, we can have ((2 powerof(n))-1) non-empty sub-sequences in total. 
 
-# Linked List Vs Array Vs ArrayList
+# Why LinkedList
 
 Firstly, let’s define an array. An array is a collection of homogenous values. It has a fixed size which is defined upon initialization. Also, the values are stored in continuous memory locations. Based on these properties, can you see any disadvantages of arrays? 
 
