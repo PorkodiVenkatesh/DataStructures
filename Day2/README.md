@@ -103,8 +103,19 @@
 
 9. Printing the Duplicate Elements in an array  - Click [here](./DuplicateElements.java) to see the code
 
+![image](https://user-images.githubusercontent.com/70228962/170501116-e05982d7-d64c-404b-ae5a-bdd145a90285.png)
+
 10. Printing the left diagonal elements in a 2d array - Click [here](./LeftDiagonal2DArray.java) to see the code
+
+![image](https://user-images.githubusercontent.com/70228962/170501244-829b3732-6300-4852-a320-4d72eaf6ddd6.png)
+
 11. Printing the right diagonal elements in a 2d array - Click [here](./RightDiagonal2DArray.java) to see the code
+
+![image](https://user-images.githubusercontent.com/70228962/170501301-18d36607-7d0e-4819-891b-fcdeaffbdc5f.png)
+
 12. Printing the edge elements in a 2d array - Click [here](./EdgeValues2DArray.java) to see the code
+
+![image](https://user-images.githubusercontent.com/70228962/170501374-10add579-2e44-431c-aaf8-b2da1a68d9ed.png)
+
 13. Printing the multiple of 3 in a 2d array
 
