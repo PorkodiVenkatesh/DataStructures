@@ -44,6 +44,13 @@
 
 ## Practice Problem
 
-Prb 1:
+- Prb 1: Sum of Arrays
+
 ![WhatsApp Image 2022-05-26 at 4 27 36 PM](https://user-images.githubusercontent.com/70228962/170521734-c18a3aba-f659-4906-a0aa-164db025cd1d.jpeg)
 
+## Imocha Assessment
+
+- [Question 4: Array Operations: Difference between X and Y](./Imocha/Question4.md)
+- [Question 5: Arrays: Contiguous Subarrays](./Imocha/Question5.md)
+- [Question 6: Array Operations: Occurrence of Minimum Element](./Imocha/Question6.md)
+- [Question 7: Array Operations: Magic Array](./Imocha/Question7.md)
