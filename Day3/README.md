@@ -1,9 +1,3 @@
-# Day 3
-
-- Sub arrays
-- LinkedList 
-- HackRank Problem - 1
-
 # Sub arrays
 
 -   section or part of array
