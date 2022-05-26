@@ -1,6 +1,10 @@
 # Day 3
 
-## Sub arrays
+- Sub arrays
+- LinkedList 
+- HackRank Problem - 1
+
+# Sub arrays
 
 -   section or part of array
 -  An array that is inside another array. 
@@ -30,7 +34,7 @@
     }
 ```
 
-## Subsequence
+### Subsequence
 
 - Subsequences are not required to occupy consecutive positions within the original sequences. 
 - For example, consider the array [1, 2, 3, 4], 
@@ -38,7 +42,7 @@
       - There are 15 sub-sequences
 - More generally, we can say that for a sequence of size n, we can have ((2 powerof(n))-1) non-empty sub-sequences in total. 
 
-## Linked List Vs Array Vs ArrayList
+# Linked List Vs Array Vs ArrayList
 
 Firstly, let’s define an array. An array is a collection of homogenous values. It has a fixed size which is defined upon initialization. Also, the values are stored in continuous memory locations. Based on these properties, can you see any disadvantages of arrays? 
 
@@ -123,7 +127,7 @@ The nodes are connected to each other in the below format where the value of the
 
 ![image](https://user-images.githubusercontent.com/70228962/170504398-0a0bd3c0-ff16-43fd-b1d5-b21dabeab61a.png)
 
-### Circular Doubly Linked List
+## Circular Doubly Linked List
 
 Same as Doubly Linked List, but the last node points to the first head node forming a circle.
 
@@ -137,7 +141,7 @@ The nodes are connected to each other in the below format where
 
 ![image](https://user-images.githubusercontent.com/70228962/170504726-349fc334-a411-426c-ad62-0943a4b10604.png)
 
-## LinkedList in Collection Framework
+# LinkedList in Collection Framework
 
 - LinkedList is a class in the java.util package
 - Internally uses **doubly linked list**
