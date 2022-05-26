@@ -38,4 +38,5 @@ Subarrays of size 3 are {6, 3, 2} and {3, 2, 5} respectively.
 And 6 and 5 are the respective maximum elements of the subarrays.
 
 Hence the output is 6 5.
- 
+
+### Click [here](./solutions/Question5.java) to see the solution
