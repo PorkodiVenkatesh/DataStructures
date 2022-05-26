@@ -8,7 +8,7 @@
     - The subarrays are (1), (2), (3), (4), (1,2), (2,3), (3,4), (1,2,3), (2,3,4) and (1,2,3,4).
     - There are 10 non-empty sub-arrays. 
 - In general, for an array/string of size n, there are n*(n+1)/2 non-empty subarrays.
-- Code: Click [here](./) to see the full code.
+- Code: Click [here](./SubArrayDemo.java) to see the full code.
 ```java
  // Prints all subarrays in arr[0..n-1]
     static void subArray(int arr[])
@@ -144,7 +144,7 @@ The nodes are connected to each other in the below format where
 
 ![image](https://user-images.githubusercontent.com/70228962/170507795-386d2826-5b47-403c-9b57-827bb8c14915.png)
 
-- Click [here](./) to see the code
+- Click [here](./LinkedListDemo.java) to see the code
 
 ## LinkedList VS ArrayList Class in the Collection Framework
 
@@ -152,7 +152,7 @@ The nodes are connected to each other in the below format where
 - ArrayList is slow as array manipulation is slower. LinkedList is faster being node based as not much bit shifting required.
 - ArrayList implements only List. LinkedList implements List as well as Deque. Linked can act as a queue/stacks as well.
 - ArrayList is faster in storing and accessing data. LinkedList is faster in manipulation of data.
-- Click [here](./) to see the code where we have compared the LinkedList and Arraylist
+- Click [here](./LinkedListVsArrayList.java) to see the code where we have compared the LinkedList and Arraylist
         - Finding out which is faster/slower based on the operations like
                 - Insertion at the End
                 - Transerval
@@ -161,5 +161,7 @@ The nodes are connected to each other in the below format where
          - **Conclusion: ArrayList is faster in insertion at the end and transerval. LinkedList is faster in the Insertion and deletion in the middle.**
     
 
+## HackerRank 
 
+Prb 1 - [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem) - Click [here](./HRPrb1.java) to see the solution
 
