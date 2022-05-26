@@ -61,8 +61,11 @@
      - al.lastIndexOf(elmt)
      - printing using for loop
      - prinint using for each loop
+     - Click [here](./ListADTDemo.java) to see the code
 - Array 2d
+     - Click [here](./Arrays2dDemo.java) to see the code
 - ArrayList 2d 
+     - Click [here](./ArrayList2dDemo.java) to see the code
 
 ## Problems
 
@@ -72,11 +75,11 @@
 4. Square it
 5. OddFirst Even Next
 6. EvenFirst Odd Next   
-7. Right Shift for K times
-8. Left Shift for K times
-9. Printing the Duplicate Elements in an array
-10. Printing the left diagonal elements in a 2d array
-11. Printing the right diagonal elements in a 2d array
-12. Printing the edge elements in a 2d array
+7. Right Shift for K times -  Click [here](./RightShiftArray.java) to see the code
+8. Left Shift for K times -  Click [here](./LeftShiftArray.java) to see the code
+9. Printing the Duplicate Elements in an array  - Click [here](./DuplicateElements.java) to see the code
+10. Printing the left diagonal elements in a 2d array - Click [here](./LeftDiagonal2DArray.java) to see the code
+11. Printing the right diagonal elements in a 2d array - Click [here](./RightDiagonal2DArray.java) to see the code
+12. Printing the edge elements in a 2d array - Click [here](./EdgeValues2DArray.java) to see the code
 13. Printing the multiple of 3 in a 2d array
 
