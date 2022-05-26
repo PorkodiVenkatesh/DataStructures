@@ -87,10 +87,21 @@ A data structure is a particular way of organizing data in a computer so that it
 
 ## Find out the Logic and Code 
 
-Prb 1. ![image](https://user-images.githubusercontent.com/70228962/169829305-7d54909b-d94b-417f-8a66-343753f0612a.png)
-Prb 2. ![image](https://user-images.githubusercontent.com/70228962/169829454-2310d372-79fd-404b-b38a-51ceaeb33c72.png)
-Prb 3. ![image](https://user-images.githubusercontent.com/70228962/169829567-4db19d43-4473-4bbf-8504-6f5fd748e6b3.png)
-Prb 4. ![image](https://user-images.githubusercontent.com/70228962/169829663-6d2cc7eb-9ae8-4c68-ada8-ec3d16a9b9ee.png)
+Prb 1.  Click [here](./Prb%201.png) to the screenshot of our class discussion
+
+![image](https://user-images.githubusercontent.com/70228962/169829305-7d54909b-d94b-417f-8a66-343753f0612a.png)
+
+Prb 2. Click [here](./Prb%202.png) to the screenshot of our class discussion
+
+![image](https://user-images.githubusercontent.com/70228962/169829454-2310d372-79fd-404b-b38a-51ceaeb33c72.png)
+
+Prb 3. Click [here](./Prb%203.png) to the screenshot of our class discussion
+
+![image](https://user-images.githubusercontent.com/70228962/169829567-4db19d43-4473-4bbf-8504-6f5fd748e6b3.png)
+
+Prb 4. Click [here](./Prb%204.png) to the screenshot of our class discussion
+
+![image](https://user-images.githubusercontent.com/70228962/169829663-6d2cc7eb-9ae8-4c68-ada8-ec3d16a9b9ee.png)
 
 ## Imocha Assessment
 
