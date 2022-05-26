@@ -29,3 +29,21 @@
 - Pattern 5 -  Click [here](./StarPattern5.java) to see the code
 
 ![image](https://user-images.githubusercontent.com/70228962/170518374-81e07891-a8c5-454b-a66c-238b7202d036.png)
+
+
+## SubArray Problems
+
+- Print the sum of the each subArray -  Click [here](./SubArraySum.java) to see the code
+
+![image](https://user-images.githubusercontent.com/70228962/170520432-bf908019-9b7a-4ef8-ac61-6182331c2742.png)
+
+- **LeetCode Prb 1** : [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) - Click [here](./LCPrb1.java) to see the solution
+- **LeetCode Prb 2** : [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) - Click [here](./LCPrb2.java) to see the solution
+
+*Note - As of now, these solutions will time exceed error, we'll optimize this code when we learn about Dynamic Programming and Recrusion*
+
+## Practice Problem
+
+Prb 1:
+![WhatsApp Image 2022-05-26 at 4 27 36 PM](https://user-images.githubusercontent.com/70228962/170521734-c18a3aba-f659-4906-a0aa-164db025cd1d.jpeg)
+
