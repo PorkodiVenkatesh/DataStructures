@@ -56,3 +56,5 @@ The count of the above subarrays is 8.
 Note: [1,2,1] is not counted as 1 is appearing twice in the array.
 
 Hence, the output is 8. 
+
+### Click [here](./solutions/Question6.java) to see the solution
