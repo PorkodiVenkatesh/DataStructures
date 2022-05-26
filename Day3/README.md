@@ -51,15 +51,21 @@ Shifiting takes time...
 
 That is when a Linked List comes into the picture. A linked list is another approach to collecting similar data. Unlike an arraylist, elements in a linked list are not in consecutive memory locations. A linked list is a collection of connected nodes. A node consists of data and the address of the next node.  
 
-In linked Lists, insertion and deletion is faster, because only the address needs to be updated accordingly. 
-
-However, unlike arrays which allow random access to the elements contained within them (using index array[5]), a linked list only allows sequential access to its elements. Linked lists also use more storage space in a computer's memory as each node in the list contains both a data item and a reference to the next node. 
+In linked Lists, inserting and deleting an element in between is faster, because only the address needs to be updated accordingly. 
 
 We can keep elements present in a Linked List everywhere in the memory storage where the memory is assigned at run time only, unlike the array where the memory is assigned at the compile time. 
 
-Linked lists can be used for large lists of data where the size is not sure or changes over time. Arrays, on the other hand, are better suited to small lists, where the size is known. 
+Linked lists also use more storage space in a computer's memory as each node in the list contains both a data item and a reference to the next node. 
 
-### Real world Applications: 
+### Note
+
+- Arrays suited to small lists, where the size is known. 
+- ArrayList can be used for large lists of data where the size is not sure or changes over time. 
+    - Where insertion at end  and transerval is higher
+- LinkedList also can be used for large lists of data where the size is not sure or changes over time. 
+    - Where insertion and deletion in between is higher
+
+### Real world Applications - Linked List
 
 - **Image viewer** – Previous and next images are linked, hence can be accessed by next and previous button. 
 - **Previous and next page in web browser** – We can access previous and next URL searched in web browser by pressing back and next button since, they are linked as linked list. 
@@ -76,7 +82,20 @@ Linked lists can be used for large lists of data where the size is not sure or c
 
 Each node of the singly linked list contains a data field and an address field that contains the reference of the next node. 
 
+**Structure of Node:**
+
+![image](https://user-images.githubusercontent.com/70228962/170503066-0ea0488d-7125-4b53-8534-35dd7abf7977.png)
+
 The nodes are connected to each other in the format below where the value of the next variable of the last node is NULL i.e., next = NULL, which indicates the end of the linked list. 
+
+![image](https://user-images.githubusercontent.com/70228962/170503202-4fdd3f5a-8a9c-4c92-a710-679ea301fe57.png)
+
+### Doubly Linked List
+
+Each node stores the address of the previous and next node.
+The structure of the node in the Doubly Linked List
+
+![image](https://user-images.githubusercontent.com/70228962/170503377-521523ee-f86d-43a3-8453-7f8275f31947.png)
 
 
 
