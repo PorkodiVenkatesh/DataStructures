@@ -92,11 +92,67 @@ The nodes are connected to each other in the format below where the value of the
 
 ### Doubly Linked List
 
-Each node stores the address of the previous and next node.
-The structure of the node in the Doubly Linked List
-
-![image](https://user-images.githubusercontent.com/70228962/170503377-521523ee-f86d-43a3-8453-7f8275f31947.png)
+Each node of the doubly linked list contains a data field and 2 address field that stores the reference of the previous and next node.
+
+**Structure of the node**
+
+![image](https://user-images.githubusercontent.com/70228962/170503808-2aeda886-a729-4f2a-bacc-419f4092a0a6.png)
+
+The nodes are connected to each other in the below format where 
+    - the value of the next variable of the last node is NULL i.e., next = NULL, which indicates the end of the linked list.
+    - the value of the previous variable of the first node is NULL i.e., prev = NULL, which indicates the first of the linked list
+    
+![image](https://user-images.githubusercontent.com/70228962/170503988-61c240a8-2388-4150-b079-0c2926d46381.png)
+
+### Circular Linked List
+
+Same as Singly Linked List, but the last node points to the first head node forming a circle.
+
+The structure of the node in the Circular Linked List is (same as Singly Linked List)
+
+![image](https://user-images.githubusercontent.com/70228962/170503066-0ea0488d-7125-4b53-8534-35dd7abf7977.png)
+
+The nodes are connected to each other in the below format where the value of the next variable of the last node points the first node (HEAD node) i.e. lastNode.next = HEAD
+
+![image](https://user-images.githubusercontent.com/70228962/170504398-0a0bd3c0-ff16-43fd-b1d5-b21dabeab61a.png)
+
+### Circular Doubly Linked List
+
+Same as Doubly Linked List, but the last node points to the first head node forming a circle.
+
+The structure of the node in the Circular Doubly Linked List (same as Singly Linked List)
+
+![image](https://user-images.githubusercontent.com/70228962/170503808-2aeda886-a729-4f2a-bacc-419f4092a0a6.png)
+
+The nodes are connected to each other in the below format where 
+    - the value of the next variable of the last node points the first node (HEAD node)
+    - the value of the previous variable of the first node points the last node
+
+![image](https://user-images.githubusercontent.com/70228962/170504726-349fc334-a411-426c-ad62-0943a4b10604.png)
+
+## LinkedList in Collection Framework
+
+- LinkedList is a class in the java.util package
+- Internally uses **doubly linked list**
+
+![image](https://user-images.githubusercontent.com/70228962/170505518-a8587bbb-f478-490a-913b-87e2df33ffa6.png)
+
+- Click [here](./) to see the code
+
+## LinkedList VS ArrayList 
+
+- ArrayList internally uses a dynamic array to store its elements. LinkedList uses Doubly Linked List to store its elements.
+- ArrayList is slow as array manipulation is slower. LinkedList is faster being node based as not much bit shifting required.
+- ArrayList implements only List. LinkedList implements List as well as Queue. It can act as a queue/stacks as well.
+- ArrayList is faster in storing and accessing data. LinkedList is faster in manipulation of data.
+- Click [here](./) to see the code where we have compared the linked list and Arraylist
+        - Finding out which is faster/slower based on the operations like
+                - Insertion at the End
+                - Transerval
+                - Insertion in the Middle
+                - Deletion in the Middle
+         - Conclusion: ArrayList is faster in insertion at the end and transerval. LinkedList is faster in the Insertion and deletion in the middle.
+    
 
 
 
-  
