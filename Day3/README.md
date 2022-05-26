@@ -42,7 +42,9 @@ Firstly, let’s define an array. An array is a collection of homogenous values.
 
 One of the disadvantages of arrays is that memory could be wasted. As a programmer, you do not always know how much memory to allocate. For example, you are building an application that will ask users for inputs which will then be stored in an array. Since you do not know how many inputs the user will make, you initialize an array with one million indexes as you presume that one million inputs will be sufficient for any user. What if the user only inputs a hundred thousand elements into the array? Then, 90% of the allocated space is wasted. 
 
-That's why go for ArrayList. Its is dynamic in size
+Here we can go for ArrayList and LinkedList where size is dynamic. 
+
+Remember ArrayList is internally an array, elements are continuous stored in the memory. But, In LinkedList We can keep elements present in everywhere in the memory and elements are connected together. 
 
 For instance, if we want to insert an element into the front or middle of the arraylist, the first step is we need to check if any element present on the given position. The next step is to open space for the new element by shifting every element after the desired index. Likewise, for deletion, shifting is required after removing an element.  Insertion and deletion are slow in arrays. 
 
@@ -58,9 +60,6 @@ In linked Lists, inserting and deleting an element in between is faster, because
 
 ![image](https://user-images.githubusercontent.com/70228962/170507186-4a03db1b-d2b2-49e3-b40d-d9d2fed63cb8.png)
 
-We can keep elements present in a Linked List everywhere in the memory storage where the memory is assigned at run time only, unlike the array where the memory is assigned at the compile time. 
-
-Linked lists also use more storage space in a computer's memory as each node in the list contains both a data item and a reference to the next node. 
 
 ## When to Choose Arrays, ArrayList and LinkedList
 
