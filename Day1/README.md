@@ -48,11 +48,20 @@ A data structure is a particular way of organizing data in a computer so that it
 
 1. Print all the even numbers in the array
 2. Print all the odd numbers in the array
-3. Print all the numbers in the even indices of the array
-4. Print all the numbers in the  odd indices of the array
+3. Print all the numbers in the even indices (like 0, 2, 4, 6..) of the array 
+4. Print all the numbers in the  odd indices (like 1, 3, 5, 7..) of the array
 5. Min and max number in the array
+
+![image](https://user-images.githubusercontent.com/70228962/170500700-27fe5a1c-91d3-4e85-897b-dd5cd953279a.png)
+
 6. Min and max even number in the array
+
+![image](https://user-images.githubusercontent.com/70228962/170500755-19696857-0a02-428b-8568-3d1966a1bcc2.png)
+
 7. Min and max odd number in the array
+
+![image](https://user-images.githubusercontent.com/70228962/170500803-e08392eb-2d75-4847-96bb-baea005a8f77.png)
+
 
 ## Math Class
 
