@@ -74,3 +74,5 @@ Hence the output is
 0
 0
 ```
+
+### Click [here](./solutions/Question7.java) to see the solution
