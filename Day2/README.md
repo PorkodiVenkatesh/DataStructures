@@ -86,10 +86,23 @@
 ![image](https://user-images.githubusercontent.com/70228962/170482390-454b42b3-56bf-4edb-a6a5-cf2bf81c2db7.png)
 
 5. OddFirst Even Next
+
+![image](https://user-images.githubusercontent.com/70228962/170500154-d4937c44-ae97-4b9d-8d6a-879f33a19bcf.png)
+
 6. EvenFirst Odd Next   
+
+![image](https://user-images.githubusercontent.com/70228962/170500222-484d1d87-800d-40d9-b933-ad98f5f67eeb.png)
+
 7. Right Shift for K times -  Click [here](./RightShiftArray.java) to see the code
+
+![image](https://user-images.githubusercontent.com/70228962/170500453-0681d1fb-be2b-4a65-92cc-8931988c9101.png)
+
 8. Left Shift for K times -  Click [here](./LeftShiftArray.java) to see the code
+
+![image](https://user-images.githubusercontent.com/70228962/170500404-d1fcbad6-a20a-4fa3-98cf-f52f05f13dfc.png)
+
 9. Printing the Duplicate Elements in an array  - Click [here](./DuplicateElements.java) to see the code
+
 10. Printing the left diagonal elements in a 2d array - Click [here](./LeftDiagonal2DArray.java) to see the code
 11. Printing the right diagonal elements in a 2d array - Click [here](./RightDiagonal2DArray.java) to see the code
 12. Printing the edge elements in a 2d array - Click [here](./EdgeValues2DArray.java) to see the code
