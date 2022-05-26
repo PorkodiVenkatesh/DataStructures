@@ -119,3 +119,5 @@
 
 13. Printing the multiple of 3 in a 2d array
 
+![image](https://user-images.githubusercontent.com/70228962/170501832-25404848-1755-4208-8d76-011b3e7382fc.png)
+
