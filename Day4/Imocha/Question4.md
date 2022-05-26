@@ -39,3 +39,5 @@ Print the required integer in a single line.
 The 1st greatest element in the array is 3 and the 3rd greatest element in the array is 1. 
 
 Hence, their difference is 3 - 1 = 2. 
+
+### Click [here](./solutions/Question4.java) to see the solution
