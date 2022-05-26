@@ -1,6 +1,7 @@
 ## Day2
 
 - Examples of Linear and Non linear data structure
+   - Click [here](./DataStructuresPPT.pdf) to see the PPT
 - Arrays -> Same types + size is fixed
 - Arrays 2d -> which has rows and cols 
 - ArrayList -> size is not fixed
