@@ -1,6 +1,6 @@
-## Day 3
+# Day 3
 
-### Sub arrays
+## Sub arrays
 
 -   section or part of array
 -  An array that is inside another array. 
@@ -30,7 +30,7 @@
     }
 ```
 
-### Subsequence
+## Subsequence
 
 - Subsequences are not required to occupy consecutive positions within the original sequences. 
 - For example, consider the array [1, 2, 3, 4], 
@@ -48,17 +48,23 @@ That's why go for ArrayList. Its is dynamic in size
 
 For instance, if we want to insert an element into the front or middle of the arraylist, the first step is we need to check if any element present on the given position. The next step is to open space for the new element by shifting every element after the desired index. Likewise, for deletion, shifting is required after removing an element.  Insertion and deletion are slow in arrays. 
 
+![image](https://user-images.githubusercontent.com/70228962/170506973-dcf23db5-1431-4164-baeb-d2b3582fc29f.png)
+
 Shifiting takes time... 
 
 That is when a Linked List comes into the picture. A linked list is another approach to collecting similar data. Unlike an arraylist, elements in a linked list are not in consecutive memory locations. A linked list is a collection of connected nodes. A node consists of data and the address of the next node.  
 
+![image](https://user-images.githubusercontent.com/70228962/170507040-2994bde0-5752-4c7f-abca-575bd9d23c2a.png)
+
 In linked Lists, inserting and deleting an element in between is faster, because only the address needs to be updated accordingly. 
+
+![image](https://user-images.githubusercontent.com/70228962/170507186-4a03db1b-d2b2-49e3-b40d-d9d2fed63cb8.png)
 
 We can keep elements present in a Linked List everywhere in the memory storage where the memory is assigned at run time only, unlike the array where the memory is assigned at the compile time. 
 
 Linked lists also use more storage space in a computer's memory as each node in the list contains both a data item and a reference to the next node. 
 
-### Note
+## When to Choose Arrays, ArrayList and LinkedList
 
 - Arrays suited to small lists, where the size is known. 
 - ArrayList can be used for large lists of data where the size is not sure or changes over time. 
@@ -66,20 +72,20 @@ Linked lists also use more storage space in a computer's memory as each node in 
 - LinkedList also can be used for large lists of data where the size is not sure or changes over time. 
     - Where insertion and deletion in between is higher
 
-### Real world Applications - Linked List
+## Real world Applications - Linked List
 
 - **Image viewer** – Previous and next images are linked, hence can be accessed by next and previous button. 
 - **Previous and next page in web browser** – We can access previous and next URL searched in web browser by pressing back and next button since, they are linked as linked list. 
 - **Music Player** – Songs in the music player are linked to the previous and next songs. You can play songs either from the start or end of the list. 
 
-## Types of Linked List 
+# Types of Linked List 
 
 1. Singly Linked List 
 2. Circular Linked List 
 3. Doubly Linked List 
 4. Circular Doubly List 
 
-### Singly Linked List 
+## Singly Linked List 
 
 Each node of the singly linked list contains a data field and an address field that contains the reference of the next node. 
 
@@ -91,7 +97,7 @@ The nodes are connected to each other in the format below where the value of the
 
 ![image](https://user-images.githubusercontent.com/70228962/170503202-4fdd3f5a-8a9c-4c92-a710-679ea301fe57.png)
 
-### Doubly Linked List
+## Doubly Linked List
 
 Each node of the doubly linked list contains a data field and 2 address field that stores the reference of the previous and next node.
 
@@ -105,7 +111,7 @@ The nodes are connected to each other in the below format where
     
 ![image](https://user-images.githubusercontent.com/70228962/170503988-61c240a8-2388-4150-b079-0c2926d46381.png)
 
-### Circular Linked List
+## Circular Linked List
 
 Same as Singly Linked List, but the last node points to the first head node forming a circle.
 
@@ -136,23 +142,23 @@ The nodes are connected to each other in the below format where
 - LinkedList is a class in the java.util package
 - Internally uses **doubly linked list**
 
-![image](https://user-images.githubusercontent.com/70228962/170505518-a8587bbb-f478-490a-913b-87e2df33ffa6.png)
+![image](https://user-images.githubusercontent.com/70228962/170507795-386d2826-5b47-403c-9b57-827bb8c14915.png)
 
 - Click [here](./) to see the code
 
-## LinkedList VS ArrayList 
+## LinkedList VS ArrayList Class in the Collection Framework
 
 - ArrayList internally uses a dynamic array to store its elements. LinkedList uses Doubly Linked List to store its elements.
 - ArrayList is slow as array manipulation is slower. LinkedList is faster being node based as not much bit shifting required.
-- ArrayList implements only List. LinkedList implements List as well as Queue. It can act as a queue/stacks as well.
+- ArrayList implements only List. LinkedList implements List as well as Deque. Linked can act as a queue/stacks as well.
 - ArrayList is faster in storing and accessing data. LinkedList is faster in manipulation of data.
-- Click [here](./) to see the code where we have compared the linked list and Arraylist
+- Click [here](./) to see the code where we have compared the LinkedList and Arraylist
         - Finding out which is faster/slower based on the operations like
                 - Insertion at the End
                 - Transerval
                 - Insertion in the Middle
                 - Deletion in the Middle
-         - Conclusion: ArrayList is faster in insertion at the end and transerval. LinkedList is faster in the Insertion and deletion in the middle.
+         - **Conclusion: ArrayList is faster in insertion at the end and transerval. LinkedList is faster in the Insertion and deletion in the middle.**
     
 
 
