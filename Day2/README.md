@@ -69,10 +69,22 @@
 
 ## Problems
 
-1. Arrayelemts - index
+1. Arrayelemts - index 
+
+![image](https://user-images.githubusercontent.com/70228962/170444513-5fdfe2c2-43fa-45e8-bebf-68d6fb051ab1.png)
+
 2. Arrayelemts - min
+
+![image](https://user-images.githubusercontent.com/70228962/170482227-e8bb5e7c-1b46-4f4d-83c0-b3b0163111be.png)
+
 3. Max - Arrayelemts
+
+![image](https://user-images.githubusercontent.com/70228962/170482308-1aa549c7-08db-43a8-8e21-dde81f34e75c.png)
+
 4. Square it
+
+![image](https://user-images.githubusercontent.com/70228962/170482390-454b42b3-56bf-4edb-a6a5-cf2bf81c2db7.png)
+
 5. OddFirst Even Next
 6. EvenFirst Odd Next   
 7. Right Shift for K times -  Click [here](./RightShiftArray.java) to see the code
