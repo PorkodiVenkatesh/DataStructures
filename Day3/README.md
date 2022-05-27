@@ -20,10 +20,11 @@
             {
                 // Print subarray between current starting
                 // and ending points
-                for (int k=i; k<=j; k++)
-                    System.out.print(arr[k]+" ");
+                for (int k=i; k<=j; k++){
+                    System.out.print(arr[k]+" ");}
+                 System.out.println();
             }
-            System.out.println();
+           
         }
     }
 ```
