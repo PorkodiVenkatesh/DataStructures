@@ -40,7 +40,7 @@
 - **LeetCode Prb 1** : [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) - Click [here](./LCPrb1.java) to see the solution
 - **LeetCode Prb 2** : [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) - Click [here](./LCPrb2.java) to see the solution
 
-*Note - As of now, these solutions will time exceed error, we'll optimize this code when we learn about Dynamic Programming and Recrusion*
+*Note - As of now, these solutions will result in time exceed error, we'll optimize this code when we learn about Dynamic Programming and Recrusion*
 
 ## Practice Problem
 
