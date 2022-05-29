@@ -107,26 +107,26 @@
 
 # String Problems
 
-### 1. String Diagonal Printing
+## 1. String Diagonal Printing
 
 ![image](https://user-images.githubusercontent.com/70228962/170875891-b8e8aa4a-06cf-4931-b738-cd0932e4a2e0.png)
 
 
 - Click [here](./StringsDiagonalPriniting.java) to see the solution
 
-### 2. RemovingVowelsInString
+## 2. RemovingVowelsInString
 
 ![image](https://user-images.githubusercontent.com/70228962/170875484-60e3d6fb-ad74-425b-b83c-5e0fdd78969b.png)
 
 - Click [here](./RemovingVowelsInString.java) to see the solution
 
-### 3. UpperCase to LowerCase and Viceversa
+## 3. UpperCase to LowerCase and Viceversa
 
 ![image](https://user-images.githubusercontent.com/70228962/170875554-cd373876-de8e-4246-81b5-66341c692997.png)
 
 - Click [here](./LcaseTOUcaseAndViceversa.java) to see the solutions
 
-### 4. IsValidPassword
+## 4. IsValidPassword
 
 - Get an Input String.Check whether the input String has atleast one Lowercase, Uppercase, Digit, and Special characters.If it has, print its a valid password or print its not a valid password.
 
@@ -134,7 +134,7 @@
 
 - Click [here](./isValidPassword.java) to see the solution
 
-### 5. Count AtoZ's in String
+## 5. Count AtoZ's in String
 
 ![image](https://user-images.githubusercontent.com/70228962/170875766-aa6fc36f-aa3b-4c73-aa0d-e988591874b5.png)
 
