@@ -109,7 +109,31 @@
 
 1. **String Diagonal Printing**
 	- Print the input string in the format below (For example, input - Porkodi) 
-	![image](https://user-images.githubusercontent.com/70228962/170875351-fe77f388-4ffc-4b6c-89a0-2be4958e7b73.png)
+
+![image](https://user-images.githubusercontent.com/70228962/170875351-fe77f388-4ffc-4b6c-89a0-2be4958e7b73.png)
 
 	- Click [here](./StringsDiagonalPriniting.java) to see the solution
-2. 
+
+2. **RemovingVowelsInString**
+
+![image](https://user-images.githubusercontent.com/70228962/170875484-60e3d6fb-ad74-425b-b83c-5e0fdd78969b.png)
+
+	- Click [here](./RemovingVowelsInString.java) to see the solution
+
+3. **UpperCase to LowerCase and Viceversa**
+
+![image](https://user-images.githubusercontent.com/70228962/170875554-cd373876-de8e-4246-81b5-66341c692997.png)
+
+	- Click [here](./LcaseTOUcaseAndViceversa.java) to see the solutions
+
+4. **IsValidPassword**
+	- Get an Input String
+	- Check whether the input String has atleast one Lowercase, Uppercase, Digit, and Special characters.
+	- If it has, print its a valid password or print its not a valid password.
+	- Click [here](./isValidPassword.java) to see the solution
+
+5. **Count AtoZ's in String**
+
+![image](https://user-images.githubusercontent.com/70228962/170875766-aa6fc36f-aa3b-4c73-aa0d-e988591874b5.png)
+
+	- Click [here](./CountAtoZInString.java) to see the solution
