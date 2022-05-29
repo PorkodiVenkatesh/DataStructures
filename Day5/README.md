@@ -128,10 +128,11 @@
 
 ### 4. IsValidPassword
 
-	- Get an Input String
-	- Check whether the input String has atleast one Lowercase, Uppercase, Digit, and Special characters.
-	- If it has, print its a valid password or print its not a valid password.
-	- Click [here](./isValidPassword.java) to see the solution
+- Get an Input String.Check whether the input String has atleast one Lowercase, Uppercase, Digit, and Special characters.If it has, print its a valid password or print its not a valid password.
+
+![image](https://user-images.githubusercontent.com/70228962/170876012-72508d87-cae5-4b13-bdc8-f9ebfb8b1f58.png)
+
+- Click [here](./isValidPassword.java) to see the solution
 
 ### 5. Count AtoZ's in String
 
