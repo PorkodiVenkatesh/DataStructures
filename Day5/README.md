@@ -104,3 +104,12 @@
 		System.out.println(alfromhs); // Output: [11, 12, 13, 14, 12]
 ```
 > Click [here](./ListVSSetDemo.java) to see the full code.
+
+# String Problems
+
+1. **String Diagonal Printing**
+	- Print the input string in the format below (For example, input - Porkodi) 
+	![image](https://user-images.githubusercontent.com/70228962/170875351-fe77f388-4ffc-4b6c-89a0-2be4958e7b73.png)
+
+	- Click [here](./StringsDiagonalPriniting.java) to see the solution
+2. 
