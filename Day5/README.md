@@ -19,6 +19,10 @@
    - **HashSet** -> no duplicates, not maintain insertion order, does not guarantee any order of its elements 
    - **LinkedHashSet** -> no duplicates, maintains insertion order
    - **TreeSet** -> no duplicaties, guarantee sorted order
+
+![image](https://user-images.githubusercontent.com/70228962/170874135-d34c38f9-dc3b-4768-8469-7a7f7b7a31ee.png)
+
+- Code - Click [here](./SetDemo.java) to see the full code 
 ```java
       //creating a HashSet
 		HashSet<Integer> hs = new HashSet<>();
@@ -51,3 +55,52 @@
 		System.out.println(ts); //Output - [11, 12, 13, 14]
   ```  
  > **Note: A HashSet does not guarantee any order of its elements. If you need this guarantee, consider using a TreeSet to hold your elements.**
+ 
+ ## List Vs Set
+ 
+ -  List allows duplicate elements where as Set doesn’t allow duplicate elements.
+ -  In List, I can access the element using their index. Whereas, In Set, I'm not allowed to access the element using the index.
+ 	- That is, I can do list.get(0), I can't do this with set -  hs.get(i) -> this result error (not possible)
+ 	- **Note:** we have used the forEach loop to access each element of the set. 
+ - In List, multiple null elements can be stored, where as in  set, only one null element can be stored
+ - List implementations are ArrayList, LinkedList, Vector, Stack. Set implementations are HashSet, LinkedHashSet and TreeSet.
+ - **Converting a List to the Set**
+ ```java
+		 //creating arraylist		
+		ArrayList<Integer>  al = new ArrayList<>();
+		al.add(12);
+		al.add(11);
+		al.add(13);
+		al.add(12); //2nd time adding 12
+		al.add(14);
+		al.add(14);	//2nd time adding 14
+		System.out.println(al); //Output - [12, 11, 13, 12, 14, 14]
+		
+		//converting arraylist to hashset
+		HashSet<Integer> hsfromal = new HashSet<>(al); 
+			// we need pass arraylist object in the HashSet constructor
+	
+		System.out.println(hsfromal); //Output - [11, 12, 13, 14]
+```
+ - **Converting a Set to the List**
+ ```java
+ 		// creating a HashSet
+		HashSet<Integer> hs = new HashSet<>();
+
+		hs.add(12);
+		hs.add(11);
+		hs.add(13);
+		hs.add(12); // 2nd time adding 12
+		hs.add(14);
+		hs.add(14); // 2nd time adding 14
+
+		System.out.println(hs);
+
+		// converting hashSet to the arrayList
+		ArrayList<Integer> alfromhs = new ArrayList<>(hs);
+		System.out.println(alfromhs); // Output: [11, 12, 13, 14]
+		// adding some values to the converted list
+		alfromhs.add(12);
+		System.out.println(alfromhs); // Output: [11, 12, 13, 14, 12]
+```
+> Click [here](./ListVSSetDemo.java) to see the full code.
