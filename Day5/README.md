@@ -108,9 +108,9 @@
 # String Problems
 
 ### 1. String Diagonal Printing
-- Print the input string in the format below (For example, input - Porkodi) 
 
-![image](https://user-images.githubusercontent.com/70228962/170875351-fe77f388-4ffc-4b6c-89a0-2be4958e7b73.png)
+![image](https://user-images.githubusercontent.com/70228962/170875891-b8e8aa4a-06cf-4931-b738-cd0932e4a2e0.png)
+
 
 - Click [here](./StringsDiagonalPriniting.java) to see the solution
 
