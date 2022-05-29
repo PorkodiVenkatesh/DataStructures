@@ -15,10 +15,10 @@
 - Set is an interface extends the collection interface (Part of the collection framework)
 - It allows us to only store the unique values
 - It doesn't maintain the insertion order
-- 3 classes that implements Set Interface
-   - HashSet -> no duplicates, not maintain insertion order 
-   - LinkedHashSet -> no duplicates, maintains insertion order
-   - TreeSet -> no duplicaties, sorted order
+- **3 classes that implements Set Interface**
+   - **HashSet** -> no duplicates, not maintain insertion order, does not guarantee any order of its elements 
+   - **LinkedHashSet** -> no duplicates, maintains insertion order
+   - **TreeSet** -> no duplicaties, guarantee sorted order
 ```java
       //creating a HashSet
 		HashSet<Integer> hs = new HashSet<>();
@@ -27,25 +27,27 @@
 		hs.add(13);
 		hs.add(12); //2nd time adding 12
 		hs.add(14);
-		hs.add(14);	//2nd time adding 14
+		hs.add(14); //2nd time adding 14
 		System.out.println(hs); //Output - [11, 12, 13, 14]
       
+      //creating a LinkedHashSet
       LinkedHashSet<Integer> lhs = new LinkedHashSet<>();
 		lhs.add(12);
 		lhs.add(11);
 		lhs.add(13);
 		lhs.add(12); //2nd time adding 12
 		lhs.add(14);
-		lhs.add(14);	//2nd time adding 14
+		lhs.add(14); //2nd time adding 14
 		System.out.println(lhs); //Output - [12, 11, 13, 14]
       
+      //creating a TreeSet
       TreeSet<Integer> ts = new TreeSet<>();
 		ts.add(12);
 		ts.add(11);
 		ts.add(13);
 		ts.add(12); //2nd time adding 12
 		ts.add(14);
-		ts.add(14);	//2nd time adding 14
+		ts.add(14); //2nd time adding 14
 		System.out.println(ts); //Output - [11, 12, 13, 14]
   ```  
  > **Note: A HashSet does not guarantee any order of its elements. If you need this guarantee, consider using a TreeSet to hold your elements.**
