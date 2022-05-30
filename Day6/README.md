@@ -14,8 +14,9 @@ String -> s and the reverse of String s -> rev_s
 - If the string (s) and the reverse of string (rev_s) are same, then the string is a palindrome
 - Eg: s = mam , rev_s = mam, s and rev_s are same, "mam" is palindrome
 - Eg: s = hello, rev_s =olleh,  s and rev_s are not same, "hello" is not a palindrome
+- Click [here](Palindrome.java) to see the code for palindrome
 
-## Anagramsn
+## Anagrams
 
 String -> s1 and another String s2 
 - If the a string (s2) can be derived/formed from the another string (s1), then s1 and s2 are anagrams
@@ -24,3 +25,5 @@ String -> s1 and another String s2
   - s1 and s2 are anagrams
 - Eg: s1 = a gentleman and s2 = elegant man
   - s1 and s2 are anagrams
+- Click [here](./Anagrams.java) to see the code for Anagrams
+
