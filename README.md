@@ -61,14 +61,14 @@
 
 - Arrays Class
 - String Methods
-- String Bulider and Buffer Methods
+- StringBuilder/StringBuffer Methods
 - Palindrome and anagrams
 - Character Class Methods
 - Stack
 - HackerRank Problems - 3
 - LeetCode Problems -3
 - Code Chef Problems - 1
-- Geeks for Geeks -3
+- Geeks for Geeks Problems -3
 - Click [here](./Day6/README.md) to see the content
 
 ### Click [here](./InftQProblems/README.md) to see InftQ Problems
