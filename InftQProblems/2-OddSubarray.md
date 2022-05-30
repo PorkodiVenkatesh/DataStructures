@@ -36,6 +36,7 @@ Print the number of distinct subarrays for every testcase in a new line.
 4
 
 **Explanation** 
+
 Total subarrays are [1], [1, 2], [1, 2, 3], [2], [2, 3], [3]
 
 In this there is four subarrays which sum is odd i.e: [1],[1,2] ,[2,3],[3].
