@@ -1,4 +1,4 @@
-## Nearest Greatest Palindrome
+## Nearest Greater Palindrome
 
 Write a program which can accepts a number and return the nearest greater palindrome number.
 
