@@ -27,3 +27,15 @@ String -> s1 and another String s2
   - s1 and s2 are anagrams
 - Click [here](./Anagrams.java) to see the code for Anagrams
 
+## Arrays Class
+
+- Helper Class
+- In java.util package
+- Allows to manipulate arrays
+- Arrays.toString(array)
+- Arrays.sort(array)
+- Arrays.binarySearch(array, key)
+- Click [here](./ArraysClassDemo.java) to see the code
+
+
+
