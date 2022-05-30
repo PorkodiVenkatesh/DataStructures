@@ -1,7 +1,5 @@
 # Data Structures Training Notes
 
-**Click [here](./InftQProblems/README.md) to see InftQ Problems**
-
 ## Day 1 (5/23)
 
 - Why DSA
@@ -72,4 +70,8 @@
 - Code Chef Problems - 1
 - Geeks for Geeks -3
 - Click [here](./Day6/README.md) to see the content
+
+### Click [here](./InftQProblems/README.md) to see InftQ Problems
+
+
 
