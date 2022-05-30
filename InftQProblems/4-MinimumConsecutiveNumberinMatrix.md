@@ -80,4 +80,4 @@ hence output will be -1.
 
 10
 
-### Click here to see [Solution](./Solutions/MinimumConsecutiveNumberinMatrix.java)
+### Click here to see the [Solution](./Solutions/MinimumConsecutiveNumberinMatrix.java)
