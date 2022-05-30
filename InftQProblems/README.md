@@ -12,3 +12,4 @@
 10. [Nearest Greatest Palindrome](./InftQPrb10.md)
 11. [Sum of Factors](./InftQPrb11.md)
 12. [Word Manipulation](./InftQPrb12.md)
+13. [Maximum subarray](./InftQPrb13.md)
