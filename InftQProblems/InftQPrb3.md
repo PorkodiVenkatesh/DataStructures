@@ -47,4 +47,4 @@ So after taking distinct digits 1, 2, 3, 4, 8, 9 from input string.
 
 So largest possible even number using these digits will be 984312.
 
-### Click here to see [Solution](./Solutions/LargestEvenNumber.java)
+
