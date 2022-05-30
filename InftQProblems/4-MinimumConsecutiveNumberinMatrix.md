@@ -13,7 +13,7 @@ Note : If no consecutive number found in the given matrix then print -1.
 First line will be given values of m and n.(m rows and n columns)
 Next m lines will be given with n integers in each lines.
 
-Output Format : Print the minimum value according to given condition above.
+**Output Format :** Print the minimum value according to given condition above.
 
 ### Test Case 1
 
@@ -39,7 +39,7 @@ Output Format : Print the minimum value according to given condition above.
 
 **Explanation**
 
-There is minimum 3 consecutive 1 at row number 6th and 1 is minimum in the given matrix.
+There is minimum 3 consecutive 1's at row number 6th and 1 is minimum in the given matrix.
 hence output will be -1.
 
 ### Test case 2 
