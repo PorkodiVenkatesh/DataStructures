@@ -9,18 +9,21 @@ Perform these two Cases on input list.
 
 After that print sum of num1 and num2. For better understanding refer to the Input and Output sections.
 
-**Constraints**
+### Constraints
 
 5 <= N <= 1000
 
-**Input Format :**
+### Input Format :
+
 First line will be given an Integer N which will denote number of integers in the list.
 
 Second line you will get N integers be Integers separated with commas.
 
-**Output Format :** Print Output in a single line according to given rules above.
+### Output Format :
 
-### Test Case 1
+Print Output in a single line according to given rules above.
+
+## Test Case 1
 
 **Input :**
 
@@ -40,7 +43,7 @@ Adding num1 and num2 will be our final output.
 
 so num1 + num2 = 20 + 5148 = 5168.
 
-### Test Case 2
+## Test Case 2
 
 **Input :**
 
