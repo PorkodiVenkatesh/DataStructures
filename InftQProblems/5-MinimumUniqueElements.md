@@ -45,7 +45,7 @@ So 2 unique elements are in the array will be left i.e 3 and 4.
 
 hence output will be 2.
 
-##Test Case 2
+## Test Case 2
 
 **Input**
 
