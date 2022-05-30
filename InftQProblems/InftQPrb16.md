@@ -7,5 +7,6 @@ If more than one sub string is found with max length the we have to print one wh
 If no substring is present which matches the condition then we have to print -1;
 
 ### Example
-**input:** A@bcd1abx
-**Output:** A@bcd1
+
+- **input:** A@bcd1abx
+- **Output:** A@bcd1
