@@ -31,7 +31,9 @@ Print Output in a single line according to given rules above.
 
 3,2,6,5,1,4,8,9
 
-**Output :** 5168
+**Output :** 
+
+5168
 
 **Explanation 1**
 
@@ -51,7 +53,9 @@ so num1 + num2 = 20 + 5148 = 5168.
 
 3,4,5,10,20,8,9,7,45,66
 
-**Output :** 510342
+**Output :** 
+
+510342
 
 **Explanation 2**
 
