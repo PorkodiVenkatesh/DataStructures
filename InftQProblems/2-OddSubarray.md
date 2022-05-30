@@ -32,6 +32,7 @@ Print the number of distinct subarrays for every testcase in a new line.
 1 2 3
 
 **Output :** 
+
 4
 
 **Explanation** 
