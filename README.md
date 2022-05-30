@@ -1,5 +1,7 @@
 # Data Structures Training Notes
 
+**Click [here](./InftQProblems/README.md) to see InftQ Problems**
+
 ## Day 1 (5/23)
 
 - Why DSA
