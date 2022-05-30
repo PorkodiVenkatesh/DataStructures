@@ -12,7 +12,7 @@
 - Practice Problems - 7
 - Find out the logic and code - 4
 - Imocha assessment questions - 3
-- Click [here](./Day1) to see the content
+- Click [here](./Day1/README.md) to see the content
 
 ## Day 2 (5/24)
 
@@ -24,7 +24,8 @@
 - Abstract Data Tyes
 - ArrayList Methods (Basic Operations on ListADT)
 - Practice Problem - 13
-- Click [here](./Day2) to see the content
+- Click [here](./Day2/README.md) to see the content
+  - Note: You can find DataStructures PPT here 
 
 ## Day 3 (5/25)
 
@@ -36,7 +37,7 @@
 - LinkedList in Collection Framework
 - LinkedList VS ArrayList Class in the Collection Framework
 - HackerRank Problems - 1
-- Click [here](./Day3) to see the content
+- Click [here](./Day3/README.md) to see the content
 
 ## Day 4 (5/26)
 
@@ -45,7 +46,7 @@
 - SubArray Problems - 3 (2 Leet Codes)
 - Practice Problems - 1
 - Imocha assessment questions - 4
-- Click [here](./Day4) to see the content
+- Click [here](./Day4/README.md) to see the content
 
 ## Day 5 (5/27)
 
@@ -54,7 +55,7 @@
 - Set
 - List Vs Set
 - String Problems - 5
-- Click [here](./Day5) to see the content
+- Click [here](./Day5/README.md) to see the content
 
 ## Day 6 (5/30)
 
@@ -68,5 +69,5 @@
 - LeetCode Problems -3
 - Code Chef Problems - 1
 - Geeks for Geeks -3
-- Click [here](./Day6) to see the content
+- Click [here](./Day6/README.md) to see the content
 
