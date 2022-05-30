@@ -25,7 +25,7 @@ You are provided with a string of numbers, check whether it is a palindrome or n
 
 3
 
-**Explanation : **
+**Explanation :**
 
 
 Given string is 145, it is not a palindrome. Reversing and adding, 145+541 = 686, Hence it is a palindrome.
