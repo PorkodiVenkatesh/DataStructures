@@ -100,8 +100,21 @@ String -> s1 and another String s2
 ## HackerRank Problems
 
 - Prb10: [Alternating Character](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) - Click [here](./HRPrb10.java) to see the solution
+- Prb11: [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) - Click [here](./HRPrb11.java) to see the solution
+- Prb12: [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - Note: similar to the leetcode prb 6
 
 ## Leet Code Problems
 
 - Prb4: [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) - Click [here](./LCPrb4.java) to see the solution
 - Prb5: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Click [here](./LCPrb5.java) to see the solution
+- Prb6: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - Click [here](./LCPrb6.java) to see the solution
+
+## CodeChef Problems
+
+- Prb1: [The Block Game](https://www.codechef.com/submit-v2/PALL01) - Click [here](./CCPrb1.java) to see the solution
+
+## Geeks for Geeks Problem (Home work Problems)
+
+- Prb1: [Missing number in array ](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/?page=1&curated%5b%5d=8&sortBy=submissions)
+- Prb2: [Missing number in array ](https://practice.geeksforgeeks.org/problems/divisible-by-73224/1/?page=1&curated%5b%5d=3&sortBy=submissions)
+- Prb3: [Rotate by 90 degree ](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1/?page=1&curated%5b%5d=8&sortBy=submissions)
