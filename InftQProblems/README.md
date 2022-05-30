@@ -13,3 +13,4 @@
 11. [Sum of Factors](./InftQPrb11.md)
 12. [Word Manipulation](./InftQPrb12.md)
 13. [Maximum subarray](./InftQPrb13.md)
+14. [Pronic number](./InftQPrb14.md)
