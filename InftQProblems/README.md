@@ -11,3 +11,4 @@
 9. [Longest Prefix and Suffix](./InftQPrb9.md)
 10. [Nearest Greatest Palindrome](./InftQPrb10.md)
 11. [Sum of Factors](./InftQPrb11.md)
+12. [Word Manipulation](./InftQPrb12.md)
