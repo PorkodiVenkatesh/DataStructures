@@ -1,7 +1,7 @@
 ## InftQ problems with solutions 
 
 1. [Add and Concatenate List Values](./1-AddandConcatenateListValues.md)
-2. [OddSubarray](./2-OddSubarray.md)
+2. [Odd Subarray](./2-OddSubarray.md)
 3. [Largest Even Number](./3-LargestEvenNumber.md)
 4. [Minimum Consecutive Number in Matrix](./4-MinimumConsecutiveNumberinMatrix.md)
 5. [Minimum Unique Elements](./5-MinimumUniqueElements.md)
