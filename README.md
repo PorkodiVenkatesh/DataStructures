@@ -25,7 +25,7 @@
 - ArrayList Methods (Basic Operations on ListADT)
 - Practice Problem - 13
 - Click [here](./Day2/README.md) to see the content
-  - Note: You can find DataStructures PPT here 
+  - **Note: You can find DataStructures PPT [here](./Day2/DataStructuresPPT.pdf)** 
 
 ## Day 3 (5/25)
 
