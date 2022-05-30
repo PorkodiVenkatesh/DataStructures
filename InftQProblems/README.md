@@ -20,3 +20,4 @@
 18. [Arithmetic Expression](./InftQPrb18.md)
 19. [Digital OTP](InftQPrb19.md)
 20. [Longest Substring](./InftQPrb20.md)
+21. [Factor Game](./InftQPrb21.md)
