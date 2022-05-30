@@ -14,3 +14,7 @@
 12. [Word Manipulation](./InftQPrb12.md)
 13. [Maximum subarray](./InftQPrb13.md)
 14. [Pronic number](./InftQPrb14.md)
+15. [Longest palindrome](./InftQPrb15.md)
+16. [Unique substring](./InftQPrb16.md)
+17. [Palindrome String](./InftQPrb17.md)
+18. [Arithmetic Expression](./InftQPrb18.md)
