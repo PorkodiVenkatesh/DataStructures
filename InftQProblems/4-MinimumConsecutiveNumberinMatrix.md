@@ -19,14 +19,23 @@ Output Format : Print the minimum value according to given condition above.
 
 **Input :**
 6 7
+
 2 3 4 5 6 2 4
+
 2 3 4 7 6 7 6
+
 2 3 5 5 5 5 2
+
 2 3 1 1 2 1 3
+
 1 1 1 1 9 0 3
+
 2 3 1 1 5 1 2
 
-**Output :** 1
+
+**Output :** 
+
+1
 
 **Explanation**
 
@@ -37,9 +46,13 @@ hence output will be -1.
 
 **Input**
 4 4
+
 0 0 2 1
+
 0 2 1 3
+
 2 1 3 0
+
 1 3 0 0
 
 **Output**
@@ -48,14 +61,22 @@ hence output will be -1.
 ### Test case 3
 **Input**
 6 6 
+
 18 21 11 11 11 13
+
 10 18 22 8 13 15
+
 0 17 18 2 13 17
+
 8 7 10 16 15 16
+
 0 10 1 1 16 15
+
 10 20 19 17 18 16
 
+
 **output**
+
 10
 
 ### Click here to see [Solution](./Solutions/MinimumConsecutiveNumberinMatrix.java)
