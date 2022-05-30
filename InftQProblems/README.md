@@ -18,3 +18,5 @@
 16. [Unique substring](./InftQPrb16.md)
 17. [Palindrome String](./InftQPrb17.md)
 18. [Arithmetic Expression](./InftQPrb18.md)
+19. [Digital OTP](InftQPrb19.md)
+20. [](./InftQPrb20.md)
