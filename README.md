@@ -55,3 +55,18 @@
 - List Vs Set
 - String Problems - 5
 - Click [here](./Day5) to see the content
+
+## Day 6 (5/30)
+
+- Arrays Class
+- String Methods
+- String Bulider and Buffer Methods
+- Palindrome and anagrams
+- Character Class Methods
+- Stack
+- HackerRank Problems - 3
+- LeetCode Problems -3
+- Code Chef Problems - 1
+- Geeks for Geeks -3
+- Click [here](./Day6) to see the content
+
