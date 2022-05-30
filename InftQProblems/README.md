@@ -10,3 +10,4 @@
 8. [Bracket Validator](./8-BracketValidator.md)
 9. [Longest Prefix and Suffix](./9-LongestPrefixandSuffix.md)
 10. [Nearest Greatest Palindrome](./10-NearestGreatestPalindrome.md)
+11. [Sum of Factors](./11-SumOfFactors.md)
