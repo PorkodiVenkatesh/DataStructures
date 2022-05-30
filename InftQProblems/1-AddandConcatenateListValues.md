@@ -15,6 +15,7 @@ After that print sum of num1 and num2. For better understanding refer to the Inp
 
 **Input Format :**
 First line will be given an Integer N which will denote number of integers in the list.
+
 Second line you will get N integers be Integers separated with commas.
 
 **Output Format :** Print Output in a single line according to given rules above.
@@ -32,8 +33,11 @@ Second line you will get N integers be Integers separated with commas.
 **Explanation 1**
 
 num1 : 3+2+6+9 = 20 ( According to Case 1 : adding all numbers which do not lie between 5 and 8 ).
+
 num2 : 5148 ( According to Case 2 : Concatenating all numbers which is lie between 5 and 8, including 5 and 8 ).
+
 Adding num1 and num2 will be our final output.
+
 so num1 + num2 = 20 + 5148 = 5168.
 
 ### Test Case 2
@@ -49,8 +53,11 @@ so num1 + num2 = 20 + 5148 = 5168.
 **Explanation 2**
 
 num1 : 3+4+9+7+45+66 = 134 ( According to Case 1 : adding all numbers which do not lie between 5 and 8 ).
+
 num2 : 510208 ( According to Case 2 : Concatenating all numbers which is lie between 5 and 8, including 5 and 8 ).
+
 Adding num1 and num2 will be our final output.
+
 so num1 + num2 = 134 + 510208 = 510342.
 
 ### Click [here](./Solutions/AddandConcatenateListValues.java) to see solution
