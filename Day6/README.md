@@ -1,32 +1,3 @@
-## HackerRank Problems
-
-- Prb10: [Alternating Character](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) - Click [here](./HRPrb10.java) to see the solution
-
-## Leet Code Problems
-
-- Prb4: [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) - Click [here](./LCPrb4.java) to see the solution
-- Prb5: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Click [here](./LCPrb5.java) to see the solution
-
-
-## Palindrome
-
-String -> s and the reverse of String s -> rev_s
-- If the string (s) and the reverse of string (rev_s) are same, then the string is a palindrome
-- Eg: s = mam , rev_s = mam, s and rev_s are same, "mam" is palindrome
-- Eg: s = hello, rev_s =olleh,  s and rev_s are not same, "hello" is not a palindrome
-- Click [here](Palindrome.java) to see the code for palindrome
-
-## Anagrams
-
-String -> s1 and another String s2 
-- If the a string (s2) can be derived/formed from the another string (s1), then s1 and s2 are anagrams
-- Eg: s1 = signature and s2 = a true sign 
-  - character and  occurence are same. s is appeared once in s1 and it also appeared once in s2.
-  - s1 and s2 are anagrams
-- Eg: s1 = a gentleman and s2 = elegant man
-  - s1 and s2 are anagrams
-- Click [here](./Anagrams.java) to see the code for Anagrams
-
 ## Arrays Class
 
 - Helper Class
@@ -79,6 +50,26 @@ String -> s1 and another String s2
   - sb.delete(1, 5) -> delets the chars start at 1 and ends at (5-1) = 4
   - sb.toString() -> converts stringbulider or string buffer to string.
   - Click [here](./StringBufferDemo) to see the code
+
+## Palindrome
+
+String -> s and the reverse of String s -> rev_s
+- If the string (s) and the reverse of string (rev_s) are same, then the string is a palindrome
+- Eg: s = mam , rev_s = mam, s and rev_s are same, "mam" is palindrome
+- Eg: s = hello, rev_s =olleh,  s and rev_s are not same, "hello" is not a palindrome
+- Click [here](Palindrome.java) to see the code for palindrome
+
+## Anagrams
+
+String -> s1 and another String s2 
+- If the a string (s2) can be derived/formed from the another string (s1), then s1 and s2 are anagrams
+- Eg: s1 = signature and s2 = a true sign 
+  - character and  occurence are same. s is appeared once in s1 and it also appeared once in s2.
+  - s1 and s2 are anagrams
+- Eg: s1 = a gentleman and s2 = elegant man
+  - s1 and s2 are anagrams
+- Click [here](./Anagrams.java) to see the code for Anagrams
+
  
  ## Character Class Methods (used frequently)
  
@@ -94,3 +85,23 @@ String -> s1 and another String s2
 
 # Stack
 
+- LIFO Principle
+- Stack class in Collection framework , in java.util package
+- Operation performed on the stack
+  - **Push** - Inserting an element to the top of the stack
+  - **Pop** - Deleting an element from the top of the stack
+  - **Peek** - Retrieving the element at the top of the stack
+- Methods
+  - stack.push(elmt)
+  - stack.pop()
+  - stack.peek()
+  - Click [here](./StackDemo.java) to see the code  
+
+## HackerRank Problems
+
+- Prb10: [Alternating Character](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) - Click [here](./HRPrb10.java) to see the solution
+
+## Leet Code Problems
+
+- Prb4: [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) - Click [here](./LCPrb4.java) to see the solution
+- Prb5: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Click [here](./LCPrb5.java) to see the solution
