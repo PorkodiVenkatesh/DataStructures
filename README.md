@@ -1,6 +1,9 @@
 # Data Structures Training Notes
 
-- [Day 1 (5/23)]()
+- [Day 1 (5/23)](#day-1-523)
+- [Day 2 (5/24)](#day-2-524)
+- [Day 3 (5/25)](#day-3-525)
+- [Day 4 (5/26)](#day-4-526)
 
 ## Day 1 (5/23)
 
