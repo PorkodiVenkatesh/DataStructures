@@ -6,6 +6,8 @@
   - The process of inserting/adding the element in the queue data structure is called **en-queue**. (en-queue = insert/add) 
   - The process of removing/deleting element from the queue data structure is called **de-queue**. (de-queue = delete/remove)
 
+![image](https://user-images.githubusercontent.com/70228962/171203574-c6541f9a-0dd2-4a39-989a-1bc563cd529f.png)
+
 # Types of Queues
 
 ## 1. Simple Queue
