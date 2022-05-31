@@ -83,7 +83,7 @@ While the deletion is performed in accordance to priority number (the data item 
 
 - Prb2: [Practice Makes Perfect](https://www.codechef.com/submit-v2/PRACTICEPERF) - Click [here](./CCPrb2.java) to see the solution
 - Prb3: [TodoList](https://www.codechef.com/submit-v2/TODOLIST) - Click [here](./CCPrb3.java) to see the solution
-- Prb4: [Testing Robot](https://www.codechef.com/subm) - Click [here](./CCPrb3.java) to see the solution
+- Prb4: [Testing Robot](https://www.codechef.com/submit-v2/TSTROBOT) - Click [here](./CCPrb3.java) to see the solution
 
 ## Geeks for Geeks Problems
 - Prb4: [Valid Ip address](https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1/?page=1&company%5b%5d=Microsoft&category%5b%5d=Strings&sortBy=submissions) -  Click [here](./GFGPrb4.java) to see the solution
