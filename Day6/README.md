@@ -118,5 +118,5 @@ String -> s1 and another String s2
 ## Geeks for Geeks Problem (Home work Problems)
 
 - Prb1: [Missing number in array ](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/?page=1&curated%5b%5d=8&sortBy=submissions)
-- Prb2: [Missing number in array ](https://practice.geeksforgeeks.org/problems/divisible-by-73224/1/?page=1&curated%5b%5d=3&sortBy=submissions)
+- Prb2: [Divisible by 7 ](https://practice.geeksforgeeks.org/problems/divisible-by-73224/1/?page=1&curated%5b%5d=3&sortBy=submissions)
 - Prb3: [Rotate by 90 degree ](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1/?page=1&curated%5b%5d=8&sortBy=submissions)
