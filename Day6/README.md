@@ -34,7 +34,9 @@
     - String spaceSplit[] = st.split(" "); -> splits a string into an array of substrings, based on the charSequence specified in the split Method (here its space)
     - Click [here](./StringMethodsDemo) to see the code
     - See the code [here](./StringToNumbers.java) for converting string to numbers type like Integer, Double, etc
+        - Eg: Integer i = Integer.parseInt("123");
     - See the code [here](./NumbersToString.java) for converting numbers type like Integer, Double, etc to string
+        - Eg: int i = 12345;  String s1 = String.valueOf(i);  or String s2 = i+ "";
 
 ## String Buffer and String Bulider
 
