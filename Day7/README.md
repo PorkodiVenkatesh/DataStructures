@@ -79,6 +79,11 @@ While the deletion is performed in accordance to priority number (the data item 
 - Why? because push, pop and peek method is there in Deque interface. And LinkedList and ArrayDeque implements Deque Interface, also tells what should do whenever I call push(),pop() or peek() methods
 - Click [here](./ActsAsStack.java) to see the code
 
+## HackerRank Problems
+
+- Prb13:[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) - Click [here](./HRPrb13.java) to see the solution
+  - **Note: Solve this problem using ArrayDeque** 
+
 ## Code Chef Problems
 
 - Prb2: [Practice Makes Perfect](https://www.codechef.com/submit-v2/PRACTICEPERF) - Click [here](./CCPrb2.java) to see the solution
