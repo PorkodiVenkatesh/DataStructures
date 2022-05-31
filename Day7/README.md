@@ -1,4 +1,4 @@
-## Queue
+# Queue
 
 - FIFO Principle
 
@@ -9,9 +9,9 @@
   - The process of inserting/adding the element in the queue data structure is called en-queue. (en-queue = insert/add) 
   - The process of removing/deleting element from the queue data structure is called de-queue. (de-queue = delete/remove)
 
-## Types of Queues
+# Types of Queues
 
-### 1. Simple Queue
+## 1. Simple Queue
 
 In Simple Queue
   - Insertion happens at the back/rear/last end of the queue (i.e) en-queue's element at the rear end
@@ -33,7 +33,7 @@ Suppose If I want to enqueue the element 85 to the queue, after that above queue
 
 Enqueue inserts the element 85 at the back.
 
-### 2. Circular Queue
+## 2. Circular Queue
 
 In a circular queue, the last node is connected to the first node making a circular link, looks like below image:
 
@@ -43,7 +43,7 @@ In a circular queue, the last node is connected to the first node making a circu
   - If the last position is full and the first position is empty, we can insert an element in the first position. 
   - This action is not possible in a simple queue.
 
-### 3. Priorty Queue
+## 3. Priorty Queue
 
 Priority queue makes data retrieval possible only through a pre determined priority number assigned to the data items.
 
@@ -53,12 +53,12 @@ While the deletion is performed in accordance to priority number (the data item 
 
 **Applications:**  In CPU Scheduling -> CPU executes the process with has higher priorty first then removes from the waiting queue.
 
-### 4. Double Ended Queue (Deque)
+## 4. Double Ended Queue (Deque)
 
 -  Deque allows to insert and delete the element from both ends (front and rear) of the queue.
 
 ![image](https://user-images.githubusercontent.com/70228962/171202645-ed14d6b6-b719-45a7-a1f7-de11e6d3087f.png)
 
-## ArrayDeque Class in Collection Framework
+# ArrayDeque Class in Collection Framework
 
 
