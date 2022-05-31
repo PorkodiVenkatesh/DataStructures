@@ -78,5 +78,12 @@
 
 ### Click [here](./InftQProblems/README.md) to see InftQ Problems
 
+## Day 7 (5/31)
 
-
+- Queues
+- Types of Queues
+- ArrayDeque Class
+- HackerRank Problems - 1
+- Code Chef Problems - 3
+- Geeks for Geeks Problems - 1
+- Click [here](./Day7/README.md) to see the content
