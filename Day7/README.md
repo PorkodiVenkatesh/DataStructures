@@ -1,6 +1,6 @@
 # Queue
 
-- **FIFO Principle****
+- **FIFO Principle**
 - Queue is a data structure which has these followings characteristics:
   - It has two ends from where we can insert or remove element 
   - The process of inserting/adding the element in the queue data structure is called **en-queue**. (en-queue = insert/add) 
