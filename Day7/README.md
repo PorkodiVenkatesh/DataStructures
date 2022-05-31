@@ -1,13 +1,10 @@
 # Queue
 
-- FIFO Principle
-
-![image](https://user-images.githubusercontent.com/70228962/171196259-ac33b52b-6f72-4ddb-8476-005b86accad1.png)
-
+- **FIFO Principle****
 - Queue is a data structure which has these followings characteristics:
   - It has two ends from where we can insert or remove element 
-  - The process of inserting/adding the element in the queue data structure is called en-queue. (en-queue = insert/add) 
-  - The process of removing/deleting element from the queue data structure is called de-queue. (de-queue = delete/remove)
+  - The process of inserting/adding the element in the queue data structure is called **en-queue**. (en-queue = insert/add) 
+  - The process of removing/deleting element from the queue data structure is called **de-queue**. (de-queue = delete/remove)
 
 # Types of Queues
 
