@@ -81,7 +81,7 @@ While the deletion is performed in accordance to priority number (the data item 
 
 ## HackerRank Problems
 
-- Prb13:[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) - Click [here](./HRPrb13.java) to see the solution
+- Prb13: [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) - Click [here](./HRPrb13.java) to see the solution
   - **Note: Solve this problem using ArrayDeque** 
 
 ## Code Chef Problems
