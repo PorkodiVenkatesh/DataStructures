@@ -60,4 +60,21 @@ While the deletion is performed in accordance to priority number (the data item 
 
 # ArrayDeque Class in Collection Framework
 
+- Internally its a double ended queue
+- Implements the Deque Interface in the collection framework
+- Methods
+  - deque.addFirst()
+  - deque.addLast()
+  - deque.removeFirst()
+  - deque.removeLast()
+  - deque.getFirst()
+  - deque.getLast()
+  - **Note: I can't access any element in the queue using index (i.e.) deque.get(2), deque.get(0) - Not Possible like Set**
+  - Click [here](./ArrayDequeDemo.java) to see the code
 
+### Acting as a Stack
+
+- LinkedList and ArrayDeque can act as stack
+- That is, when i create an object for LinkedList and ArrayDeque class, I can access the stack Methods - push(element), pop(), peek()
+- Why? because push, pop and peek method is there in Deque interface. And LinkedList and ArrayDeque implements Deque Interface, also tells what should do whenever I call push(),pop() or peek() methods
+- Click [here](./ActsAsStack.java) to see the code
