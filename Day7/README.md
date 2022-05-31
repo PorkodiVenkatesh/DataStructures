@@ -86,7 +86,7 @@ While the deletion is performed in accordance to priority number (the data item 
 - Prb4: [Testing Robot](https://www.codechef.com/submit-v2/TSTROBOT) - Click [here](./CCPrb3.java) to see the solution
 
 ## Geeks for Geeks Problems
-- Prb4: [Valid Ip address](https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1/?page=1&company%5b%5d=Microsoft&category%5b%5d=Strings&sortBy=submissions) -  Click [here](./GFGPrb4.java) to see the solution
+- Prb4: [Validate an IP Address](https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1/?page=1&company%5b%5d=Microsoft&category%5b%5d=Strings&sortBy=submissions) -  Click [here](./GFGPrb4.java) to see the solution
 
 
 # Home Work Problems
