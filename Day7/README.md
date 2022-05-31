@@ -78,3 +78,23 @@ While the deletion is performed in accordance to priority number (the data item 
 - That is, when i create an object for LinkedList and ArrayDeque class, I can access the stack Methods - push(element), pop(), peek()
 - Why? because push, pop and peek method is there in Deque interface. And LinkedList and ArrayDeque implements Deque Interface, also tells what should do whenever I call push(),pop() or peek() methods
 - Click [here](./ActsAsStack.java) to see the code
+
+## Code Chef Problems
+
+- Prb2: [Practice Makes Perfect](https://www.codechef.com/submit-v2/PRACTICEPERF) - Click [here](./CCPrb2.java) to see the solution
+- Prb3: [TodoList](https://www.codechef.com/submit-v2/TODOLIST) - Click [here](./CCPrb3.java) to see the solution
+- Prb4: [Testing Robot](https://www.codechef.com/subm) - Click [here](./CCPrb3.java) to see the solution
+
+## Geeks for Geeks Problems
+- Prb4: [Valid Ip address](https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1/?page=1&company%5b%5d=Microsoft&category%5b%5d=Strings&sortBy=submissions) -  Click [here](./GFGPrb4.java) to see the solution
+
+
+# Home Work Problems
+
+1.	[Small factorials - Submit | CodeChef](https://www.codechef.com/submit-v2/FCTRL2)
+2.	[Possible Words From Phone Digits | Practice | GeeksforGeeks](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/?page=2&company%5b%5d=Microsoft&category%5b%5d=Strings&sortBy=submissions)
+3.	[Run Length Encoding | Practice | GeeksforGeeks](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/?page=1&company%5b%5d=Microsoft&category%5b%5d=Strings&sortBy=submissions)
+4.	[Print Anagrams Together | Practice | GeeksforGeeks](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/?page=2&company%5b%5d=Microsoft&category%5b%5d=Strings&sortBy=submissions)
+5.	[Replace the Bit | Practice | GeeksforGeeks](https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1/?page=3&company%5b%5d=Microsoft&category%5b%5d=Strings&sortBy=submissions)
+ 
+> **Folks, give your try for the above problems. We will talk about solution in the next day sesion.**
