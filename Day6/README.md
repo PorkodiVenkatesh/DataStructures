@@ -49,7 +49,7 @@
   - sb.insert(1, '-')
   - sb.delete(1, 5) -> delets the chars start at 1 and ends at (5-1) = 4
   - sb.toString() -> converts stringbulider or string buffer to string.
-  - Click [here](./StringBufferDemo) to see the code
+  - Click [here](./StringBufferDemo.java) to see the code
 
 ## Palindrome
 
