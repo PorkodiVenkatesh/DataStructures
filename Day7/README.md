@@ -26,7 +26,7 @@ If I want to perform dequeue operation, after that above queue looks like:
 
 Dequeue removes the front element - 46 from the queue. 
 
-Suppose If I want to enqueue the element 85 to the queue, after that above queue looks like:
+Suppose If I want to enqueue the element 83 to the queue, after that above queue looks like:
 
 ![image](https://user-images.githubusercontent.com/70228962/171198915-8f81511b-3555-4d2b-96fc-1a35e9cecc0c.png)
 
