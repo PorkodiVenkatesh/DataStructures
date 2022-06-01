@@ -1,15 +1,15 @@
 class Solution{
     int isdivisible7(String num){
-        
-        java.math.BigInteger holder = new java.math.BigInteger(num);
-		java.math.BigInteger seven  = java.math.BigInteger.valueOf(7);
-		java.math.BigInteger rem = holder.mod(seven);
+        java.math.BigInteger bigNum = new java.math.BigInteger(num);	
+		java.math.BigInteger seven = new java.math.BigInteger("7");
+	
 		
-		if(rem == java.math.BigInteger.ZERO)
+		if(bigNum.mod(seven) == java.math.BigInteger.ZERO)
 			return 1;
 		else
 			return 0;
-
+		
+     
         
     }
 }
