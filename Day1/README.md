@@ -27,6 +27,11 @@ A data structure is a particular way of organizing data in a computer so that it
 - We can access the each element in the array using index
 - size is fixed
 
+### When
+
+- there is a problem in which they are asking you to handle collection/group of homogenous elmts
+- and size is known
+
 ### need to Know
 - how to get an size from user 
 - how to declare an array
