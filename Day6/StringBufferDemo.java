@@ -59,7 +59,8 @@ public class StringBufferDemo {
 	   System.out.println(i + " -> " + sb1.charAt(i));
    }
    
-  
+  sb1.setCharAt(0, 'A');
+  System.out.println(sb1);
 	}
 
 }
