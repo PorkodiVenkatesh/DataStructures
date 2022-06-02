@@ -76,8 +76,8 @@ A data structure is a particular way of organizing data in a computer so that it
 - mathematical operations
 - Input & Output: double
 - Math.PI
-- Math.sqrt(81)
-- Math.pow (2, 3)
+- **Math.sqrt(81)**
+- **Math.pow (2, 3)**
 - Math.min(2,3)
 - Math.max(2,3)
 - Click [here](./MathClassDemo.java) to see the code
