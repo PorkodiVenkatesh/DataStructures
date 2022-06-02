@@ -132,7 +132,16 @@ BigInteger minValue = b1.max(b2);
 	- hm.containsKey(keyToCheck) -> return true if keyToCheck is present in the map else false
 	- hm.containsValue(valueToCheck) -> return true if valueToCheck is present in the map else false
 
-# HashMap Practice Problems
+## HashMap Practice Problems
 
-- GeeksForGeeks Prb5: [HashMap Operations](https://practice.geeksforgeeks.org/problems/java-collection-set-3-hashmap/1#) - Click [here](./GFGPrb5.java) to see the solution
 - Program to count how many a's, b's, c's ... z's in the given String using HashMap. Click [here](./CountCharactersInString.java) to see the solution
+
+## Code Chef Problems
+
+- Prb5: [Small factorials](https://www.codechef.com/submit-v2/FCTRL2) - Click [here](./CFGPrb5.java) to see the solution
+
+## Geeks For Geeks Problems
+
+- Prb5: [HashMap Operations](https://practice.geeksforgeeks.org/problems/java-collection-set-3-hashmap/1#) - Click [here](./GFGPrb5.java) to see the solution
+- Prb6: [Run Length Encoding](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/?page=1&company%5b%5d=Microsoft&category%5b%5d=Strings&sortBy=submissions) - Click [here](./GFGPrb6.java) to see the solution
+- Prb7: [Replace the Bit](https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1/?page=3&company%5b%5d=Microsoft&category%5b%5d=Strings&sortBy=submissions) - Click [here](./GFGPrb7.java) to see the solution
