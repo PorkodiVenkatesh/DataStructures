@@ -138,7 +138,7 @@ BigInteger minValue = b1.max(b2);
 
 ## Code Chef Problems
 
-- Prb5: [Small factorials](https://www.codechef.com/submit-v2/FCTRL2) - Click [here](./CFGPrb5.java) to see the solution
+- Prb5: [Small factorials](https://www.codechef.com/submit-v2/FCTRL2) - Click [here](./CCPrb5.java) to see the solution
 
 ## Geeks For Geeks Problems
 
