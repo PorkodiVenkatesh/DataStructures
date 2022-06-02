@@ -25,7 +25,7 @@
 		- can have one null value
 		- It doesn't maintain any order
 	- **LinkedHashSet** 
-		- implements Set Interface
+		- extends HashSet Class 
 		- store unique values
 		- can have one null value
 		- It maintain insertion order
