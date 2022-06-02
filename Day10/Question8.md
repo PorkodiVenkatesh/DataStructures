@@ -16,6 +16,7 @@ The reaction occurs stepwise.
 
 ## Example
 Consider an array denoting matters.
+``` 
     1000
     2213
     (Step 1 - here the adjacent 2 will eliminate each other and make empty space)
@@ -27,6 +28,7 @@ Consider an array denoting matters.
     (Step 2 - due to gravity 1 will come down)
     0000
     1013
+``` 
 
 Hence, the number of elements that remain in the reactor is 3.
 
@@ -51,6 +53,7 @@ The output contains a single integer denoting the number of elements that remain
 2
 ```
 ## Explanation
+``` 
 After Step 1, the adjacent 2 will eliminate each other and the matrix is:
     3 2 1 4
     2 1 0 0
@@ -70,4 +73,5 @@ During Step 6 operation, the particles come down, and the matrix is:
     0 0 0 0
     3 0 0 4 
 After this no further operation takes place.
+``` 
 Hence, the output is 2.
