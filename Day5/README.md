@@ -20,7 +20,7 @@
 
 - **3 classes that implements Set Interface**
    - **HashSet** 
-  	- implements Set Interface
+	- implements Set Interface
   	- store unique values
   	- can have one null value
    	- It doesn't maintain any order
