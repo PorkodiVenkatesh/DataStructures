@@ -28,14 +28,15 @@ BigInteger minValue = b1.max(b2);
 - Click [here](./BigIntegerDemo.java) to see the full code.
 - Here is the code to find a given BigInteger is multiple by 7 or not
 ```java
-  //Taking the BigInteger as Input
+  // Taking the BigInteger as Input
   BigInteger b1 = sc.nextBigInteger();
   
-  //getting rem from  dividing by 7 i.e typical n%7 
-  // Why BigInteger.valueOf(7)? I have to convert Integer 2 to the BigInteger because that's when I can perform operations with BigInteger
+  // getting rem from  dividing by 7 i.e typical n%7 
+  // Why BigInteger.valueOf(7)? I have to convert Integer 2 to the BigInteger 
+  // because that's when I can perform operations with BigInteger
   BigInteger rem = b1.mod(BigInteger.valueOf(7)); 
   
-  //Checking the remainder is 0 or not.. so comparing with BigInteger.ZERO
+  // Checking the remainder is 0 or not.. so comparing with BigInteger.ZERO
   if (rem == BigInteger.ZERO)
     System.out.println("Divisible by 7");
   else
