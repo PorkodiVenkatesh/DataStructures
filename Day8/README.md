@@ -134,4 +134,5 @@ BigInteger minValue = b1.max(b2);
 
 # HashMap Practice Problems
 
-- GFG P
+- GeeksForGeeks Prb5: [HashMap Operations](https://practice.geeksforgeeks.org/problems/java-collection-set-3-hashmap/1#) - Click [here](./GFGPrb5.java) to see the solution
+- Program to count how many a's, b's, c's ... z's in the given String using HashMap. Click [here](./CountCharactersInString.java) to see the solution
