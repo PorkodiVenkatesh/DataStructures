@@ -76,7 +76,7 @@ BigInteger minValue = b1.max(b2);
 
 - Code: Click [here](./MapDemo.java) to see the full code
 ```java
-// Creating HashMap
+		// Creating HashMap
 		HashMap<Integer, String> hm = new HashMap<>();
 		
 		hm.put(2, "Two");
@@ -111,7 +111,7 @@ BigInteger minValue = b1.max(b2);
 		tm.put(1, "One");
 		tm.put(3, "Three");
 		tm.put(4, null); // adding null value
-	//tm.put(null, "some"); // adding null key - will throw NullPointerException
+	//	tm.put(null, "some"); // adding null key - will throw NullPointerException
 		tm.put(1, "ONE"); // adding already added key with new value
 		tm.put(22, "Two"); // adding new key with existing value
 
