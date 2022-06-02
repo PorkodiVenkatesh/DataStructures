@@ -90,3 +90,18 @@
 - Code Chef Problems - 3
 - Geeks for Geeks Problems - 1
 - Click [here](./Day7/README.md) to see the content
+
+## Day 8 (6/1)
+
+- BigInteger
+- Map
+- HashMap
+- Practice Problems - 2 (one is GFG)
+
+## Day 9 (6/2)
+
+- Revision Session 
+- 1 on 1
+
+
+
