@@ -18,7 +18,8 @@
 - Imocha - 7
 - CodeChef - 5
 - GeeksForGeeks - 7
-- InftQ Problems - 21 (To be Solved)
+
+### Click [here](./InftQProblems/README.md) to see InftQ Problems
 
 ## Day 1 (5/23)
 
@@ -90,8 +91,6 @@
 - Code Chef Problems - 1
 - Geeks for Geeks Problems -3
 - Click [here](./Day6/README.md) to see the content
-
-### Click [here](./InftQProblems/README.md) to see InftQ Problems
 
 ## Day 7 (5/31)
 
