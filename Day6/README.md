@@ -50,6 +50,7 @@
   - sb.deleteCharAt(0)
   - sb.insert(1, '-')
   - sb.delete(1, 5) -> delets the chars start at 1 and ends at (5-1) = 4
+  - sb.setCharAt(1, 'A') -> updates the character in the index -1 to 'A'
   - sb.toString() -> converts stringbulider or string buffer to string.
   - Click [here](./StringBufferDemo.java) to see the code
 
