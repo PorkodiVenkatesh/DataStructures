@@ -76,4 +76,4 @@ After this no further operation takes place.
 ``` 
 Hence, the output is 2.
 
-### Click [here](./Question8.java) to see the solution
+### Click [here](./solutions/Question8.java) to see the solution
