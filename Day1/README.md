@@ -84,7 +84,8 @@ A data structure is a particular way of organizing data in a computer so that it
 
 # Collections class
 
-- java.util
+- java.util package
+- it helper class, gives me some methods that I can work with list,set and queue
 - Collections.min(al)
 - Collections.max(al)
 - Collections.sort(al)
