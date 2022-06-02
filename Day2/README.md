@@ -9,7 +9,7 @@
 ### stacks
  - One above the other
  - Principle: Last In First Out (LIFO) (FILO)
- - Representation:  only one end to insert and delete
+ - Representation:  only one end to insert and delete (thats top end)
 
 ![image](https://user-images.githubusercontent.com/70228962/169972551-275dee6a-05f8-40d1-9695-1c0b51b8f6ed.png)
 
