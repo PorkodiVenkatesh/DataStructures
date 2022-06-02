@@ -75,3 +75,5 @@ During Step 6 operation, the particles come down, and the matrix is:
 After this no further operation takes place.
 ``` 
 Hence, the output is 2.
+
+### Click [here](./Question8.java) to see the solution
