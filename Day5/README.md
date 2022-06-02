@@ -83,7 +83,7 @@
  
  -  List allows duplicate elements where as Set doesn’t allow duplicate elements.
  -  In List, I can access the element using their index. Whereas, In Set, I'm not allowed to access the element using the index.
- 	- That is, I can do list.get(0), I can't do this with set -  hs.get(i) -> this result error (not possible)
+ 	- That is, I can do `list.get(0)`, I can't do this with set -  `hs.get(i)` -> this result error (not possible)
  	- **Note:** we have to use the forEach loop to access each element of the set. 
  - In List, multiple null elements can be stored, where as in  set, only one null element can be stored
  - List implementations are ArrayList, LinkedList, Vector, Stack. Set implementations are HashSet, LinkedHashSet and TreeSet.
