@@ -54,6 +54,7 @@
 -  ListADT (Arraylist Methods)
      - al.add(elmt)
      - al.add(index, elmt)
+     - al.get(index)
      - al.isEmpty()
      - al.size()
      - al.remove(index)
