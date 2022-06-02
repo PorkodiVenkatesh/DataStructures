@@ -23,6 +23,8 @@ A data structure is a particular way of organizing data in a computer so that it
 
 ## Array
 - Storing only homogenous elmets -> same datatypes
+- Continous stored in the memory
+- We can access the each element in the array using index
 - size is fixed
 
 ### need to Know
