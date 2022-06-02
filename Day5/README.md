@@ -13,14 +13,27 @@
 # Set
 
 - Set is an interface extends the collection interface (Part of the collection framework)
-- It allows us to only store the unique values
-- It doesn't maintain the insertion order
-- **3 classes that implements Set Interface**
-   - **HashSet** -> no duplicates, not maintain insertion order, does not guarantee any order of its elements 
-   - **LinkedHashSet** -> no duplicates, maintains insertion order
-   - **TreeSet** -> no duplicaties, guarantee sorted order
+- It allows us to only store the unique values (doesn't allows duplicates)
+- **We can't access the elements using index like set.get(0)**
 
 ![image](https://user-images.githubusercontent.com/70228962/170874135-d34c38f9-dc3b-4768-8469-7a7f7b7a31ee.png)
+
+- **3 classes that implements Set Interface**
+   - **HashSet** 
+  	- implements Set Interface
+  	- store unique values
+  	- can have one null value
+   	- It doesn't maintain any order
+   - **LinkedHashSet** 
+  	- implements Set Interface
+  	- store unique values
+  	- can have one null value
+   	- It maintain insertion order
+   - **TreeSet** 
+  	- implements Set Interface as well as SortedSet Interface
+  	- store unique values
+  	- can't have null value
+   	- It maintain sorted order
 
 - Code - Click [here](./SetDemo.java) to see the full code 
 ```java
