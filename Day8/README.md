@@ -118,3 +118,20 @@ BigInteger minValue = b1.max(b2);
 		System.out.println(tm);
 		      // OUTPUT: {1=ONE, 2=Two, 3=Three, 4=null, 22=Two}
 ```
+
+# HashMap Methods
+
+- Click [here](./HashMapDemo.java) to see the code
+- Methods
+	- HashMap<Integer, String> hm = new HashMap<>(); -> creating an HashMap where Keys are Integer and  values are String 
+	- hm.put(2, "Two") -> used to insert the key value pair to the Map (i.e here hm)
+	- hm.get(2) -> return the value for the key (i.e. here 2)
+	- hm.size() -> returns the number of entries(key-value pair) in the map.
+	- hm.keySet() -> returns the set of the keys in map
+	- hm.values() -> returns the values in the map
+	- hm.containsKey(keyToCheck) -> return true if keyToCheck is present in the map else false
+	- hm.containsValue(valueToCheck) -> return true if valueToCheck is present in the map else false
+
+# HashMap Practice Problems
+
+- GFG P
