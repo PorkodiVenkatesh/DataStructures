@@ -14,7 +14,7 @@ A data structure is a particular way of organizing data in a computer so that it
 
 
 ## DS - Types
-- Primitive -> only one value -> integers (byte,short, int, long), decimals (long, float), boolean and char
+- Primitive -> only one value -> integers (byte,short, int, long), decimals (double, float), boolean and char
 - Non primitive   -> multiple values or collections of values
 	- Linear  -> line -> one after other -> Arrays/ArrayList, stack, queue and linkedlist
 		- Eg: library, dictionary, biscuit, clothes in closet, color pencils in a box, standing in a line
