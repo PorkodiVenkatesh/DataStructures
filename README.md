@@ -18,6 +18,7 @@
 - Imocha - 7
 - CodeChef - 5
 - GeeksForGeeks - 7
+- InftQ Problems - 21 (To be Solved)
 
 ## Day 1 (5/23)
 
