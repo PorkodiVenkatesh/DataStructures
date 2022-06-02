@@ -10,6 +10,15 @@
 - [Day 8 (1/6)](#day-8-61)
 - [Day 9 (2/6)](#day-9-62)
 
+## Problems Solved (till date)
+
+- Practice Problems - 31
+- HackerRank - 13
+- LeetCode - 6
+- Imocha - 7
+- CodeChef - 5
+- GeeksForGeeks - 7
+
 ## Day 1 (5/23)
 
 - Why DSA
