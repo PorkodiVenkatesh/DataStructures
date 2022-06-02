@@ -64,7 +64,7 @@
 - LeetCode Problem - 1
 - Set
 - List Vs Set
-- String Problems - 5
+- String Practice Problems - 5
 - Click [here](./Day5/README.md) to see the content
 
 ## Day 6 (5/30)
