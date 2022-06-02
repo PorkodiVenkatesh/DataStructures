@@ -98,7 +98,9 @@
 - BigInteger
 - Map
 - HashMap
-- Practice Problems - 2 (one is from GFG)
+- Practice Problems - 1
+- Code Chef Problems - 1
+- Geeks for Geeks - 3
 - Click [here](./Day8/README.md) to see the content
 
 ## Day 9 (6/2)
