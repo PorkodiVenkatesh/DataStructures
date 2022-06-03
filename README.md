@@ -80,17 +80,17 @@
 
 ## Day 6 (5/30)
 
-- Arrays Class
-- String Methods
-- StringBuilder/StringBuffer Methods
-- Palindrome and anagrams
-- Character Class Methods
-- Stack
-- HackerRank Problems - 3
-- LeetCode Problems -3
-- Code Chef Problems - 1
-- Geeks for Geeks Problems -3
-- Click [here](./Day6/README.md) to see the content
+- [Arrays Class](./Day6#arrays-class)
+- [String Methods](./Day6#string-class)
+- [StringBuilder/StringBuffer Methods](./Day6#string-buffer-and-string-bulider)
+- [Palindrome and anagrams](./Day6#palindrome)
+- [Character Class Methods](./Day6#character-class-methods-used-frequently)
+- [Stack](./Day6#stack)
+- [HackerRank Problems - 3](./Day6#hackerrank-problems)
+- [LeetCode Problems -3](./Day6#leet-code-problems)
+- [Code Chef Problems - 1](./Day6#codechef-problems)
+- [Geeks for Geeks Problems -3](./Day6#geeks-for-geeks-problem-home-work-problems)
+- Click [here](./Day6) to see the content
 
 ## Day 7 (5/31)
 
