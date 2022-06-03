@@ -44,6 +44,10 @@ BigInteger minValue = b1.max(b2);
 ```    
 - Click [here](./BigIntegerDivisibleBy7.java) to see the full code.
 
+# Decimal to Binary
+
+# Binary to Decimal
+
 # Map
 
 - Map is an Interface, Part of the collection framework
