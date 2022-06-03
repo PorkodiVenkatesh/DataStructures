@@ -120,5 +120,9 @@
 - Revision Session 
 - 1 on 1
 
+## Day 10 (6/3)
+
+- 1 on 1 
+- QC
 
 
