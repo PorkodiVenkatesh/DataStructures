@@ -71,12 +71,12 @@
 
 ## Day 5 (5/27)
 
-- HackerRank Problem -1
-- LeetCode Problem - 1
-- Set
-- List Vs Set
-- String Practice Problems - 5
-- Click [here](./Day5/README.md) to see the content
+- [HackerRank Problem -1](./Day5#hackerrank-problems)
+- [LeetCode Problem - 1](./Day5#leetcode-problems)
+- [Set](./Day5#set)
+- [List Vs Set](/Day5#list-vs-set)
+- [String Practice Problems - 5](/Day5#string-problems)
+- Click [here](./Day5) to see the content
 
 ## Day 6 (5/30)
 
