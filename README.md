@@ -62,12 +62,12 @@
 
 ## Day 4 (5/26)
 
-- HackerRank Problems - 7
-- Pattern Problems - 5
-- SubArray Problems - 3 (2 Leet Codes)
-- Practice Problems - 1
-- Imocha assessment questions - 4
-- Click [here](./Day4/README.md) to see the content
+- [HackerRank Problems - 7](./Day4/README.md#hackerrank-problems)
+- [Pattern Problems - 5](./Day4/README.md#pattern-problems)
+- [SubArray Problems - 3 (2 Leet Codes)](./Day4/README.md#subarray-problems)
+- [Practice Problems - 1](./Day4/README.md#practice-problem)
+- [Imocha assessment questions - 4](./Day4/README.md#imocha-assessment)
+- Click [here](./Day4) to see the content
 
 ## Day 5 (5/27)
 
