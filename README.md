@@ -23,17 +23,17 @@
 
 ## Day 1 (5/23)
 
-- Why DSA
-- What is DS
-- DS types
-- Arrays
-- ArrayList
-- Collections class
-- Math class
-- Practice Problems - 7
-- Find out the logic and code - 4
-- Imocha assessment questions - 3
-- Click [here](./Day1/README.md) to see the content
+- [Why DSA](./Day1/README.md#why-datastructure-and-algorithms)
+- [What is DS](./Day1/README.md#ds)
+- [DS types](./Day1/README.md#ds---types)
+- [Arrays](./Day1/README.md#array)
+- [ArrayList](./Day1/README.md#arraylist)
+- [Math class](./Day1/README.md#math-class)
+- [Collections class](/Day1/README.md#collections-class)
+- [Practice Problems - 7](/Day1/README.md#practice-problems)
+- [Find out the logic and code - 4](./Day1/README.md#find-out-the-logic-and-code)
+- [Imocha assessment questions - 3](./Day1/README.md#imocha-assessment)
+- Click [here](./Day1) to see the content
 
 ## Day 2 (5/24)
 
