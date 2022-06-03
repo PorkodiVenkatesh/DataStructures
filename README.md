@@ -43,7 +43,7 @@
 - ArrayList 2d
 - Static and Dynamic Data Structure
 - Abstract Data Tyes
-- ArrayList Methods (Basic Operations on ListADT)
+- [ArrayList Methods (Basic Operations on ListADT)](./Day2#demo-codes)
 - [Practice Problem - 13](./Day2#problems)
 - Click [here](./Day2) to see the content
   - **Note: You can find DataStructures PPT [here](./Day2/DataStructuresPPT.pdf)** 
