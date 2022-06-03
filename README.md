@@ -107,7 +107,7 @@
 
 - [BigInteger](./Day8#biginteger)
 - [Decimal to Binary](./Day8#decimal-to-binary)
-- [Binary to Decimal](./Day8#decimal-to-binary)
+- [Binary to Decimal](./Day8#binary-to-decimal)
 - [Map](./Day8#map)
 - [HashMap](./Day8#hashmap-methods)
 - [Practice Problems - 1](./Day8#hashmap-practice-problems)
