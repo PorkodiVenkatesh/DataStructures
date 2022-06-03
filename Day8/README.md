@@ -46,6 +46,29 @@ BigInteger minValue = b1.max(b2);
 
 # Decimal to Binary
 
+The steps to convert Decimal Numbers to Binary numbers are given below:
+
+- 1st Step: Check if the given decimal number is less than 2. If it is less than 2 then the given Decimal No is the same when converted to its binary equivalent.
+- 2nd Step: If the given decimal number is greater than 2, then divide the given number by 2.
+- 3rd Step: Note down the Remainder.
+- 4th Step: Repeat steps 2 and 3 until the quotient is less than 2.
+- 5th Step: Now note down the remainders from bottom to top.
+*Note: If the given Decimal Number is even then the remainder will be 0. If the given Decimal Number is odd then the given number will be 1.*
+
+**Example: Convert 18 and 15 to Binary Equivalent number.**
+
+<img width="802" alt="decimal to binary (2)" src="https://user-images.githubusercontent.com/70228962/171802599-348d342e-34d6-4ee3-963f-8a9246d59695.png">
+
+- Click [here](./DecimalToBinary.java) to see the code 
+- InBuilt Method in Java to convert decimal and binary - `Integer.toBinaryString(decimal)`
+```java
+		System.out.println("enter decimal (Integer): ");
+		Integer decimal = sc.nextInt();
+	
+		String binary = Integer.toBinaryString(decimal);
+		System.out.println(binary);
+```
+
 # Binary to Decimal
 
 # Map
