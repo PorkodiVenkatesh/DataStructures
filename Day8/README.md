@@ -59,7 +59,7 @@ The steps to convert Decimal Numbers to Binary numbers are given below:
 
 <img width="802" alt="decimal to binary (2)" src="https://user-images.githubusercontent.com/70228962/171802599-348d342e-34d6-4ee3-963f-8a9246d59695.png">
 
-- Click [here](./DecimalToBinary.java) to see the code 
+- Click [here](./DecimalToBinary.java) to see the code where we convert decimal to binary 
 - InBuilt Method in Java to convert decimal and binary - `Integer.toBinaryString(decimal)`
 ```java
 		System.out.println("enter decimal (Integer): ");
@@ -70,6 +70,24 @@ The steps to convert Decimal Numbers to Binary numbers are given below:
 ```
 
 # Binary to Decimal
+
+The steps to convert Binary Numbers to Decimal numbers are given below:
+- Step 1: Write down the binary number.
+- Step 2: Starting with the least significant digit (LSB - the rightmost one), multiply the digit by the value of the position. Continue doing this until you reach the most significant digit (MSB - the leftmost one).
+- Step 3: Add the results and you will get the decimal equivalent of the given binary number.
+
+**Example: Convert 10101 to the Decimal Number.**
+
+![image](https://user-images.githubusercontent.com/70228962/171806384-5318a840-5065-4cf2-af3a-a653d56e0d0c.png)
+
+- Click [here](./BinaryToDecimal.java) to see the code where we convert binary to decimal
+- InBuilt Method in Java to convert binary to decimal - `Integer decimal = new Integer(binary, 2);`
+```java
+		String binary = "100101101011010000111";
+		
+		Integer decimal = new Integer(binary, 2);
+		System.out.println(decimal)
+```
 
 # Map
 
