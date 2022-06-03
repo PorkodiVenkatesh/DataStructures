@@ -94,23 +94,26 @@
 
 ## Day 7 (5/31)
 
-- Queues
-- Types of Queues
-- ArrayDeque Class
-- HackerRank Problems - 1
-- Code Chef Problems - 3
-- Geeks for Geeks Problems - 1
-- Click [here](./Day7/README.md) to see the content
+- [Queues](./Day7#queue)
+- [Types of Queues](./Day7#types-of-queues)
+- [Queue in Collection Framework](./Day7#queue-in--in-collection-framework)
+- [ArrayDeque Class](./Day7#arraydeque-class)
+- [HackerRank Problems - 1](./Day7#hackerrank-problems)
+- [Code Chef Problems - 3](./Day7#code-chef-problems)
+- [Geeks for Geeks Problems - 1](./Day7#geeks-for-geeks-problems)
+- Click [here](./Day7) to see the content
 
 ## Day 8 (6/1)
 
-- BigInteger
-- Map
-- HashMap
-- Practice Problems - 1
-- Code Chef Problems - 1
-- Geeks for Geeks - 3
-- Click [here](./Day8/README.md) to see the content
+- [BigInteger](./Day8#biginteger)
+- [Decimail to Binary](./Day8#decimal-to-binary)
+- [Binary to Decimal](./Day8#decimal-to-binary)
+- [Map](./Day8#map)
+- [HashMap](./Day8#hashmap-methods)
+- [Practice Problems - 1](./Day8#hashmap-practice-problems)
+- [Code Chef Problems - 1](./Day8#code-chef-problems)
+- [Geeks for Geeks - 3](./Day8#geeks-for-geeks-problems)
+- Click [here](./Day8) to see the content
 
 ## Day 9 (6/2)
 
