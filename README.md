@@ -106,7 +106,7 @@
 ## Day 8 (6/1)
 
 - [BigInteger](./Day8#biginteger)
-- [Decimail to Binary](./Day8#decimal-to-binary)
+- [Decimal to Binary](./Day8#decimal-to-binary)
 - [Binary to Decimal](./Day8#decimal-to-binary)
 - [Map](./Day8#map)
 - [HashMap](./Day8#hashmap-methods)
