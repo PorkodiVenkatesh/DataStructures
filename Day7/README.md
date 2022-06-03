@@ -58,8 +58,17 @@ While the deletion is performed in accordance to priority number (the data item 
 
 ![image](https://user-images.githubusercontent.com/70228962/171202645-ed14d6b6-b719-45a7-a1f7-de11e6d3087f.png)
 
-# ArrayDeque Class in Collection Framework
+# Queue in  in Collection Framework
 
+- Queue is an interface in collection Framework which followa First-in, First-out Principle
+
+![image](https://user-images.githubusercontent.com/70228962/171795635-3b894c2d-ef27-4353-b715-92b7fdc7a081.png)
+
+- **2 Classes in the Collection Framework**
+  - **PriorityQueue**
+  - **ArrayDeque** -> implements Queue as well as Deque
+
+## ArrayDeque Class
 - Internally its a double ended queue
 - Implements the Deque Interface in the collection framework
 - Methods
