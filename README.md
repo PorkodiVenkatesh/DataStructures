@@ -50,15 +50,15 @@
 
 ## Day 3 (5/25)
 
-- SubArrays
-- Why LinkedList
-- When to use Arrays, ArrayList and LinkedList
-- Real world Applications - Linked List
-- Types of LinkedList
-- LinkedList in Collection Framework
-- LinkedList VS ArrayList Class in the Collection Framework
-- HackerRank Problems - 1
-- Click [here](./Day3/README.md) to see the content
+- [SubArrays](./Day3#sub-arrays)
+- [Why LinkedList](./Day3#why-linkedlist)
+- [When to use Arrays, ArrayList and LinkedList](./Day3#when-to-choose-arrays-arraylist-and-linkedlist)
+- [Real world Applications - Linked List](./Day3/README.md#real-world-applications---linked-list)
+- [Types of LinkedList](./Day3/README.md#types-of-linked-list)
+- [LinkedList in Collection Framework](./Day3/README.md#linkedlist-in-collection-framework)
+- [LinkedList VS ArrayList Class in the Collection Framework](./Day3/README.md#linkedlist-vs-arraylist-class-in-the-collection-framework)
+- [HackerRank Problems - 1](./Day3/README.md#hackerrank)
+- Click [here](./Day3) to see the content
 
 ## Day 4 (5/26)
 
