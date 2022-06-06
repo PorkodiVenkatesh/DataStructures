@@ -113,7 +113,7 @@ The steps to convert Binary Numbers to Decimal numbers are given below:
     - Values can be duplicates as well as null
     - It maintains the Insertion Order
   - **TreeMap** 
-    - extends Map as well as SortedMap Interface
+    - implements Map as well as SortedMap Interface
     - Unique Keys 
       - doesn't allows null key
     - Values can be duplicates as well as null
