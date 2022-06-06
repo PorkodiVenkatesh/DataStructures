@@ -44,7 +44,7 @@
 
 ## Practice Problem
 
-- Prb 1: Sum of Arrays
+- Prb 1: Sum of Arrays - Click [here](/SumOfArrays.java) to see the solution
 
 ![WhatsApp Image 2022-05-26 at 4 27 36 PM](https://user-images.githubusercontent.com/70228962/170521734-c18a3aba-f659-4906-a0aa-164db025cd1d.jpeg)
 
