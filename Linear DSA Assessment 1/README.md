@@ -9,6 +9,6 @@
 
 ### Questions
 
-1. **Hard** - [Queue: Transactions](./Linear%20DSA%20Assessment%201/Question9.md)
-2. **Medium** - [Array Operations: Array Sum](./Linear%20DSA%20Assessment%201/Question10.md)
-3. **Easy** - [Linked List: Sum of 3 highest elements](./Linear%20DSA%20Assessment%201/Question11.md)
+1. **Hard** - [Queue: Transactions](./Question9.md)
+2. **Medium** - [Array Operations: Array Sum](./Question10.md)
+3. **Easy** - [Linked List: Sum of 3 highest elements](./Question11.md)
