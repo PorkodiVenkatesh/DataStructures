@@ -7,7 +7,7 @@ The cross-section of the reactor is represented as a 2D matrix.
 1. 0 represents empty space.
 2. A positive integer represents a matter/antimatter mix of a particular element of 1 unit weight.
 3. A 1 unit weight mix will not react on its own unless it comes in contact with another mix of the same element.
-4. Contact is an edge-to-edge contact, either up, down, left, or right.
+4. **Contact is adjancent left!**
 5. Once they come in contact with each other of the same element, they eliminate each other, resulting in free space.
 6. Due to gravity, the other units above this free space would then move down to occupy the space.
 The reaction occurs stepwise.
