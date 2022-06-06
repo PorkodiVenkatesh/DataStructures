@@ -13,14 +13,14 @@
 
 ## Problems Solved (till date)
 
-- Practice Problems - 31
-- HackerRank - 13
-- LeetCode - 6
-- Imocha - 7
-- CodeChef - 5
-- GeeksForGeeks - 7
-- [InftQ Problems - 21](./InftQProblems/README.md) *To be Solved*
-- [Linear DSA Assessment 1 - 3](.//Linear%20DSA%20Assessment%201/README.md)
+- Practice Problems -> 31 
+- HackerRank -> 13 
+- LeetCode -> 6 
+- Imocha -> 7 
+- CodeChef - 5 
+- GeeksForGeeks -> 7
+- [InftQ Problems -> 21](./InftQProblems/README.md) *(To be Solved)*
+- [Linear DSA Assessment 1 -> 3](.//Linear%20DSA%20Assessment%201/README.md)
 
 
 ## Day 1 (5/23)
