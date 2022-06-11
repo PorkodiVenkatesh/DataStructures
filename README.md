@@ -135,9 +135,10 @@
 # Day 11 (6/6)
 
 - QC 
-- Hash Tables
-- Imocha Coding question - 1 
-- Code Chef Problem -1 
+- [Hash Tables](./README.md#hash-tables)
+- [Imocha Coding question - 1](./README.md#imocha-questions)
+- [Code Chef Problem -1](./README.md#code-chef-problems)
+- Click [here](./Day11) to see the content 
 
 ## Day 12 (6/7)
 
