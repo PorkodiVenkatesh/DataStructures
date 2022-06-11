@@ -26,7 +26,7 @@
 - GeeksForGeeks -> 7
 - [InftQ Problems -> 21](./InftQProblems/README.md) *(To be Solved)*
 - [Linear DSA Assessment 1 -> 3](./Linear%20DSA%20Assessment%201/README.md)
-- [June 8 Coding Assessment -> 3](./June%208%20Coding%20Assessment/README.md)
+- [June 8 Coding Assessment -> 4](./June%208%20Coding%20Assessment/README.md)
 - [June 9 Coding Assessment -> 3](./June%209%20Coding%20Assessment/README.md)
 - [June 10 Coding Assessment -> 3](./June%2010%20Coding%20Assessment/README.md)
 
