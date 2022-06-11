@@ -44,7 +44,7 @@ public static int factorial (int n) {
 
 ## x power of n
 
-- `$x^n$ = x * $x^n-1$
+- $x^n$ = x * $x^n-1$
 - base condition: $x^1$ = x
 - Code: - Click [here](./xPowerOfN.java) to see the full code
 ```java
@@ -55,5 +55,26 @@ public static int power(int x , int n) {
 		return x * power(x, n-1);
 	}
 ```
+![Screenshot (593)](https://user-images.githubusercontent.com/70228962/173192249-051c7b5b-49f7-4103-97d5-075a62876131.png)
+
+
+## Predict the Output 
+
+**Question 1: What will be returned if we call `fun1(1);` in the main method?**
+```java
+public static int fun1(int n)
+	{
+	    if (n == 4)
+	       return n;
+	    else 
+	    	return 2*fun1(n+1);
+	}
+```
+**Answer: 32**
+**Explantion Pic:**
+![Screenshot (595)](https://user-images.githubusercontent.com/70228962/173192402-6e00d704-de00-400c-9b85-79e651731e19.png)
+
+--
+
 
 
