@@ -14,7 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/70228962/173197550-6f409acf-2f74-4669-b64c-9da83039ba0a.png)
 
-![image](https://user-images.githubusercontent.com/70228962/173197561-76eede7e-f89d-457a-9c16-14740568850f.png)
+![](https://www.tutorialspoint.com/data_structures_algorithms/images/tower_of_hanoi.gif)
 
 So, the steps are
 
