@@ -77,7 +77,7 @@ public static int fun1(int n)
 
 ![Screenshot (595)](https://user-images.githubusercontent.com/70228962/173192402-6e00d704-de00-400c-9b85-79e651731e19.png)
 
--
+---
 
 
 
