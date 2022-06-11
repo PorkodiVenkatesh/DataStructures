@@ -1,18 +1,18 @@
 # Tower of Hanoi
 
-![image](https://user-images.githubusercontent.com/70228962/173197494-895a90b9-e142-4f41-90fe-fb31a8eb96b9.png)
+![image](https://user-images.githubusercontent.com/70228962/173197494-895a90b9-e142-4f41-90fe-fb31a8eb96b9.png){ width: 200px; }
 
 ### For n = 1 disk
 
-![image](https://user-images.githubusercontent.com/70228962/173197517-23cd7a96-dff0-4050-95cf-71cd58ffe7b5.png)
+![image](https://user-images.githubusercontent.com/70228962/173197517-23cd7a96-dff0-4050-95cf-71cd58ffe7b5.png){ width: 200px; }
 
 ### For n = 2 disk
 
-![image](https://user-images.githubusercontent.com/70228962/173197529-1207f967-90f9-4c55-8246-7e4f671fc5df.png)
+![image](https://user-images.githubusercontent.com/70228962/173197529-1207f967-90f9-4c55-8246-7e4f671fc5df.png){ width: 200px; }
 
 ### Algorithm
 
-![image](https://user-images.githubusercontent.com/70228962/173197550-6f409acf-2f74-4669-b64c-9da83039ba0a.png)
+![image](https://user-images.githubusercontent.com/70228962/173197550-6f409acf-2f74-4669-b64c-9da83039ba0a.png){ width: 200px; }
 
 ![](https://www.tutorialspoint.com/data_structures_algorithms/images/tower_of_hanoi.gif)
 
