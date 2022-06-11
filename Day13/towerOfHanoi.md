@@ -8,7 +8,7 @@ The objective of the game is to shift the entire stack of disks from one rod to 
 - Only the uppermost disk from one stack can be moved on to the top of another stack or an empty rod.
 - Larger disks cannot be placed on the top of smaller disks.
 
-### The minimal number of moves required to solve the Tower of Hanoi puzzle of n disks would be ($2^n$) − 1.
+The minimal number of moves required to solve the Tower of Hanoi puzzle of n disks would be ($2^n$) − 1.
 
 
 ## For n = 1 disk
