@@ -45,7 +45,7 @@ So now, we are in a position to design an algorithm for Tower of Hanoi with more
 ![image](https://user-images.githubusercontent.com/70228962/173197614-c8a9ccf5-20b3-4eeb-8107-aabb133f67aa.png)
 
 
-### Since I have to move one disk at the time, step 1 and step 3. need to re-iterate with Algorithm where as step 2 is valid
+### Since I have to move one disk at the time, step 1 and step 3 are need to re-iterate with algorithm (apply in recursive way) whereas step 2 is valid.
 
 
 ### Let's take the step 1:
@@ -87,4 +87,18 @@ TowerOfHanoi(N, source, destination, helper)
  	          TowerOfHanoi(N - 1, helper, destination, source)     // Step 3
 ```
 
+## Let's Code - Click [here](./TowerOfHanoi.java) to see the full code
+
+```
+public static void towerOfHanoi (int n , String source, String destination, String helper ) {
+		if (n==1) {
+			System.out.println("Move disk " + n  + " form " + source + " to  " + destination);
+		}
+		else {
+			towerOfHanoi(n -1 , source, helper, destination);
+			System.out.println("Move disk " + n  + " form " + source + " to  " + destination);
+			towerOfHanoi(n -1 , helper, destination, source);
+		}
+	}
+```
 
