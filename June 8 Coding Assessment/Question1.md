@@ -1,13 +1,17 @@
 ## Strings: Secret Word
 
 Alice and her friends are playing a detective game.
+
 Here two detectives want to exchange the secret information they have gathered, but another detective Bob is trying to intercept their emails. Hence, Alice came up with an idea.
+
 For every letter in her word, she counts its position from the beginning in the English alphabet (a = 1; e = 5; etc.) and replaces it with the letter at the same position from the end (a = z; y = b; etc.).
+
 Given a string of length N, print the final string that Alice will write in her secret email.
  
 
 ### Input Format
 The first line contains an integer N.
+
 The second line contains a string of lowercase English letters of length N.
 
 ### Sample Input
