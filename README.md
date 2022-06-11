@@ -166,12 +166,13 @@
 - x power of (n) implementing using recursion
 - Predict the output (Recursion) - 3
 - Fibonacci Series Using Recursion
-- Linear DSA Assessment Solution Discussion
+- Click [here](./Day12/README.md) to see the content 
 
 ## Day 13 (6/6)
 
-- Tower of Hanpi
+- Tower of Hanoi
 - GCD of two number : Euclidean algorithm
+- Click [here](./Day13/README.md) to see the content 
 
 ## Day 14 (6/8)
 
@@ -183,6 +184,7 @@
 - Spanning Tree
 - Minimum Spanning Tree
 - Prims Algorithm
+- Click [here](./Day14/README.md) to see the content 
 
 ## Day 15 (6/9)
 
@@ -191,4 +193,5 @@
 - Insertion Sort
 - Selection Sort
 - Merge Sort
+- Click [here](./Day15/README.md) to see the content 
 
