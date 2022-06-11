@@ -45,3 +45,4 @@ The subarrays formed are:
 4. Index 3 to Index 4
 Hence, the output is 4.
 ```
+### Click [here](./solutions/Question4.java) to see the solution
