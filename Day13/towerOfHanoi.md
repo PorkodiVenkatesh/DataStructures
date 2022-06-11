@@ -86,7 +86,7 @@ TowerOfHanoi(N, source, destination, helper)
 
 ### Let's Code - Click [here](./TowerOfHanoi.java) to see the full code
 
-```
+```java
 public static void towerOfHanoi (int n , String source, String destination, String helper ) {
 		if (n==1) {
 			System.out.println("Move disk " + n  + " form " + source + " to  " + destination);
