@@ -1,6 +1,6 @@
 # Tower of Hanoi
 
-![image](https://user-images.githubusercontent.com/70228962/173197494-895a90b9-e142-4f41-90fe-fb31a8eb96b9.png)
+
 
 ## For n = 1 disk
 
@@ -14,7 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/70228962/173197550-6f409acf-2f74-4669-b64c-9da83039ba0a.png){ width: 200px; }
 
-![](https://www.tutorialspoint.com/data_structures_algorithms/images/tower_of_hanoi.gif)
+![](https://www.tutorialspoint.com/data_structures_algorithms/images/tower_of_hanoi_two_disks.gif)
 
 So, the steps are
 
