@@ -10,6 +10,11 @@
 - [Day 8 (6/1)](#day-8-61)
 - [Day 9 (6/2)](#day-9-62)
 - [Day 10 (6/3)](#day-10-63)
+- [Day 11 (6/6)]
+- [Day 12 (6/7)]
+- [Day 13 (6/8)]
+- [Day 14 (6/9)]
+- [Day 15 (6/10]
 
 ## Problems Solved (till date)
 
@@ -127,4 +132,62 @@
 - 1 on 1 
 - QC
 
+# Day 11 (6/6)
+
+- QC 
+- Hash Tables
+- Imocha Coding question - 1 
+- Code Chef Problem -1 
+
+## Day 12 (6/7)
+
+- What is Algorithm
+- Examples of Algorithm
+- What do you mean by a good Algorithm?
+- Efficiency Matters
+- Analysis of Algorithm
+- Space Complexity
+- Time Complexity
+- Asymptotic Notation : Big O , theta and Omega
+- Best, Average and Worst Case using Linear Search Algorithm
+- Big O 
+- O(1): Constant Time
+- O(N) linear Time
+- Sum of N natural numbers
+- 4 Rules in Big O
+- O(logn)
+- Big O Complexity Chart
+- Advantages and Disadvantages of Algorithm
+- Types of Algorithm
+- Brute Force
+- Recursion Algorithm
+- Find a Factorial of number with and without recursion
+- x power of (n) implementing using recursion
+- Predict the output (Recursion) - 3
+- Fibonacci Series Using Recursion
+- Linear DSA Assessment Solution Discussion
+
+## Day 13 (6/6)
+
+- Tower of Hanpi
+- GCD of two number : Euclidean algorithm
+
+## Day 14 (6/8)
+
+- Graphs
+- Examples of Graphs
+- Graph Terminologies
+- Types of Graph
+- Graph Respresentation
+- Spanning Tree
+- Minimum Spanning Tree
+- Prims Algorithm
+
+## Day 15 (6/9)
+
+- Bubble Sort
+- Binary Search
+- Insertion Sort
+- Selection Sort
+- Merge Sort
 
