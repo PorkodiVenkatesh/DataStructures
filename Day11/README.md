@@ -32,7 +32,11 @@ We can resolve the hash collision using one of the following techniques.
 - Stores as key value pair
 - Hashtable doesn’t allow any null key or value.
 
-> **Note:  Hashtable is the older class, and its use is generally discouraged. Perhaps they saw the need for a null key, and more importantly - null values, and added it in the HashMap implementation.  HashMap is newer, and has more advanced capabilities, which are basically just an improvement on the Hashtable functionality. When HashMap was created, it was specifically designed to handle null values as keys and handles them as a special case.**
+> **Note:**
+>  - Hashtable is the older class, and its use is generally discouraged. 
+>  Perhaps they saw the need for a null key, and more importantly - null values, and added it in the HashMap implementation.  
+>  HashMap is newer, and has more advanced capabilities, which are basically just an improvement on the Hashtable functionality. 
+>  When HashMap was created, it was specifically designed to handle null values as keys and handles them as a special case.
 
 ### Hashmap vs Hashtable 
 - HashMap is non-synchronized. It is not thread-safe and can’t be shared between many threads without proper synchronization code whereas Hashtable is synchronized. It is thread-safe and can be shared with many threads.
