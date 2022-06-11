@@ -1,5 +1,14 @@
 # Tower of Hanoi
 
+The Tower of Hanoi is also known as the Tower of Brahma or the Lucas Tower. It is a mathematical game or puzzle that consists of three rods with ’n’ number of disks of different diameters.
+
+The objective of the game is to shift the entire stack of disks from one rod to another rod following these three rules :
+
+- Only one disk can be moved at a time.
+- Only the uppermost disk from one stack can be moved on to the top of another stack or an empty rod.
+- Larger disks cannot be placed on the top of smaller disks.
+
+### The minimal number of moves required to solve the Tower of Hanoi puzzle of n disks would be ($2^$n) − 1.
 
 
 ## For n = 1 disk
@@ -16,7 +25,8 @@
 
 ![](https://www.tutorialspoint.com/data_structures_algorithms/images/tower_of_hanoi_two_disks.gif)
 
-So, the steps are
+
+### So, the steps are
 
 ![image](https://user-images.githubusercontent.com/70228962/173197577-94dd5bb1-f725-43b2-9851-9c44ce6e8968.png)
 
@@ -24,35 +34,43 @@ So, the steps are
 
 ![image](https://www.tutorialspoint.com/data_structures_algorithms/images/tower_of_hanoi.gif)
 
-Let's follow the Algorithm steps
+
+### Let's follow the Algorithm steps
 
 ![image](https://user-images.githubusercontent.com/70228962/173197614-c8a9ccf5-20b3-4eeb-8107-aabb133f67aa.png)
 
-Since I have to move one disk at the time, step 1 and step 3. need to re-iterate with Algorithm where as step 2 is valid
 
-Let's take the step 1:
+### Since I have to move one disk at the time, step 1 and step 3. need to re-iterate with Algorithm where as step 2 is valid
+
+
+### Let's take the step 1:
 
 ![image](https://user-images.githubusercontent.com/70228962/173197686-4079c3ea-250e-4b11-a8b7-dc7f8f7d9721.png)
 
-Now, let's solve like how we do for n = 2 disks.
+
+### Now, let's solve like how we do for n = 2 disks.
 
 ![image](https://user-images.githubusercontent.com/70228962/173197713-ed1735b6-132c-4d3c-8018-a98847e0575d.png)
 
-Similary, Let's do for the step 3:
+
+### Similary, Let's do for the step 3:
 
 ![image](https://user-images.githubusercontent.com/70228962/173197747-c8126b26-85f4-452c-857f-4312d43836b8.png)
 
-Now, let's solve like how we do for n = 2 disks.
+
+### Now, let's solve like how we do for n = 2 disks.
 
 ![image](https://user-images.githubusercontent.com/70228962/173197758-f9dd5ca6-0fb6-48a9-a793-c379328a61d9.png)
 
-Here, if we closely watch, we are doing these below steps:
+
+### Here, if we closely watch, we are doing these below steps:
 
 ![image](https://user-images.githubusercontent.com/70228962/173197577-94dd5bb1-f725-43b2-9851-9c44ce6e8968.png)
 
 ## Let's use Recursion
 
-A recursive algorithm for Tower of Hanoi can be driven as follows 
+
+### A recursive algorithm for Tower of Hanoi can be driven as follows 
 
 ```
 TowerOfHanoi(N, source, destination, helper)
