@@ -1,10 +1,10 @@
 # June 8 Coding Assessment
 
-- Assessment Open Time : 08/06/2022 05:09 PM - 09/06/2022 05:09 PM
-- Attempts: 3
-- Duration: 100 mins
-- Questions: 3
-- Topics: Arrays/ArrayList, Stacks and Strings
+- **Assessment Open Time :** 08/06/2022 05:09 PM - 09/06/2022 05:09 PM
+- **Attempts:** 3
+- **Duration:** 100 mins
+- **Questions:** 3
+- **Topics:** Arrays/ArrayList, Stacks and Strings
 
 ## Questions
 
