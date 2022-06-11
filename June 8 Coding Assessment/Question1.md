@@ -22,7 +22,7 @@ abaca    --denotes string S.
 ### Output Format
 The output contains the final string that Alice will write in her email.
  
-###Sample Output
+### Sample Output
 ```
 zyzxz
 ``` 
@@ -31,4 +31,4 @@ In the given input string, a will be replaced by z, b by y, and c by x.
   
 Hence, the result is zyzxz.
 
-### Click [here](./solutions/Question1.java) to see the solutions
+### Click [here](./solutions/Question1.java) to see the solution
