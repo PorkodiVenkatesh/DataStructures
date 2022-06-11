@@ -185,6 +185,8 @@
 - Graph Terminologies
 - Types of Graph
 - Graph Respresentation
+- Breadth First Searching
+- Depth First Searching
 - Spanning Tree
 - Minimum Spanning Tree
 - Prims Algorithm
