@@ -21,12 +21,17 @@ The objective of the game is to shift the entire stack of disks from one rod to 
 
 ## Algorithm
 
-![image](https://user-images.githubusercontent.com/70228962/173197550-6f409acf-2f74-4669-b64c-9da83039ba0a.png){ width: 200px; }
+To write an algorithm for Tower of Hanoi, first we need to learn how to solve this problem with lesser amount of disks, say → 1 or 2. We mark three towers/rods/peg source, destination and helper/auxiliary (only to help moving the disks). If we have only one disk, then it can easily be moved from source to destination.
+
+If we have 2 disks −
+
+1. First, we move the smaller (top) disk to auxiliary.
+2. Then, we move the larger (bottom) disk to destination.
+3. And finally, we move the smaller disk from aux to destination.
 
 ![](https://www.tutorialspoint.com/data_structures_algorithms/images/tower_of_hanoi_two_disks.gif)
 
-
-### So, the steps are
+So now, we are in a position to design an algorithm for Tower of Hanoi with more than two disks. We divide the stack of disks in two parts. The largest disk (nth disk) is in one part and all other (n-1) disks are in the second part. So, the steps are
 
 ![image](https://user-images.githubusercontent.com/70228962/173197577-94dd5bb1-f725-43b2-9851-9c44ce6e8968.png)
 
