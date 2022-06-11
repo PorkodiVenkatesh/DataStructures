@@ -45,4 +45,12 @@ We can resolve the hash collision using one of the following techniques.
 
 ### Click [here](/HashTables.pdf) to see the detailed notes
 
-## 
+## Imocha Questions
+
+- [2D-Array: Reactor Simulator](/Imocha/Question8.md) 
+
+## Code Chef Problems
+
+- Prb6 : [Studying Alphabet](https://www.codechef.com/submit-v2/ALPHABET) - Click [here](./CCPrb6.java) to see the solution
+
+
