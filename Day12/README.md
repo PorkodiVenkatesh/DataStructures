@@ -79,5 +79,63 @@ public static int fun1(int n)
 
 ---
 
+**Question 2: What will be returned if we call `fun2(4,3)` in the main method?**
+```java
+static int fun2(int x, int y) 
+	{
+	  if (x == 0)
+	    return y;
+	  return fun2(x - 1,  x + y);
+	} 
+```
 
+**Answer: 13**
 
+**Explantion Pic:**
+
+![Screenshot (598)](https://user-images.githubusercontent.com/70228962/173192588-c62fff0a-94e0-407b-8ce4-a337b5bd948f.png)
+
+---
+
+**Question 3: What will be returned if we call `fun3(25);` in the main method?**
+```java
+static void fun3(int n)
+	{
+	  if (n == 0)
+	    return;
+	 
+	  System.out.println(n%2);
+	  fun3(n/2);
+	} 
+```
+
+**Answer:**
+```
+1
+0
+0
+1
+1
+```
+
+**Explantion Pic:**
+
+![Screenshot (600)](https://user-images.githubusercontent.com/70228962/173192638-9d64275b-12a6-4e61-a052-b81bcd0308c2.png)
+
+### Click [here](./examples.java) to see the full example code
+
+## Fibonacci Series Using Recursion
+
+- nth term in the fibonacci series is the addition of previous two terms i.e. ` nth term  =  (n-1)th term + (n-2)th term
+- Base condition: first term and second term in the series is 1
+- Code: Click [here](/FibDemo.java) to see the full code
+```java
+static int fib (int n) {
+		if (n==1 || n==2 )
+			return 1;
+		
+		return fib(n-1) + fib(n-2);
+	}
+```
+
+![Screenshot (604)](https://user-images.githubusercontent.com/70228962/173192883-ce5c668e-53cc-44da-97cf-85bc75b5084f.png)
