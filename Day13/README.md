@@ -1,16 +1,16 @@
 # Tower of Hanoi
 
-![image](https://user-images.githubusercontent.com/70228962/173197494-895a90b9-e142-4f41-90fe-fb31a8eb96b9.png){ width: 200px; }
+![image](https://user-images.githubusercontent.com/70228962/173197494-895a90b9-e142-4f41-90fe-fb31a8eb96b9.png)
 
-### For n = 1 disk
+## For n = 1 disk
 
-![image](https://user-images.githubusercontent.com/70228962/173197517-23cd7a96-dff0-4050-95cf-71cd58ffe7b5.png){ width: 200px; }
+![image](https://user-images.githubusercontent.com/70228962/173197517-23cd7a96-dff0-4050-95cf-71cd58ffe7b5.png)
 
-### For n = 2 disk
+## For n = 2 disk
 
-![image](https://user-images.githubusercontent.com/70228962/173197529-1207f967-90f9-4c55-8246-7e4f671fc5df.png){ width: 200px; }
+![image](https://user-images.githubusercontent.com/70228962/173197529-1207f967-90f9-4c55-8246-7e4f671fc5df.png)
 
-### Algorithm
+## Algorithm
 
 ![image](https://user-images.githubusercontent.com/70228962/173197550-6f409acf-2f74-4669-b64c-9da83039ba0a.png){ width: 200px; }
 
@@ -20,7 +20,7 @@ So, the steps are
 
 ![image](https://user-images.githubusercontent.com/70228962/173197577-94dd5bb1-f725-43b2-9851-9c44ce6e8968.png)
 
-### For n = 3 disk
+## For n = 3 disk
 
 ![image](https://user-images.githubusercontent.com/70228962/173197593-4010d2da-b1e9-4ed1-9d1b-80adf19d81ca.png)
 
@@ -50,7 +50,7 @@ Here, if we closely watch, we are doing these below steps:
 
 ![image](https://user-images.githubusercontent.com/70228962/173197577-94dd5bb1-f725-43b2-9851-9c44ce6e8968.png)
 
-### Let's use Recursion
+## Let's use Recursion
 
 A recursive algorithm for Tower of Hanoi can be driven as follows 
 
