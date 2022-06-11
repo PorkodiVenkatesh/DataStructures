@@ -19,13 +19,16 @@
 ## Problems Solved (till date)
 
 - Practice Problems -> 31 
-- HackerRank -> 13 
+- HackerRank -> 14 
 - LeetCode -> 6 
 - Imocha -> 7 
-- CodeChef - 5 
+- CodeChef -> 6
 - GeeksForGeeks -> 7
 - [InftQ Problems -> 21](./InftQProblems/README.md) *(To be Solved)*
-- [Linear DSA Assessment 1 -> 3](.//Linear%20DSA%20Assessment%201/README.md)
+- [Linear DSA Assessment 1 -> 3](./Linear%20DSA%20Assessment%201/README.md)
+- [June 8 Coding Assessment -> 3](./June%208%20Coding%20Assessment/README.md)
+- [June 9 Coding Assessment -> 3](./June%209%20Coding%20Assessment/README.md)
+- [June 10 Coding Assessment -> 3](./June%2010%20Coding%20Assessment/README.md)
 
 
 ## Day 1 (5/23)
