@@ -72,7 +72,7 @@ So now, we are in a position to design an algorithm for Tower of Hanoi with more
 
 ![image](https://user-images.githubusercontent.com/70228962/173197577-94dd5bb1-f725-43b2-9851-9c44ce6e8968.png)
 
-### Let's construct A recursive algorithm for Tower of Hanoi can be driven as follows 
+### Let's construct a recursive algorithm for Tower of Hanoi
 
 ```
 TowerOfHanoi(N, source, destination, helper)
