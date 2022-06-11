@@ -172,6 +172,7 @@
 
 - Tower of Hanoi
 - GCD of two number : Euclidean algorithm
+- HackerRank Problem - 1 
 - Click [here](./Day13/README.md) to see the content 
 
 ## Day 14 (6/8)
