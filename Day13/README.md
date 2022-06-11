@@ -22,7 +22,7 @@ So, the steps are
 
 ## For n = 3 disk
 
-![image](https://user-images.githubusercontent.com/70228962/173197593-4010d2da-b1e9-4ed1-9d1b-80adf19d81ca.png)
+![image](https://www.tutorialspoint.com/data_structures_algorithms/images/tower_of_hanoi.gif)
 
 Let's follow the Algorithm steps
 
