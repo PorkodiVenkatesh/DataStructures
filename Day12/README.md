@@ -22,9 +22,14 @@
 
 ### You can find the content in this [ppt](./Algorithm%20IntroductionPPT.pdf)
 
-# Recursion
+# Recursions
 
 Recursion is the technique of making a function call itself until reach the base condition
+
+To build a recursive algorithm, you will break the given problem statement into two parts. The first one is the base case, and the second one is the recursive step.
+
+- **Base Case:** It is nothing more than the simplest instance of a problem, consisting of a condition that terminates the recursive function. This base case evaluates the result when a given condition is met.
+- **Recursive Step:** It computes the result by making recursive calls to the same function, but with the inputs decreased in size or complexity.
 
 ## Factorial of given Number n
 
