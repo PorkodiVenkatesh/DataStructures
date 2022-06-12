@@ -57,6 +57,13 @@ public static int linearSearch(int[] arr, int k) {
 	}
 ```
 
+### Time and Space Complexity of Linear Search
+
+- Best Case Time Complexity of Linear Search: O(1)
+- Average Case Time Complexity of Linear Search: O(N)
+- Worst Case Time Complexity of Linear Search: O(N)
+- Space Complexity of Linear Search: O(1)
+
 # Recursions
 
 Recursion is the technique of making a function call itself until reach the base condition
