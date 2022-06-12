@@ -145,31 +145,32 @@
 
 ## Day 12 (6/7)
 
-- What is Algorithm
-- Examples of Algorithm
-- What do you mean by a good Algorithm?
-- Efficiency Matters
-- Analysis of Algorithm
-- Space Complexity
-- Time Complexity
-- Asymptotic Notation : Big O , theta and Omega
-- Best, Average and Worst Case using Linear Search Algorithm
-- Big O 
-- O(1): Constant Time
-- O(N) linear Time
-- Sum of N natural numbers
-- 4 Rules in Big O
-- O(logn)
-- Big O Complexity Chart
-- Advantages and Disadvantages of Algorithm
-- Types of Algorithm
-- Brute Force
-- Recursion Algorithm
-- Find a Factorial of number with and without recursion
-- x power of (n) implementing using recursion
-- Predict the output (Recursion) - 3
-- Fibonacci Series Using Recursion
-- Click [here](./Day12/README.md) to see the content 
+- [Introduction to Algorithms](./Day12/README.md#introduction-algorithm)
+  - What is Algorithm
+  - Examples of Algorithm
+  - What do you mean by a good Algorithm?
+  - Efficiency Matters
+  - Analysis of Algorithm
+  - Space Complexity
+  - Time Complexity
+  - Asymptotic Notation : Big O , theta and Omega
+  - Best, Average and Worst Case using Linear Search Algorithm
+  - Big O 
+  - O(1): Constant Time
+  - O(N) linear Time
+  - Sum of N natural numbers
+  - 4 Rules in Big O
+  - O(logn)
+  - Big O Complexity Chart
+  - Advantages and Disadvantages of Algorithm
+  - Types of Algorithm
+  - Brute Force
+- [Recursion Algorithm](./Day12/README.md#recursions)
+- [Find a Factorial of number with and without recursion](./Day12/README.md#factorial-of-given-number-n)
+- [x power of (n) implementing using recursion](./Day12/README.md#x-power-of-n)
+- [Predict the output (Recursion) - 3](./Day12/README.md#predict-the-output)
+- [Fibonacci Series Using Recursion](./Day12/README.md#fibonacci-series-using-recursion)
+- Click [here](./Day12) to see the content 
 
 ## Day 13 (6/6)
 
