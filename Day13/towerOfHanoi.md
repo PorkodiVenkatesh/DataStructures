@@ -99,3 +99,7 @@ public static void towerOfHanoi (int n , String source, String destination, Stri
 	}
 ```
 ### Let's watch execution of this above methods for n = 3 disks
+
+
+https://user-images.githubusercontent.com/70228962/173246234-514d7d7b-610c-43ae-bb2e-c27d4e030585.mp4
+
