@@ -146,7 +146,7 @@
 ## Day 12 (6/7)
 
 - [Introduction to Algorithms](./Day12/README.md#introduction-algorithm)
-_    - What is Algorithm
+    - What is Algorithm
     - Examples of Algorithm
     - What do you mean by a good Algorithm?
     - Efficiency Matters
@@ -164,7 +164,7 @@ _    - What is Algorithm
     - Big O Complexity Chart
     - Advantages and Disadvantages of Algorithm
     - Types of Algorithm
-    - Brute Force_
+    - Brute Force
 - [Linear Search](./Day12/README.md#linear-search)
 - [Recursion Algorithm](./Day12/README.md#recursions)
 - [Find a Factorial of number with and without recursion](./Day12/README.md#factorial-of-given-number-n)
