@@ -165,7 +165,7 @@
   - Advantages and Disadvantages of Algorithm
   - Types of Algorithm
   - Brute Force
-- [Linear Search](./Day12/README.md)
+- [Linear Search](./Day12/README.md#linear-search)
 - [Recursion Algorithm](./Day12/README.md#recursions)
 - [Find a Factorial of number with and without recursion](./Day12/README.md#factorial-of-given-number-n)
 - [x power of (n) implementing using recursion](./Day12/README.md#x-power-of-n)
