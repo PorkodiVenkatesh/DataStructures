@@ -23,6 +23,7 @@
 - Types of Algorithm
 - Brute Force
 
+# Linear Search
 
 # Recursions
 
