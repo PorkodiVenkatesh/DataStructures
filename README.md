@@ -174,19 +174,20 @@
 
 ## Day 13 (6/6)
 
-- Tower of Hanoi
-- GCD of two number : Euclidean algorithm
-- HackerRank Problem - 1 
-- Geeks For Geeks Problem -1
-- Click [here](./Day13/README.md) to see the content 
+- [Tower of Hanoi](./Day13/towerOfHanoi.md)
+- [GCD of two number : Euclidean algorithm](./Day13/EuclideanGCD.java)
+- [HackerRank Problem - 1](./Day13/README.md#hackerrank-problem)
+- [Geeks For Geeks Problem -1](./Day13/README.md#geeks-for-geeks-problem)
+- Click [here](./Day13) to see the content 
 
 ## Day 14 (6/8)
 
 - Graphs
-- Examples of Graphs
-- Graph Terminologies
-- Types of Graph
-- Graph Respresentation
+  - What is Graphs
+  - Examples of Graphs
+  - Graph Terminologies
+  - Types of Graph
+  - Graph Respresentation
 - Breadth First Searching
 - Depth First Searching
 - Spanning Tree
