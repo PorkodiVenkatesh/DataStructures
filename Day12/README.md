@@ -57,12 +57,12 @@ public static int linearSearch(int[] arr, int k) {
 	}
 ```
 
-### Time and Space Complexity of Linear Search
+### Time Complexity and Space Complexity of Linear Search
 
-- Best Case Time Complexity of Linear Search: O(1)
-- Average Case Time Complexity of Linear Search: O(N)
-- Worst Case Time Complexity of Linear Search: O(N)
-- Space Complexity of Linear Search: O(1)
+- Best Case Time Complexity : O(1)
+- Average Case Time Complexity : O(N)
+- Worst Case Time Complexity : O(N)
+- Space Complexity : O(1)
 
 # Recursions
 
