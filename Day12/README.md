@@ -1,5 +1,8 @@
 # Introduction Algorithm
 
+
+### You can find the content in this [ppt](./Algorithm%20IntroductionPPT.pdf)
+
 - What is Algorithm
 - Examples of Algorithm
 - What do you mean by a good Algorithm?
@@ -20,7 +23,6 @@
 - Types of Algorithm
 - Brute Force
 
-### You can find the content in this [ppt](./Algorithm%20IntroductionPPT.pdf)
 
 # Recursions
 
