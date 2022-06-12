@@ -165,6 +165,7 @@
   - Advantages and Disadvantages of Algorithm
   - Types of Algorithm
   - Brute Force
+- [Linear Search](./Day12/README.md)
 - [Recursion Algorithm](./Day12/README.md#recursions)
 - [Find a Factorial of number with and without recursion](./Day12/README.md#factorial-of-given-number-n)
 - [x power of (n) implementing using recursion](./Day12/README.md#x-power-of-n)
@@ -197,8 +198,8 @@
 
 ## Day 15 (6/9)
 
-- Bubble Sort
 - Binary Search
+- Bubble Sort
 - Insertion Sort
 - Selection Sort
 - Merge Sort
