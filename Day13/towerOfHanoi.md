@@ -98,4 +98,6 @@ public static void towerOfHanoi (int n , String source, String destination, Stri
 		}
 	}
 ```
+### Let's watch execution of this above methods for n = 3 disks
 
+![](./TowerOfHanoi Method Call.mp4)
