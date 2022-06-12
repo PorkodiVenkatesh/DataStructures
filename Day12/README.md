@@ -25,6 +25,38 @@
 
 # Linear Search
 
+- In Linear Search,
+- **Input**-  integer array of size ‘n’ and integer to search ‘k’
+- **Output** -  If the element "k" is found in the array, then we have return 1, otherwise we have to return 0.
+- **Steps:**
+	- We will traverse each and every element of the array and compare that element with "k"  
+	- If it is equal to "k" then return 1, otherwise, keep on comparing for more elements in the array and if you reach at the end of the array and you did not find any element, then return 0.
+	
+![image](https://user-images.githubusercontent.com/70228962/173245734-30e6c1b4-00ce-44a6-9119-3d6baab4b4aa.png)
+
+
+- **Code:** Click [here](./LinearSearch.java) to see the full code
+
+```java
+public static int linearSearch(int[] arr, int k) {
+		
+		int n = arr.length;
+		//linear search
+		//traverse each and every element of the array and compare that element with "k". 
+		for(int i = 0; i< n; i++) {
+			if(arr[i] == k) { //If it is equal to "k" then return index its present, 
+				return i;
+			}
+		}
+			
+		return -1;
+		//otherwise, keep on comparing for more elements in the array and 
+		//if you reach at the end of the array and you did not find any element, then return -1.
+
+
+	}
+```
+
 # Recursions
 
 Recursion is the technique of making a function call itself until reach the base condition
