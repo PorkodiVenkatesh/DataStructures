@@ -51,3 +51,11 @@ So, the graph produced in step 5 is the minimum spanning tree of the given graph
 - Laying cables of electrical wiring
 - In network designed
 - To make protocols in network cycles
+
+## Prims Implementation
+
+We use
+ - boolean array **mstSet[]** to represent the set of vertices included in MST. 
+     - If a value mstSet[v] is true, then vertex v is included in MST, otherwise not. 
+ - Array **key[]** is used to store key values of all vertices. 
+ - Another array **parent[]** to store indexes of parent nodes in MST. The parent array is the output array which is used to show the constructed MST. 
