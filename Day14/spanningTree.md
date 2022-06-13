@@ -19,11 +19,19 @@ Consider the below graph
 
 The above graph contains 5 vertices. As we know, the vertices in the spanning tree would be the same as the graph; therefore, V` is equal 5. The number of edges in the spanning tree would be equal to (5 - 1), i.e., 4. The following are the possible spanning trees:
 
+### Spanning Tree 1
+
 ![image](https://user-images.githubusercontent.com/70228962/173319468-361617e7-245a-4124-a7af-dfbc49e650b4.png)
+
+### Spanning Tree 2
 
 ![image](https://user-images.githubusercontent.com/70228962/173319496-353ee1b3-9f04-4e71-b681-84b3c5e0a868.png)
 
+### Spanning Tree 3
+
 ![image](https://user-images.githubusercontent.com/70228962/173319521-d81f586e-ff18-4cbf-9c4b-e72a98748375.png)
+
+### Spanning Tree 4
 
 ![image](https://user-images.githubusercontent.com/70228962/173319558-16c746bd-273b-452a-a2b8-f83f24edf2fa.png)
 
