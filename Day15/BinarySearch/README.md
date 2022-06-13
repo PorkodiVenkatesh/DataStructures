@@ -77,9 +77,9 @@ There are two ways to implement the binary search algorithm -
 ### 1. Using Iterative method
 ```java
 public static int binarySearch(int[] arr, int k) {	
-		int f = 0;
-		int l = arr.length -1;
-		while (f <= l) {
+	int f = 0;
+	int l = arr.length -1;
+	while (f <= l) {
             int mid = f + (l -f)/2;  
             if(k == arr[mid]) 
                 return mid;
@@ -88,16 +88,16 @@ public static int binarySearch(int[] arr, int k) {
             else
                 l = mid - 1;
 		}
-		return -1;
+	return -1;
 	}
 ```
 
 ### 2. Using Recursion
 ```java
 public static int binarySearchUsingRecursion(int[] arr, int k) {	
-		int f = 0;
-		int l = arr.length -1;
-		while (f <= l) {
+	int f = 0;
+	int l = arr.length -1;
+	while (f <= l) {
             int mid = f + (l -f)/2;  
             if(k == arr[mid]) 
                 return mid;
@@ -106,7 +106,7 @@ public static int binarySearchUsingRecursion(int[] arr, int k) {
             else
                 return binarySearchUsingRecurison(arr, k, f, mid-1);
 		}
-		return -1;
+	return -1;
 	}
 ```
 ### Click [here](./binarySearch.java) to see the full code
