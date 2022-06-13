@@ -18,7 +18,7 @@ Let's consider sorted array **arr[]** and element to search is **k**
 > NOTE:
 >  - May be you can ask, I can find the midIndex using this formula **midIndex = (first + last)/2**, why I have use this formula **midIndex = first + (last – first)/2**
 > - But if we calculate the middle index like this **midIndex = (first + last)/2** means our code is not 100% correct, it contains bugs.
-> - That is, it fails for larger values of int variables low and high. Specifically, it fails if the sum of low and high is greater than the maximum positive int value($2^31$ – 1 ).
+> - That is, it fails for larger values of int variables low and high. Specifically, it fails if the sum of low and high is greater than the maximum positive int value(2^31 – 1 ).
 > - The sum overflows to a negative value and the value stays negative when divided by 2. In java, it throws ArrayIndexOutOfBoundException.
 > - So it’s better to use it like this **midIndex = first + (last – first)/2**
 
