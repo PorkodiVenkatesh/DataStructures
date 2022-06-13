@@ -9,7 +9,7 @@ Sorting algorithm specifies the way to arrange data in a particular order.The im
 ## Different Sorting Algorithms
 
 - [Bubble Sort](./BubbleSort/README.md)
-- [Insertion Sort](https://linktodocumentation)
-- [Selection Sort](https://linktodocumentation)
-- [Merge Sort](https://linktodocumentation)
+- [Insertion Sort](./InsertionSort/README.md)
+- [Selection Sort](./SelectionSort/README.md)
+- [Merge Sort](./MergeSort/README.md)
 
