@@ -80,4 +80,4 @@ Consider an undirected graph with 6 vertices.  V = {A, B, C, D, E, F} and Start 
 ## BFS Algorithm Complexity 
 
 - The time complexity of the BFS algorithm is represented in the form of **O(V + E)**, where V is the number of nodes and E is the number of edges. 
-- The space complexity of the algorithm is **O(V)**.
+- The space complexity of the BFS algorithm is **O(V)**.
