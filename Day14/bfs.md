@@ -74,6 +74,9 @@ Consider an undirected graph with 6 vertices.  V = {A, B, C, D, E, F} and Start 
 
 ![image](https://user-images.githubusercontent.com/70228962/173304809-b5e8a322-a905-4ccc-b21c-51399f47a4ac.png)
 
-> Note: Stopping because our queue
+### Since the queue is empty, we have completed the Breadth First Traversal of the graph.
 
-### 
+## BFS Algorithm Complexity 
+
+- The time complexity of the BFS algorithm is represented in the form of O(V + E), where V is the number of nodes and E is the number of edges. 
+- The space complexity of the algorithm is O(V).
