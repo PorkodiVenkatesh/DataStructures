@@ -7,8 +7,8 @@ Prim's algorithm starts with the single node and explores all the adjacent nodes
 
 ## Working of Prim's Algorithm
 
-We start from one vertex and keep adding edges with the lowest weight until we reach our goal. The steps for implementing Prim's algorithm are as follows:
-  **Step 1** -  Initialize the minimum spanning tree with a vertex chosen at random.
-  **Step 2** -  Find all the edges that connect the tree to new vertices, find the minimum and add it to the tree
-  **Step 3** -  Keep repeating step 2 until we get a minimum spanning tree
+We start from one vertex and keep adding edges with the minumum weight until we reach our goal. The steps for implementing Prim's algorithm are as follows:
+ - **Step 1** -  Initialize the minimum spanning tree with a vertex chosen at random.
+ - **Step 2** -  Find all the edges that connect the tree to new vertices, find the minimum and add it to the tree
+ - **Step 3** -  Keep repeating step 2 until we get a minimum spanning tree
 
