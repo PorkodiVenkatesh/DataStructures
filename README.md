@@ -176,7 +176,7 @@
 ## Day 13 (6/6)
 
 - [Tower of Hanoi](./Day13/towerOfHanoi.md)
-- [GCD of two number : Euclidean algorithm](./Day13/EuclideanGCD.java)
+- [GCD of two number : Euclidean algorithm](./Day13/euclideanGCD.md))
 - [HackerRank Problem - 1](./Day13/README.md#hackerrank-problem)
 - [Geeks For Geeks Problem -1](./Day13/README.md#geeks-for-geeks-problem)
 - Click [here](./Day13) to see the content 
