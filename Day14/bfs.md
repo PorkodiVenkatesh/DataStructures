@@ -25,7 +25,7 @@ Consider an undirected graph with 6 vertices.  V = {A, B, C, D, E, F} and Start 
         
 ![image](https://user-images.githubusercontent.com/70228962/173302349-6ddec5f2-4b4b-49c3-a391-fa1009c035f4.png)
 
-> Note: Just Adding the Adjacents in the Alphabetical Order. Then for upcoming iterations we just goona repeat the step until our queue is empty
+> Note: Just Adding the Adjacents in the Alphabetical Order. Then for upcoming iterations we just goona repeat the step 2 until our queue is empty
 
 ### Second Iteration
 
