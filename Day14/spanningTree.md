@@ -15,7 +15,7 @@ A spanning tree is a sub-graph of an undirected connected graph, which includes 
 
 Consider the below graph
 
-![image](https://user-images.githubusercontent.com/70228962/173319376-84dcaa7d-3630-4b2f-a7d3-20d81466dae1.png)
+![image](https://user-images.githubusercontent.com/70228962/173321073-f631e077-87fa-4570-8bae-09fd5aa8e629.png)
 
 The above graph contains 5 vertices. As we know, the vertices in the spanning tree would be the same as the graph; therefore, V` is equal 5. The number of edges in the spanning tree would be equal to (5 - 1), i.e., 4. The following are the possible spanning trees:
 
