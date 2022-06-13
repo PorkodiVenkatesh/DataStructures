@@ -2,6 +2,7 @@
 
 - Breadth-First Search is a recursive algorithm used for searching all the vertices of a graph data structure
 - BFS implementation puts each vertex of the graph into one of two categories- **Visited** and **Not Visited**
+- We use **Queue** datastructure to do Breadth-First Searching
 - **Algorithm**
   - **Step 1** - Add Start Vertex in the Queue
   - **Step 2** - Take the Vertex in the front of the Queue 
