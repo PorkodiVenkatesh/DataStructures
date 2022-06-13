@@ -12,7 +12,7 @@ We start from one vertex and keep adding edges with the minumum weight until we 
  - **Step 2** -  Find all the edges that connect the tree to new vertices, find the minimum and add it to the tree
  - **Step 3** -  Keep repeating step 2 until we get a minimum spanning tree
 
-## Example of prim's algorithm
+## Example of Prim's Algorithm
 
 Now, let's see the working of prim's algorithm using an example. It will be easier to understand the prim's algorithm using an example.
 
