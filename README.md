@@ -183,18 +183,17 @@
 
 ## Day 14 (6/8)
 
-- Graphs
+- [Graphs](./Day14#graphs)
   - What is Graphs
   - Examples of Graphs
   - Graph Terminologies
   - Types of Graph
   - Graph Respresentation
-- Breadth First Searching
-- Depth First Searching
-- Spanning Tree
-- Minimum Spanning Tree
-- Prims Algorithm
-- Click [here](./Day14/README.md) to see the content 
+- [Breadth First Searching](./bfs.md)
+- [Depth First Searching](./dfs.md)
+- [Spanning Tree and Minimum Spanning Tree](./spanningTree.md)
+- [Prims Algorithm](./primsAlg.md)
+- Click [here](./Day14) to see the content 
 
 ## Day 15 (6/9)
 
