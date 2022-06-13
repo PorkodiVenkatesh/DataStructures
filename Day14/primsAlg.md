@@ -54,8 +54,12 @@ So, the graph produced in step 5 is the minimum spanning tree of the given graph
 
 ## Prims Implementation
 
+- **Input:**  Graph is represented by adjancey Matrox
+- **Output:** Edeges in the minimum spanning tree along with its weight 
 We use
  - boolean array **mstSet[]** to represent the set of vertices included in MST. 
      - If a value mstSet[v] is true, then vertex v is included in MST, otherwise not. 
  - Array **key[]** is used to store key values of all vertices. 
  - Another array **parent[]** to store indexes of parent nodes in MST. The parent array is the output array which is used to show the constructed MST. 
+
+### Click [here](./MST.java) to see the code. Time Complexity of this program is O(V^2)
