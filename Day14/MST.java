@@ -1,11 +1,8 @@
-package LeetCode;
-
 //A Java program for Prim's Minimum Spanning Tree (MST) algorithm.
 
 class MST {
 
-	void primMST(int graph[][], int V)
-	{
+	void primMST(int graph[][], int V) {
 		// Array to store constructed MST
 		int parent[] = new int[V];
 
@@ -28,7 +25,7 @@ class MST {
 
 		// The MST will have V vertices
 		for (int count = 0; count < V - 1; count++) {
-			
+
 			// A utility function to find the vertex with minimum key
 			// value, from the set of vertices not yet included in MST
 			int min = Integer.MAX_VALUE, min_index = -1;
@@ -38,7 +35,7 @@ class MST {
 					min = key[v];
 					min_index = v;
 				}
-			
+
 			// Pick thd minimum key vertex from the set of vertices
 			// not yet included in MST
 			int u = min_index;
@@ -66,21 +63,19 @@ class MST {
 			System.out.println(parent[i] + " - " + i + "\t" + graph[i][parent[i]]);
 	}
 
-	public static void main(String[] args)
-	{
-		
+	public static void main(String[] args) {
+
 		MST t = new MST();
-		int V =5;
-		//adjacency matrix representation of the graph
-		int graph[][] = new int[][] { {0, 0, 3, 0, 0},    
-            {0, 0, 10, 4, 0},    
-            {3, 10, 0, 2, 6},    
-            {0, 4, 2, 0, 1},    
-            {0, 0, 6, 1, 0},    
-            };   
+		int V = 5;
+		// adjacency matrix representation of the graph
+		int graph[][] = new int[][] { 
+			{ 0, 0, 3, 0, 0 }, 
+			{ 0, 0, 10, 4, 0 }, 
+			{ 3, 10, 0, 2, 6 }, 
+			{ 0, 4, 2, 0, 1 },
+			{ 0, 0, 6, 1, 0 }};
 
 		// Print the solution
 		t.primMST(graph, V);
 	}
 }
-
