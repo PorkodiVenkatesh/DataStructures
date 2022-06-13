@@ -197,10 +197,12 @@
 
 ## Day 15 (6/9)
 
-- Binary Search
-- Bubble Sort
-- Insertion Sort
-- Selection Sort
-- Merge Sort
-- Click [here](./Day15/README.md) to see the content 
+- [Searching Algorthims](./Day15/README.md#searching-algorthims)
+  - [Binary Search](./Day15/BinarySearch/README.md)
+- [Sorting Algorithms](./Day15/README.md#sorting-algorithms)
+  - [Bubble Sort](./Day15/BubbleSort/README.md)
+  - [Insertion Sort](./Day15/InsertionSort/README.md)
+  - [Selection Sort](./Day15/SelectionSort/README.md)
+  - [Merge Sort](./Day15/MergeSort/README.md)
+- Click [here](./Day15) to see the content 
 
