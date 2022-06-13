@@ -37,4 +37,20 @@ The above graph contains 5 vertices. As we know, the vertices in the spanning tr
 
 # Mininum Spanning Tree (MST)
 
+The minimum spanning tree is a spanning tree whose sum of the edges is minimum. Consider the below graph that contains the edge weight:
+
+The following are the spanning trees that we can make from the above graph.
+
+- The first spanning tree is a tree in which we have removed the edge between the vertices 1 and 5 shown as below:
+    - The sum of the edges of the above tree is (1 + 4 + 5 + 2): 12
+- The second spanning tree is a tree in which we have removed the edge between the vertices 1 and 2 shown as below:
+    - The sum of the edges of the above tree is (3 + 2 + 5 + 4) : 14
+- The third spanning tree is a tree in which we have removed the edge between the vertices 2 and 3 shown as below:
+    - The sum of the edges of the above tree is (1 + 3 + 2 + 5) : 11
+- The fourth spanning tree is a tree in which we have removed the edge between the vertices 3 and 4 shown as below:
+    - The sum of the edges of the above tree is (1 + 3 + 2 + 4) : 10. 
+
+### The edge cost 10 is minimum so it is a minimum spanning tree. So, the Minimum Spanning Tree is
+
+![image](https://user-images.githubusercontent.com/70228962/173319558-16c746bd-273b-452a-a2b8-f83f24edf2fa.png)
 
