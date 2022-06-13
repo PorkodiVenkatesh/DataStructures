@@ -42,7 +42,7 @@ Let's consider sorted array **arr[]** and element to search is **k**
 
 > Note: Going for next iteration with updated first since first <= last (5 <= 8) is true
 
-## Second Iteration
+### Second Iteration
 - first = 5
 - last =  8
 - midIndex = (first + last)/2 = (5+8)/2 = 13/2 = 6
@@ -55,7 +55,7 @@ Let's consider sorted array **arr[]** and element to search is **k**
 
 > Note: Going for next iteration with updated first since first <= last (7 <= 8) is true
 
-## Second Iteration
+### Third Iteration
 - first =  7
 - last =  8
 - midIndex = (first + last)/2 = (7+8)/2 = 15/2 = 7
