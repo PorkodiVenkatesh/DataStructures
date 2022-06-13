@@ -40,7 +40,6 @@ Suppose, a weighted graph is -
 
 ![image](https://user-images.githubusercontent.com/70228962/173324386-b8082448-3e30-4d91-a7b4-4ae2db9321eb.png)
 
-So, the graph produced in step 5 is the minimum spanning tree of the given graph. The cost of the MST is given below -
-Cost of MST = 4 + 2 + 1 + 3 = 10 units.
+So, the graph produced in step 5 is the minimum spanning tree of the given graph. The cost of the MST is given below - **Cost of MST = 4 + 2 + 1 + 3 = 10 units.**
 
 
