@@ -42,4 +42,12 @@ Suppose, a weighted graph is -
 
 So, the graph produced in step 5 is the minimum spanning tree of the given graph. The cost of the MST is given below - **Cost of MST = 4 + 2 + 1 + 3 = 10 units.**
 
+## Prim's Algorithm Complexity
 
+- The time complexity of Prim's algorithm is O(E log V).
+
+## Prim's Algorithm Application
+
+- Laying cables of electrical wiring
+- In network designed
+- To make protocols in network cycles
