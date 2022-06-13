@@ -1,3 +1,5 @@
+package LeetCode;
+
 //A Java program for Prim's Minimum Spanning Tree (MST) algorithm.
 
 class MST {
@@ -60,7 +62,7 @@ class MST {
 		// print the constructed MST
 		System.out.println("Edge \tWeight");
 		for (int i = 1; i < V; i++)
-			System.out.println(parent[i] + " - " + i + "\t" + graph[i][parent[i]]);
+			System.out.println(parent[i] + " - " + i + "\t" + key[i]);
 	}
 
 	public static void main(String[] args) {
