@@ -12,3 +12,35 @@ We start from one vertex and keep adding edges with the minumum weight until we 
  - **Step 2** -  Find all the edges that connect the tree to new vertices, find the minimum and add it to the tree
  - **Step 3** -  Keep repeating step 2 until we get a minimum spanning tree
 
+## Example of prim's algorithm
+
+Now, let's see the working of prim's algorithm using an example. It will be easier to understand the prim's algorithm using an example.
+
+Suppose, a weighted graph is -
+
+![image](https://user-images.githubusercontent.com/70228962/173323331-18204ff1-8418-47eb-baac-f31a7ea3dab5.png)
+
+**Step 1** - First, we have to choose a vertex from the above graph. Let's choose B.
+
+![image](https://user-images.githubusercontent.com/70228962/173323411-4ec5ceac-f530-4517-9907-71a944ff42a6.png)
+
+**Step 2** - Now, we have to choose and add the edge from vertex B with minumum. There are two edges from vertex B that are B to C with weight 10 and edge B to D with weight 4. Among the edges, the edge BD has the minimum weight. So, add it to the MST.
+
+![image](https://user-images.githubusercontent.com/70228962/173323786-f6bbed99-6442-4bbf-8f2d-7e24599c2d07.png)
+
+**Step 3** -  Now, again, choose the edge with the minimum weight among all the other edges. In this case, the edges DE and CD are such edges. Add them to MST and explore the adjacent of C, i.e., E and A. So, select the edge DE and add it to the MST.
+
+![image](https://user-images.githubusercontent.com/70228962/173323997-58173b61-7133-4a86-aefc-293f8c073965.png)
+
+**Step 4** - Now, select the edge CD, and add it to the MST.
+
+![image](https://user-images.githubusercontent.com/70228962/173324220-63688a72-39d7-43b6-a27c-ebc450dbdeed.png)
+
+**Step 5** - Now, choose the edge CA. Here, we cannot select the edge CE as it would create a cycle to the graph. So, choose the edge CA and add it to the MST.
+
+![image](https://user-images.githubusercontent.com/70228962/173324386-b8082448-3e30-4d91-a7b4-4ae2db9321eb.png)
+
+So, the graph produced in step 5 is the minimum spanning tree of the given graph. The cost of the MST is given below -
+Cost of MST = 4 + 2 + 1 + 3 = 10 units.
+
+
