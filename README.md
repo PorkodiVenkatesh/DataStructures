@@ -14,7 +14,7 @@
 - [Day 12 (6/7)](#day-12-67)
 - [Day 13 (6/8)](#day-13-66)
 - [Day 14 (6/9)](#day-14-68)
-- [Day 15 (6/10](#day-15-69)
+- [Day 15 (6/10)](#day-15-69)
 
 ## Problems Solved (till date)
 
