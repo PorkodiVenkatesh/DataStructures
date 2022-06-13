@@ -65,6 +65,11 @@ Let's consider sorted array **arr[]** and element to search is **k**
  
  ![image](https://user-images.githubusercontent.com/70228962/173394909-9098df1a-b6c3-454a-a894-6698b439c449.png)
  
+ > NOTE:
+ > If we used linear search for this sorted array, I need iterate for 7 times
+ > But using Binary search, I have iterated only for 3 times
+ > So, it reduces the time complexity
+ > That's why, its better to use binary search for sorted array
 
 ## Implementation of Binary Search
 
