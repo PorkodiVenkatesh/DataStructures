@@ -4,8 +4,8 @@ Searching Algorithms are designed to check for an element or retrieve an element
 
 ## Different Searching Algorithms
 
-- [Linear Search](
-- [Binary Search](
+- [Linear Search](https://github.com/PorkodiVenkatesh/DataStructures/blob/main/Day12/README.md#linear-search)
+- [Binary Search](./BinarySearch/README.md)
 
 
 # Sorting Algorithms
