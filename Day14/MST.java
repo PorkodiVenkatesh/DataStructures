@@ -1,44 +1,10 @@
 package LeetCode;
 
 //A Java program for Prim's Minimum Spanning Tree (MST) algorithm.
-//The program is for adjacency matrix representation of the graph
-
-import java.util.*;
-import java.lang.*;
-import java.io.*;
 
 class MST {
-	// Number of vertices in the graph
-	private static final int V = 5;
 
-	// A utility function to find the vertex with minimum key
-	// value, from the set of vertices not yet included in MST
-	int minKey(int key[], Boolean mstSet[])
-	{
-		// Initialize min value
-		int min = Integer.MAX_VALUE, min_index = -1;
-
-		for (int v = 0; v < V; v++)
-			if (mstSet[v] == false && key[v] < min) {
-				min = key[v];
-				min_index = v;
-			}
-
-		return min_index;
-	}
-
-	// A utility function to print the constructed MST stored in
-	// parent[]
-	void printMST(int parent[], int graph[][])
-	{
-		System.out.println("Edge \tWeight");
-		for (int i = 1; i < V; i++)
-			System.out.println(parent[i] + " - " + i + "\t" + graph[i][parent[i]]);
-	}
-
-	// Function to construct and print MST for a graph represented
-	// using adjacency matrix representation
-	void primMST(int graph[][])
+	void primMST(int graph[][], int V)
 	{
 		// Array to store constructed MST
 		int parent[] = new int[V];
@@ -62,9 +28,20 @@ class MST {
 
 		// The MST will have V vertices
 		for (int count = 0; count < V - 1; count++) {
+			
+			// A utility function to find the vertex with minimum key
+			// value, from the set of vertices not yet included in MST
+			int min = Integer.MAX_VALUE, min_index = -1;
+
+			for (int v = 0; v < V; v++)
+				if (mstSet[v] == false && key[v] < min) {
+					min = key[v];
+					min_index = v;
+				}
+			
 			// Pick thd minimum key vertex from the set of vertices
 			// not yet included in MST
-			int u = minKey(key, mstSet);
+			int u = min_index;
 
 			// Add the picked vertex to the MST Set
 			mstSet[u] = true;
@@ -84,12 +61,17 @@ class MST {
 		}
 
 		// print the constructed MST
-		printMST(parent, graph);
+		System.out.println("Edge \tWeight");
+		for (int i = 1; i < V; i++)
+			System.out.println(parent[i] + " - " + i + "\t" + graph[i][parent[i]]);
 	}
 
 	public static void main(String[] args)
 	{
+		
 		MST t = new MST();
+		int V =5;
+		//adjacency matrix representation of the graph
 		int graph[][] = new int[][] { {0, 0, 3, 0, 0},    
             {0, 0, 10, 4, 0},    
             {3, 10, 0, 2, 6},    
@@ -98,8 +80,7 @@ class MST {
             };   
 
 		// Print the solution
-		t.primMST(graph);
+		t.primMST(graph, V);
 	}
 }
-//This code is contributed by Aakash Hasija
 
