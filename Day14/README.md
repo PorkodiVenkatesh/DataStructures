@@ -9,8 +9,7 @@
  
 # Notes
 
-- Breadth First Searching
-- Depth First Searching
-- Spanning Tree
-- Minimum Spanning Tree
-- Prims Algorithm
+- [Breadth First Searching](./bfs.md)
+- [Depth First Searching](./dfs.md)
+- [Spanning Tree and Minimum Spanning Tree](./spanningTree.md)
+- [Prims Algorithm](./primsAlg.md)
