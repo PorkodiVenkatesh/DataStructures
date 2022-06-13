@@ -189,10 +189,10 @@
   - Graph Terminologies
   - Types of Graph
   - Graph Respresentation
-- [Breadth First Searching](./bfs.md)
-- [Depth First Searching](./dfs.md)
-- [Spanning Tree and Minimum Spanning Tree](./spanningTree.md)
-- [Prims Algorithm](./primsAlg.md)
+- [Breadth First Searching](./Day14/bfs.md)
+- [Depth First Searching](./Day14/dfs.md)
+- [Spanning Tree and Minimum Spanning Tree](./Day14/spanningTree.md)
+- [Prims Algorithm](./Day14/primsAlg.md)
 - Click [here](./Day14) to see the content 
 
 ## Day 15 (6/9)
