@@ -54,7 +54,7 @@ So, the graph produced in step 5 is the minimum spanning tree of the given graph
 
 ## Prims Implementation
 
-- **Input:**  Graph is represented by adjancey Matrox
+- **Input:**  Graph is represented by adjancey Matrix
 - **Output:** Edeges in the minimum spanning tree along with its weight 
 We use
  - boolean array **mstSet[]** to represent the set of vertices included in MST. 
