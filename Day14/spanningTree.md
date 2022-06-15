@@ -54,4 +54,4 @@ The following are the spanning trees that we can make from the above graph.
 
 ![image](https://user-images.githubusercontent.com/70228962/173319558-16c746bd-273b-452a-a2b8-f83f24edf2fa.png)
 
-> Note: The disconnected graph does not have any spanning tree.
+
