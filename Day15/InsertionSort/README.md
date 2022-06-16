@@ -7,27 +7,37 @@ The array is virtually split into a sorted and an unsorted part. Values from the
 
 ## How Insertion Sort Works?
 
-Suppose we need to sort the following array.
+Consider an example: arr[]: {12, 11, 13, 5, 6}
+```
+   12   	   11   	   13   	   5   	   6   
+   
+```   
 
-<img width="250" alt="im1" src="https://user-images.githubusercontent.com/82796751/173298377-6e7ce7d5-d82b-460f-ada6-269bdd655bb2.PNG">
+### First Pass:
 
-The first element in the array is assumed to be sorted. Take the second element and store it separately in key.
+Initially, the first two elements of the array are compared in insertion sort.
+```
+   12   	   11   	   13   	   5   	   6
+```
 
-Compare key with the first element. If the first element is greater than key, then key is placed in front of the first element.
-<img width="358" alt="im2" src="https://user-images.githubusercontent.com/82796751/173298652-deaf82a7-6a0a-4f81-ad49-99c8dc71a018.PNG">
+Here, 12 is greater than 11 hence they are not in the ascending order and 12 is not at its correct position. Thus, swap 11 and 12.
+So, for now 11 is stored in a sorted sub-array.
 
-Now, the first two elements are sorted.
+```
+   11   	   12   	   13   	   5   	   6   
+```
 
-Take the third element and compare it with the elements on the left of it. Placed it just behind the element smaller than it. If there is no element smaller than it, then place it at the beginning of the array.
+### Second Pass:
 
-<img width="357" alt="im3" src="https://user-images.githubusercontent.com/82796751/173298685-bf807829-08ad-428a-9741-ecfa0a07eff1.PNG">
+Now, move to the next two elements and compare them
 
-Similarly, place every unsorted element at its correct position.
+```
+   11   	   12   	   13   	   5   	   6   
+```
 
-<img width="338" alt="im4" src="https://user-images.githubusercontent.com/82796751/173298695-26ec47c3-e648-4543-bfcc-a49bd80361a0.PNG">
+Here, 13 is greater than 12, thus both elements seems to be in ascending order, hence, no swapping will occur. 12 also stored in a sorted sub-array along with 11
 
-<img width="304" alt="im5" src="https://user-images.githubusercontent.com/82796751/173298716-2bf19970-9299-4bee-9733-051d008bf7f8.PNG">
-
+### Third Pass:
 
 Click [here](./InsertionSort.java) to see the code.
 
