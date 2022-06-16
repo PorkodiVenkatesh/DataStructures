@@ -8,6 +8,10 @@ public class InsertionSort {
 		int[] arr= {6,5,4,3,2,1};
 		int N=arr.length;
 		
+		/* Move elements of arr[0..i-1], that are
+               greater than tem, to one position ahead
+               of their current position */
+		
 		for(int i=1;i<N;i++) {
 			int temp=arr[i];
 			int j=i-1;
