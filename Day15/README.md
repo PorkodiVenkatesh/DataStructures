@@ -23,3 +23,7 @@ Sorting algorithm specifies the way to arrange data in a particular order.The im
 - [Selection Sort](./SelectionSort/README.md)
 - [Merge Sort](./MergeSort/README.md)
 
+## Time and Space Complexity for Above 4 Algorithms
+
+![image](https://user-images.githubusercontent.com/70228962/174136763-7667ab1e-d543-4033-918d-1cdd0d9c4657.png)
+
