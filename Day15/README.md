@@ -30,5 +30,4 @@ Sorting algorithm specifies the way to arrange data in a particular order.The im
 
 ## Time and Space Complexity for Above 5 Sorting Algorithms
 
-![image](https://user-images.githubusercontent.com/70228962/174138055-2b19f496-9025-42f3-be8f-b6d5b973bb33.png)
-
+![image](https://user-images.githubusercontent.com/70228962/174138220-3c0c1d5c-f17b-430d-8f7d-17fdef3ffe17.png)
