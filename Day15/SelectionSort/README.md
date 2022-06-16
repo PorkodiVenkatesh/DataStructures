@@ -14,7 +14,7 @@ Compare minimum with the second element. If the second element is smaller than m
 
 Compare minimum with the third element. Again, if the third element is smaller, then assign minimum to the third element otherwise do nothing. The process goes on until the last element.
 
-<img width="278" alt="i2" src=https://user-images.githubusercontent.com/70228962/174135598-2c7b9f48-d309-41f9-9a40-4be8c6290773.png">
+![image](https://user-images.githubusercontent.com/70228962/174135748-905bf3b9-86ee-44b1-a187-1c5b34592437.png)
 
 After each iteration, minimum is placed in the front of the unsorted list.
 
