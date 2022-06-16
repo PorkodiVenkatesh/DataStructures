@@ -7,6 +7,10 @@ Searching Algorithms are designed to check for an element or retrieve an element
 - [Linear Search](https://github.com/PorkodiVenkatesh/DataStructures/blob/main/Day12/README.md#linear-search)
 - [Binary Search](./BinarySearch/README.md)
 
+## Time and Space Complexity for above 2 searching algorithm
+
+![image](https://user-images.githubusercontent.com/70228962/174137742-1ea04c92-caf2-4aac-8380-3cc389b36cb2.png)
+
 
 # Sorting Algorithms
 
