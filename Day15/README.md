@@ -26,8 +26,9 @@ Sorting algorithm specifies the way to arrange data in a particular order.The im
 - [Insertion Sort](./InsertionSort/README.md)
 - [Selection Sort](./SelectionSort/README.md)
 - [Merge Sort](./MergeSort/README.md)
+- Quick Sort _will learn in upcoming session_
 
-## Time and Space Complexity for Above 4 Sorting Algorithms
+## Time and Space Complexity for Above 5 Sorting Algorithms
 
 ![image](https://user-images.githubusercontent.com/70228962/174136763-7667ab1e-d543-4033-918d-1cdd0d9c4657.png)
 
