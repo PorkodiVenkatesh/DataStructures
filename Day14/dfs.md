@@ -2,7 +2,7 @@
 
 - Depth First Search is a recursive algorithm used for searching all the vertices of a graph data structure
 - DFS implementation puts each vertex of the graph into one of two categories- **Visited** and **Not Visited**
-- We use **stack** datastructure to do Breadth-First Searching
+- We use **stack** datastructure to do Depth-First Searching
 - **Algorithm**
   - **Step 1** - Push Start Vertex to the stack
   - **Step 2** - Take the Vertex in the top of the stack
