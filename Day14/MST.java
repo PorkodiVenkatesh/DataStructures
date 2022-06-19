@@ -42,9 +42,7 @@ class MST {
 			// not yet included in MST
 			int u = min_index;
 
-			// Add the picked vertex to the MST Set
-			mstSet[u] = true;
-
+			
 			// Update key value and parent index of the adjacent
 			// vertices of the picked vertex. Consider only those
 			// vertices which are not yet included in MST
@@ -57,6 +55,9 @@ class MST {
 					parent[v] = u;
 					key[v] = graph[u][v];
 				}
+			
+			// Add the picked vertex to the MST Set
+			mstSet[u] = true;
 		}
 
 		// print the constructed MST
