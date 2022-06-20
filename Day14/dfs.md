@@ -8,7 +8,7 @@
   - **Step 2** - Take the Vertex in the top of the stack
     - **Step 2.1** - Pop it from the top of the stack and Add it in the Visited List
     - **Step 2.2** - Push all the vertex's adjacent to the stack, if the adjancents aren't in the visited list.
-  - **Step 3**. Keep repeating steps 2 until the queue is empty and all the vertex are visitied
+  - **Step 3**. Keep repeating steps 2 until the stack is empty and all the vertex are visitied
 
 ## Let's see how the Depth First Search algorithm works with an example
 
