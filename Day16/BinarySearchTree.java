@@ -55,5 +55,20 @@ public class BinarySearchTree {
 		
 		inOrder(rootNode.right);
 	}
+	
+	public static int findHeight(Node rootNode) {
+		
+		int leftHeight = 0;
+		int rightHeight = 0;
+		
+		if(rootNode.left != null) {
+			leftHeight = 1 + findHeight(rootNode.left);
+		}
+		if(rootNode.right != null) {
+			rightHeight = 1 + findHeight(rootNode.right);
+		}
+		
+		return Math.max(leftHeight, rightHeight);
+	}
 
 }

@@ -42,6 +42,9 @@ public class BSTDemo {
 		System.out.println("InOrder Traversal");
 		BinarySearchTree.inOrder(rootNode);
 		
+		System.out.println("Height of the Tree or Depth of the Tree: "
+				+ BinarySearchTree.findHeight(rootNode));
+		
 	}
 
 }
