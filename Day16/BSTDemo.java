@@ -21,6 +21,8 @@ public class BSTDemo {
 			BinarySearchTree.insertNode(nodeToInsert, rootNode);
 		}
 		
+		System.out.println("PreOrder Traversal");
+		BinarySearchTree.preOrder(rootNode);
 		
 	}
 
