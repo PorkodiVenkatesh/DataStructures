@@ -81,3 +81,32 @@ Consider an undirected graph with 6 vertices.  V = {A, B, C, D, E, F} and Start 
 
 - The time complexity of the DFS algorithm is represented in the form of **O(V + E)**, where **V** is the number of nodes and **E** is the number of edges. 
 - The space complexity of the DFS algorithm is **O(V)**.
+
+## Implementation
+
+- Click [here](https://github.com/PorkodiVenkatesh/DataStructures/blob/main/Day16/GraphTraversalDemo.java) to see the full code
+
+```java
+public static List<Integer>  dfs(int [][] graph, int V, int sourceVertex){
+		
+		List<Integer> visited = new ArrayList<>();
+		Stack<Integer>  adjStack  = new Stack<>();
+		
+		adjStack.push(sourceVertex);
+		
+		while(visited.size() < V && adjStack.isEmpty() == false) {
+			int vertex = adjStack.pop();
+			visited.add(vertex);
+			for(int i =0; i<V; i++) {
+				if(graph[vertex][i] != 0 && adjStack.contains(i) == false && visited.contains(i) == false) {
+					//there is a edge between vertex and i
+					adjStack.push(i);
+				}
+			}
+			
+			
+		}
+		
+		return visited;
+	}
+```
