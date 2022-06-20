@@ -15,6 +15,7 @@
 - [Day 13 (6/8)](#day-13-66)
 - [Day 14 (6/9)](#day-14-68)
 - [Day 15 (6/10)](#day-15-69)
+- [Day 16 (6/20)](#day-16-620)
 
 ## Problems Solved (till date)
 
@@ -208,7 +209,7 @@
 
 ## Day 16 (6/20)
 
-- [Trees]()
+- Trees
   - Trees - What and Why
   - Tree Example
   - Logical Respresentation of Tree
@@ -222,3 +223,4 @@
 - Graph Travesal - BFS and DFS Implementation 
 - Problems - 4
 - Search a Node in BST
+- Click [here](./Day16) to see the content 
