@@ -206,3 +206,19 @@
   - [Merge Sort](./Day15/MergeSort/README.md)
 - Click [here](./Day15) to see the content 
 
+## Day 16 (6/20)
+
+- [Trees]()
+  - Trees - What and Why
+  - Tree Example
+  - Logical Respresentation of Tree
+  - Tree Terminologies
+- Binary Tree and its Types
+- Binary Search Tree
+  - Insertion of a node in an Tree
+  - Pre Order, Post Order and In Order Traversal
+  - Height or Depth of the Tree
+- AVL Tree (and its Rotations)
+- Graph Travesal - BFS and DFS Implementation 
+- Problems - 4
+- Search a Node in BST
