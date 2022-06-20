@@ -1,6 +1,18 @@
 package Trees;
 
 import java.util.Scanner;
+/* https://sbme-tutorials.github.io/gallery/trees/Binary_search_tree.svg
+ * 8 //root node
+8 //n
+3
+10
+1
+6
+14
+4
+7
+13
+ */
 
 public class BSTDemo {
 
@@ -23,6 +35,12 @@ public class BSTDemo {
 		
 		System.out.println("PreOrder Traversal");
 		BinarySearchTree.preOrder(rootNode);
+		
+		System.out.println("PostOrder Traversal");
+		BinarySearchTree.postOrder(rootNode);
+		
+		System.out.println("InOrder Traversal");
+		BinarySearchTree.inOrder(rootNode);
 		
 	}
 

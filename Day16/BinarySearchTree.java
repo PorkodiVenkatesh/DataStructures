@@ -33,5 +33,27 @@ public class BinarySearchTree {
 		preOrder(rootNode.right);
 					
 	}
+	
+	public static void postOrder(Node rootNode) {
+		if(rootNode == null)
+			return;
+		
+		postOrder(rootNode.left);
+		postOrder(rootNode.right);
+		
+		System.out.println(rootNode.data);
+	  
+	}
+	
+	public static void inOrder(Node rootNode) {
+		if(rootNode == null)
+			return;
+		
+		inOrder(rootNode.left);
+		
+		System.out.println(rootNode.data);
+		
+		inOrder(rootNode.right);
+	}
 
 }
