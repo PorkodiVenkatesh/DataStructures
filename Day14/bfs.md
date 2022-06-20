@@ -81,3 +81,31 @@ Consider an undirected graph with 6 vertices.  V = {A, B, C, D, E, F} and Start 
 
 - The time complexity of the BFS algorithm is represented in the form of **O(V + E)**, where V is the number of nodes and E is the number of edges. 
 - The space complexity of the BFS algorithm is **O(V)**.
+
+## Implementation
+
+- Click [here](https://github.com/PorkodiVenkatesh/DataStructures/blob/main/Day16/GraphTraversalDemo.java) to see the full code
+
+```java
+
+	public static List<Integer> bfs(int[][] graph, int V, int sourceVertex){
+		
+		List<Integer>  visited = new ArrayList<>();
+		ArrayDeque<Integer>  adjQueue = new ArrayDeque<>();
+		
+		adjQueue.addLast(sourceVertex);
+		
+		while(visited.size() < V && adjQueue.isEmpty() == false) {
+			int vertex = adjQueue.removeFirst();
+			visited.add(vertex);
+			for(int i =0; i<V; i++) {
+				if(graph[vertex][i] != 0 && adjQueue.contains(i) == false && visited.contains(i) == false) {
+					//there is a edge between vertex and i
+					adjQueue.addLast(i);
+				}
+			}
+		}
+		
+		return visited;
+	}
+  ```
