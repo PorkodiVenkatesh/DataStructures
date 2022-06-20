@@ -20,20 +20,25 @@ For each query, return the Nth prime number.
 Print the output of each query in a separate line.
 ### Note:
 You do not need to print anything; it has already been taken care of. Just implement the given function.
-###Constraints:
+### Constraints:
+```
 1 <= Q <= 100
 1 <= N <= 10^4
-
+```
 Time Limit: 1 sec
 ### Sample Input 1:
+```
 3
 5 
 2
 1
+```
 ### Sample Output 1:
+```
 11
 3
 2
+```
 ### Explanation For Sample Input 1:
 For the first query, the prime numbers are [2, 3, 5, 7, 11]
 
@@ -41,7 +46,9 @@ For the second query, the prime numbers are [2, 3]
 
 For the third query, the prime number is [2]
 ### Sample Input 2:
+```
 3
 46
 20
 13
+```
