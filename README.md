@@ -19,7 +19,7 @@
 
 ## Problems Solved (till date)
 
-- Practice Problems -> 31 
+- Practice Problems -> 33 
 - HackerRank -> 14 
 - LeetCode -> 6 
 - Imocha -> 7 
@@ -209,18 +209,26 @@
 
 ## Day 16 (6/20)
 
-- Trees
+- [Trees](./Day16/README.md#trees)
   - Trees - What and Why
   - Tree Example
   - Logical Respresentation of Tree
-  - Tree Terminologies
-- Binary Tree and its Types
-- Binary Search Tree
+- [Tree Terminologies](./Day16/README.md#tree-terminologies)
+- [Binary Tree and its Types](./Day16/README.md#binary-tree)
+- [Binary Search Tree](./Day16/README.md#binary-search-tree)
   - Insertion of a node in an Tree
   - Pre Order, Post Order and In Order Traversal
   - Height or Depth of the Tree
-- AVL Tree (and its Rotations)
-- Graph Travesal - BFS and DFS Implementation 
-- Problems - 4
-- Search a Node in BST
+- [AVL Tree (and its Rotations)](./Day16/README.md#avl-tree-and-its-rotations)
+- [Graph Traversal - BFS and DFS Implementation](./Day16/README.md#graph-travesal---bfs-and-dfs-implementation)
+- [Practice Problems - 2](./Day16/README.md#practice-problems)
+- [InftQ Problems - 2](./Day16/README.md#inftq-problems)
+- [Search a Node in BST](./Day16/README.md#search-a-node-in-bst)
 - Click [here](./Day16) to see the content 
+
+## Day 17 (6/21)
+
+- Greedy Algorithms
+- Kruskal Algorithm
+- Dijkstra's Algorithms
+- Click [here](./Day17) to see the content 
