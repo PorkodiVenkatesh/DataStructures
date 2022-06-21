@@ -16,6 +16,7 @@
 - [Day 14 (6/9)](#day-14-68)
 - [Day 15 (6/10)](#day-15-69)
 - [Day 16 (6/20)](#day-16-620)
+- [Day 17 (6/21)](#day-17-621)
 
 ## Problems Solved (till date)
 
@@ -228,7 +229,7 @@
 
 ## Day 17 (6/21)
 
-- Greedy Algorithms
-- Kruskal Algorithm
-- Dijkstra's Algorithms
+- [Greedy Algorithms](./Day17/README.md#greedy-algorithms)
+- [Kruskal's Algorithm](./Day17/README.md#kruskals-algorithm)
+- [Dijkstra's Algorithms](./Day17/README.md#dijkstras-algorithm)
 - Click [here](./Day17) to see the content 
