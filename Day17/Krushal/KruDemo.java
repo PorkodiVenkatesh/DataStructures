@@ -40,6 +40,8 @@ public class KruDemo {
 		for ( Edge e : g.edges) {
 			System.out.println(e.src + " ---- " + e.dest + " = " + e.weight);
 		}
+		
+		UnionFind.findMST(g);
 
 	}
 
