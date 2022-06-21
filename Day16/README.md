@@ -81,7 +81,7 @@
 ## InftQ Problems
 
 1. [Digital OTP]([./](https://github.com/PorkodiVenkatesh/DataStructures/blob/main/InftQProblems/)InftQPrb19.md) - Click [here](./DigitalOTP.java) to see the solution 
-2. [Sum of fators](https://github.com/PorkodiVenkatesh/DataStructures/blob/main/InftQProblems/InftQPrb11.md) - Click [here](./SumOfFactors.java) to see the solution 
+2. [Sum of factors](https://github.com/PorkodiVenkatesh/DataStructures/blob/main/InftQProblems/InftQPrb11.md) - Click [here](./SumOfFactors.java) to see the solution 
 
 ## Search a Node in BST
 
