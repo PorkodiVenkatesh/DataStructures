@@ -70,5 +70,34 @@ public class BinarySearchTree {
 		
 		return Math.max(leftHeight, rightHeight);
 	}
+	
+/*
+ * Given a BST, write an efficient function to search a given key in it. 
+ * The algorithm should return the parent node of the key and
+ *  print if the key is the left or right node of the parent node.
+ *   If the key is not present in the BST, 
+ * the algorithm should be able to determine that.	
+ */
+	public static void search(Node root, int key, Node parent) {
+		if(root == null) {
+			System.out.println("key Not Found");
+			return;
+		}else {
+			if (key < root.data) {
+				search(root.left, key, root);
+			}
+			else if(key > root.data){
+				search(root.right, key, root);
+			}else {
+				if(parent == null) {
+					System.out.println("key is the root node");
+				} else if (key < parent.data) {
+					System.out.println("key is in the left of " + parent.data);
+				} else {
+					System.out.println("key is in the right of " + parent.data);
+				}
+			}
+		}
+	}
 
 }
