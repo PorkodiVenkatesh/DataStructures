@@ -45,7 +45,7 @@
 - Binary Search Tree can have 2 children for each element.
     - The left subtree of a node contains only nodes with keys lesser than the node’s key.
     - The right subtree of a node contains only nodes with keys greater than the node’s key.
-- BST Implementation - Click [here](./Day16/BST) to see the code
+- **BST Implementation - Click [here](./Day16/BST) to see the code**
   - Insertion of a node in an Tree
   - Pre Order, Post Order and In Order Traversal
   - Height or Depth of the Tree
@@ -112,6 +112,7 @@ public static void search(Node root, int key, Node parent) {
 		}
 	}
 ```
+### Click [here](./Day16/BST) to see the full code
 
 ## Binary Tree Practice Problem
 
