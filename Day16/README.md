@@ -114,6 +114,3 @@ public static void search(Node root, int key, Node parent) {
 ```
 ### Click [here](./Day16/BST) to see the full code
 
-## Binary Search Tree Practice Problem
-
-- You can try also problems in this site - [Techie Delight - Medium](https://medium.com/techie-delight/binary-search-tree-bst-practice-problems-and-interview-questions-ea13a6731098)
