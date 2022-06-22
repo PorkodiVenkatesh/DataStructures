@@ -34,9 +34,9 @@ trdt ftdgh
 
 **Explanation**
 
-Finding sum of squares of every digits of first pair _2*2+4*4+6*6=56_ which is even so rotate rhdt left by 1 position so after rotating by one position so it will become trhd.
+Finding sum of squares of every digits of first pair 2*2+4*4+6*6=56 which is even so rotate rhdt left by 1 position so after rotating by one position so it will become trhd.
 
-Finding sum of squares of every digits of second pair _1*1+2*2+4*4+6*6=57_ which is odd then rotate ghftd right by 2 position so it will become ftdgh.
+Finding sum of squares of every digits of second pair 1*1+2*2+4*4+6*6=57 which is odd then rotate ghftd right by 2 position so it will become ftdgh.
 
 Hence output will be trhd ftdgh.
 
