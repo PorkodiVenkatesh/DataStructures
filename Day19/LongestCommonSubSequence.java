@@ -35,6 +35,32 @@ public class LongestCommonSubSequence {
 		
 		int length = table[n][m];
 		System.out.println(length);
+		
+		String lcs = "";
+		int i = n, j = m;
+		while (i >0 && j >0) {
+			if (s1.charAt(i-1) == s2.charAt(j-1)) {
+				// it should be added in the front
+				lcs = s1.charAt(i -1) + lcs;
+				//making it to move diagonal
+				i--;
+				j--;
+			}else if ( table[i-1][j] > table[i][j-1]) {
+				// if table[i-1][j] is greater/max, that is an element above row same cols
+				// making i to decrement 
+				// so its goes to above row
+				i--;
+			}else {
+				//if table[i][j-1] is greater/max, that is an element in same row previous cols
+				// making j to decrement
+				//so its goes to the previous col
+				j--;
+			}
+		}
+		
+		System.out.println(lcs);
 
 	}
+	
+
 }
