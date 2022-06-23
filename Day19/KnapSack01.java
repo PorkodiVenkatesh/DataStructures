@@ -1,5 +1,6 @@
 package DP.knapSack;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class KnapSack01 {
@@ -81,6 +82,28 @@ public class KnapSack01 {
 		
 		int max = table[n][capacity];
 		System.out.println(max);
+		
+		int included[] = new int[n];
+		int W = capacity;
+		int remProfit = max;
+		
+		for (int i = n ; i> 0 && remProfit > 0; i--) {
+			//comparing with the previous rows
+			//if its same
+			//then moving a step up
+			if (remProfit == table[i-1][W]) {
+				continue;
+			}
+			else {
+				// including that item and reducing its value and weight from the maxValue and Capacity
+				int index = i-1;
+				included[index] = 1;
+				remProfit = remProfit - value[index];
+				W = W - weight[index];
+			}
+		}
+	System.out.println(Arrays.toString(included));
+		
 	}
 
 }
