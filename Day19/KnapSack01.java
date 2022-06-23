@@ -19,9 +19,7 @@ public class KnapSack01 {
 		
 		System.out.println("Enter the weight and value for " + n + " items:");
 		for(int i = 0; i < n ; i++) {
-			System.out.println("Enter the weight for " + i + " th item:");
 			weight[i] = sc.nextInt();
-			System.out.println("Enter the value for " + i + " th item:");
 			value[i] = sc.nextInt();
 		}
 		
@@ -70,7 +68,7 @@ public class KnapSack01 {
 				int x = table[i-1][j];
 				int y = 0;
 				
-				if (j > weight[index]) {
+				if (j >= weight[index]) {
 					y = value[index] + table[i-1][j-weight[index]];
 				}
 				
