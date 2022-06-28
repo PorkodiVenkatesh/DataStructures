@@ -16,7 +16,7 @@
 - Click [here](./Day18/QuickSort.java) to see the code implementation of qucik sort
 - Click [here](./Day18/DivideAndConquerPPT.pdf) to see the content in the PPT
 
-# What KinWhat kind of sorting algorithm used in Arrays.sort() and Collection.sort()
+# What kind of sorting algorithm used in Arrays.sort() and Collection.sort()
 
 
 # Dynamic Programming
