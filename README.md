@@ -241,6 +241,7 @@
 
 - [Divide and Conquer](./Day18/README.md#divide-and-conquer)
 - [QuickSort](./Day18/README.md#quick-sort)
+- [What kind of sorting algorithm used in Arrays.sort() and Collection.sort()](./Day18/README.md#what-kind-of-sorting-algorithm-used-in-arrayssort-and-collectionsort)
 - [Dynamic Programming](./Day18/README.md#dynamic-programming)
 - [Fibonacci Series](./Day18/README.md#fibonacci-series)
 - Click [here](./Day18) to see the content 
