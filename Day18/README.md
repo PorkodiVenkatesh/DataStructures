@@ -18,7 +18,14 @@
 
 # What kind of sorting algorithm used in Arrays.sort() and Collection.sort()
 
+Internally, JDK uses 
+- Dual Pivot Quick Sort for primitive arrays
+- TimSort for Object[] arrays
+
+Learn more about - [Dual Pivot QuickSort](https://www.geeksforgeeks.org/dual-pivot-quicksort/) and [Tim Sort](https://www.geeksforgeeks.org/timsort/)
 
 # Dynamic Programming
+
+
 
 # Fibonacci Series
