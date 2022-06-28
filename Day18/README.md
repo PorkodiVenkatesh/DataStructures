@@ -40,7 +40,7 @@ Learn more about - [Dual Pivot QuickSort](https://www.geeksforgeeks.org/dual-piv
 - Fibonacci Series using botto up Approach -  Click [here](/Day18/Fibonacci/BottomUp.java) to see the implementation code
 - What is the difference between solving Fibonaci series using Recursion and DP
 
-# Infosys Problems
+# InfTQ Problems
 
 1. [String Rotation](https://github.com/PorkodiVenkatesh/DataStructures/blob/main/InftQProblems/InftQPrb6.md) - Click [here](./StringRotation.java) to see the solution
 2. [Nearest Greatest Palindrome](https://github.com/PorkodiVenkatesh/DataStructures/blob/main/InftQProblems/InftQPrb10.md) - Click [here](./NearGreatPalin.java) to see the solution
