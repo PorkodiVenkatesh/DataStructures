@@ -244,6 +244,7 @@
 - [What kind of sorting algorithm used in Arrays.sort() and Collection.sort()](./Day18/README.md#what-kind-of-sorting-algorithm-used-in-arrayssort-and-collectionsort)
 - [Dynamic Programming](./Day18/README.md#dynamic-programming)
 - [Fibonacci Series](./Day18/README.md#fibonacci-series)
+- [InftQ Problems - 2](./Day18/README.md#inftq-problems)
 - Click [here](./Day18) to see the content 
 
 ## Day 19 (6/23)
