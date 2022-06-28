@@ -233,3 +233,9 @@
 - [Kruskal's Algorithm](./Day17/README.md#kruskals-algorithm)
 - [Dijkstra's Algorithms](./Day17/README.md#dijkstras-algorithm)
 - Click [here](./Day17) to see the content 
+
+## Day 18 (6/22)
+
+## Day 19 (6/23)
+
+## Day 20 (6/24)
