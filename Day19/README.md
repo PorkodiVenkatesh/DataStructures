@@ -19,4 +19,4 @@
 - What is the formula you use to fill the table
 - Implementation code - [here](./LongestCommonSubSequence.java)
 
-Note: In this implementation code, enter s1 as a string which has smaller length, s2 which as greater length
+> Note: In this implementation code, enter s1 as a string which has smaller length, s2 which as greater length
