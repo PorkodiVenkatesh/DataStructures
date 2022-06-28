@@ -26,6 +26,16 @@ Learn more about - [Dual Pivot QuickSort](https://www.geeksforgeeks.org/dual-piv
 
 # Dynamic Programming
 
+- What is it
+- What are the properities of DP
+- When I go for DP
+- What are approaches in DP
 
+### Click [here](./Day18/DynamicProgrammingPPT.pdf) to see the content in the PPT
 
 # Fibonacci Series
+
+- Why I can use DP for Fibonacci Series
+- Fibonacci Series using Top down Approach -  Click [here](/Day18/Fibonacci/TopDown.java) to see the implementation code
+- Fibonacci Series using botto up Approach -  Click [here](/Day18/Fibonacci/BottomUp.java) to see the implementation code
+- What is the difference between solving Fibonaci series using Recursion and DP
