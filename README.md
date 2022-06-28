@@ -239,6 +239,7 @@
 
 ## Day 18 (6/22)
 
+- [Divide and Conquer](./Day18/README.md#divide-and-conquer)
 - [QuickSort](./Day18/README.md#quick-sort)
 - [Dynamic Programming](./Day18/README.md#dynamic-programming)
 - [Fibonacci Series](./Day18/README.md#fibonacci-series)
