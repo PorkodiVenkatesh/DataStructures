@@ -249,4 +249,12 @@
 
 ## Day 19 (6/23)
 
+- [0/1 Knapsack Problem](./Day19#01-knapsack-problem)
+- [Longest Common SubSequence](./Day19#longest-common-subsequence-lcs)
+- Click [here](./Day19) to see the content 
+
 ## Day 20 (6/24)
+
+- [Coin Change Problem](./Day20#coin-change-problem)
+- [Travelling Salesman Problem](./Day20#travelling-salesman-problem)
+- Click [here](./Day20) to see the content 
