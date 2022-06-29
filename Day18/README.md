@@ -6,7 +6,7 @@
 - is binary Search follows divide and conquer
 - Decrease and conquer
 
-### Click [here](./Day18/DivideAndConquerPPT.pdf) to see the content in the PPT
+### Click [here](./DivideAndConquerPPT.pdf) to see the content in the PPT
 
 # Quick Sort
 
