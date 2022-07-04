@@ -32,7 +32,39 @@ public class GraphTraversalDemo {
 			}
 		}
 	
-		//priniting the visited list to get the order
+		//printing the visited list to get the order
+		for (Integer vertex : visited) {
+			System.out.println(vertex);
+		}
+	}
+
+	public static void dfs(int[][] graph, int V, int startVertex) {
+
+		ArrayList<Integer> visited = new ArrayList<>();
+		Stack<Integer> adjStack = new Stack<>();
+
+		// Step 1 - Push Start Vertex to the stack
+		adjStack.push(startVertex);
+
+		// Step 2 - Take the Vertex in the top of the stack
+		// Step 2.1 - Pop it from the top of the stack and Add it in the Visited List
+		// Step 2.2 - Push all the vertex's adjacent to the stack, if the adjancents
+		// aren't in the visited list.
+
+		// Step 3. Keep repeating steps 2 until the stack is empty and all the vertex
+		// are visitied
+		while (visited.size() < V) { // && adjStack.isEmpty() == false
+			// repeat until visited
+			// stack has elements
+			int vertex = adjStack.pop(); // pops the top element and returns the popped element
+			visited.add(vertex);
+			for (int i = 0; i < V; i++) {
+				if (graph[vertex][i] != 0 && visited.contains(i) == false && adjStack.contains(i) == false) {
+					adjStack.push(i); // i -> adjancent vertex
+				}
+			}
+		}
+		// priniting the visited list to get the order
 		for (Integer vertex : visited) {
 			System.out.println(vertex);
 		}
@@ -46,9 +78,12 @@ public class GraphTraversalDemo {
 		// no of vertices in the graph -> V
 		int V = 6;
 		int startVertex = 0; // A
-		
+
 		System.out.println("Breadth First Search (BFS): ");
 		bfs(graph, V, startVertex);
+
+		System.out.println("Depth First Search (DFS): ");
+		dfs(graph, V, startVertex);
 	}
 
 }
