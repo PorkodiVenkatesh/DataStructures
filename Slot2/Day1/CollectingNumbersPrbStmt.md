@@ -1,9 +1,9 @@
 ## Collecting Numbers II
-You are given an array that contains each number between 1…n1…n exactly once. Your task is to collect the numbers from 11 to nn in increasing order.
+You are given an array that contains each number between 1…n1…n exactly once. Your task is to collect the numbers from 1 to n in increasing order.
 
 On each round, you go through the array from left to right and collect as many numbers as possible.
 
-Given mm operations that swap two numbers in the array, your task is to report the number of rounds after each operation.
+Given m operations that swap two numbers in the array, your task is to report the number of rounds after each operation.
 
 ### Input
 
