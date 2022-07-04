@@ -23,6 +23,9 @@ public class BSTDemo {
 		}
 		System.out.println("Insertion done!!");
 		
+		System.out.println("PreOrder Traversal");
+		BinarySearchTree.preOrder(rootNode);
+		
 	}
 
 }

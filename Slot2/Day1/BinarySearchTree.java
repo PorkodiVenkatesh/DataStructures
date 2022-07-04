@@ -22,5 +22,16 @@ public class BinarySearchTree {
 			}			
 		}
 	}
+	
+	public static void preOrder(Node rootNode) {
+		 if (rootNode == null) {
+			return; // when my rootNode is null
+		 }
+		 System.out.println(rootNode.data); // visting the root
+		 
+		 preOrder(rootNode.left); // visit all the left
+		 
+		 preOrder(rootNode.right); //visit all the right
+	}
 
 }
