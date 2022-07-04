@@ -1,5 +1,5 @@
 ## Collecting Numbers II
-You are given an array that contains each number between 1…n1…n exactly once. Your task is to collect the numbers from 1 to n in increasing order.
+You are given an array that contains each number between 1…n1…n exactly once. Your task is to collect the numbers from 1 to nn in increasing order.
 
 On each round, you go through the array from left to right and collect as many numbers as possible.
 
