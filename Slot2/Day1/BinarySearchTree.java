@@ -33,5 +33,30 @@ public class BinarySearchTree {
 		 
 		 preOrder(rootNode.right); //visit all the right
 	}
+	
+	
+	public static void postOrder(Node rootNode) {
+		if (rootNode == null) {
+			return; // when my rootNode is null
+		 }
+		postOrder(rootNode.left); //visit left
+		
+		postOrder(rootNode.right); //visit right
+		
+		System.out.println(rootNode.data); //visit the root
+	}
+	
+	public static void inOrder(Node rootNode) {
+		if (rootNode == null) {
+			return; // when my rootNode is null
+		 }
+		inOrder(rootNode.left); //visit left
+		
+		System.out.println(rootNode.data); //visit the root
+		
+		inOrder(rootNode.right); //visit right
+		
+		
+	}
 
 }

@@ -26,6 +26,12 @@ public class BSTDemo {
 		System.out.println("PreOrder Traversal");
 		BinarySearchTree.preOrder(rootNode);
 		
+		System.out.println("PostOrder Traversal");
+		BinarySearchTree.postOrder(rootNode);
+		
+		System.out.println("InOrder Traversal");
+		BinarySearchTree.inOrder(rootNode);
+		
 	}
 
 }
