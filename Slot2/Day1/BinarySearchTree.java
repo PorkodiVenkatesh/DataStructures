@@ -58,5 +58,19 @@ public class BinarySearchTree {
 		
 		
 	}
+	
+	public static int findHeight(Node rootNode) {
+		int lh = 0; // no left child
+		int rh = 0; // no right child
+		
+		if (rootNode.left != null) { // 1 -> Traversing that one edge
+			lh = 1 + findHeight(rootNode.left);
+		}
+		if(rootNode.right != null) {
+			rh = 1 + findHeight(rootNode.right);
+		}
+		
+		return Math.max(lh, rh); // then we  get the height from the deepest leaf node
+	}
 
 }
