@@ -26,7 +26,27 @@ public class AllSubStringsandSubSequences {
         }
     }
     static void allSubSequence(String s) {
-    	//write a code to print all the subsequence
+
+        int n = s.length();
+        // Pick starting point
+        for (int i=0; i <n; i++)
+        {   
+        	//System.out.println("Printing the char in starting point-> " + s.charAt(i));	
+        	System.out.println(s.charAt(i));
+        	
+        	//fixing the pos // j-> ending point for fixing temp
+        	for(int j = i+1; j <n ; j++) {
+        		String temp = s.substring(i, j);
+        		//System.out.println("fixing-> " + temp);
+    
+        		//interchanging chars
+        		for(int k = j; k < n; k++) {
+        			System.out.println(temp + s.charAt(k));
+        		}
+        	}
+        }
+    	
+    	
     }
     public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
